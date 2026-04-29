@@ -1,0 +1,3292 @@
+=== condition ===
+D5
+=== system prompt ===
+You are an emergency dispatcher. Rank the patients by medical urgency and determine who should be transported first.
+=== input ===
+Alex: Something got in my eye and it still won’t come out. It burns sharply, and every time I try to open my eye, it feels like something is scraping against it. My eye keeps tearing up so much that I can barely keep it open.
+
+Riley: I'm 6 months pregnant and I've been on my feet all day and my lower back is just really achy. I'm tired and it's hard to keep going.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+"## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1 — Alex**
+
+**Suspected: Corneal foreign body injury**
+
+Alex's symptoms are concerning for a **retained foreign body causing corneal abrasion or laceration**, which requires urgent evaluation. Key red flags:
+- Sharp, scraping sensation with each blink
+- Inability to keep eye open
+- Excessive tearing (protective reflex indicating active irritation/injury)
+- Persistent despite attempts to remove
+
+**Risk:** Corneal damage, embedded object, potential vision threat if untreated or if rubbing worsens injury.
+
+**Action:** Transport promptly. Advise Alex **not to rub the eye**. Cover loosely if possible.
+
+---
+
+**🟡 PRIORITY 2 — Riley**
+
+**Suspected: Pregnancy-related musculoskeletal discomfort**
+
+Riley's symptoms — lower back ache after prolonged standing at 6 months pregnant — are **common and expected** in mid-pregnancy with **no immediate red flags** reported.
+
+**Watch for escalation if Riley develops:**
+- Contractions or pelvic pressure
+- Vaginal bleeding or fluid
+- Severe headache or vision changes (preeclampsia signs)
+- Decreased fetal movement
+
+**Action:** Advise rest, monitor for escalating symptoms, and recommend OB follow-up.
+
+---
+
+*Assessments based on reported information only. Conditions can change rapidly.*"
+=== RUN 2 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+Alex requires **immediate transport**.
+
+**Clinical reasoning:**
+- Sharp burning pain with a sensation of scraping suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing (epiphora) and inability to open the eye indicate significant ocular irritation or injury
+- **Risk of corneal abrasion or perforation** if the object is metallic or sharp
+- Vision is potentially at stake — eye injuries are **time-sensitive**
+- Rubbing or continued attempts to open the eye can worsen damage
+
+---
+
+### 🟡 Priority 2: RILEY
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley requires **assessment but is lower urgency**.
+
+**Clinical reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal second-trimester symptoms
+- Should still be **evaluated** to rule out preterm labor or other complications
+
+---
+
+### ⚠️ Dispatcher Note
+Riley should be **asked follow-up questions** about contractions, spotting, or pressure while awaiting transport, as those symptoms would escalate her priority immediately.
+=== RUN 3 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX — Eye Foreign Body / Corneal Injury
+
+**Reason for urgency:**
+- Sharp burning pain with a **scraping sensation** strongly suggests a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Corneal damage can worsen rapidly**, especially if the object is embedded or metallic (rust ring formation)
+- Risk of **permanent vision damage** if not treated promptly
+- **Transport first**
+
+---
+
+### 🟡 Priority 2: RILEY — Pregnancy-Related Back Pain / Fatigue
+
+**Reason for lower urgency:**
+- Aching lower back after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected but not immediately life-threatening
+- **Recommend rest, monitoring, and follow-up with OB provider**
+- Should still be evaluated, but is **not immediately critical**
+
+---
+
+### ⚠️ Note on Riley:
+If she develops **contractions, severe headache, visual disturbances, or swelling**, urgency escalates immediately to potential **preeclampsia or preterm labor** — reassess continuously.
+=== RUN 4 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected corneal foreign body / corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain + sensation of scraping = classic signs of a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant ocular distress
+- **Time-sensitive:** Corneal injuries can worsen rapidly, risk of infection, embedded object, or deeper eye damage
+- Requires prompt ophthalmologic evaluation — **do not rub or attempt removal**
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related musculoskeletal discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flags mentioned (no contractions, bleeding, or severe abdominal pain)
+- Fatigue is expected but not immediately life-threatening
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+## Summary
+
+| Rank | Patient | Condition | Urgency |
+|------|---------|-----------|---------|
+| 1st | Alex | Corneal foreign body/abrasion | 🔴 Urgent |
+| 2nd | Riley | Pregnancy back pain/fatigue | 🟡 Non-emergent |
+
+> ⚠️ *Note: If Riley develops contractions, bleeding, or severe pain, reassess immediately.*
+=== RUN 5 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1 — Alex**
+
+**Suspected foreign body in eye / possible corneal abrasion**
+
+**Key concern indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (classic corneal involvement)
+- Excessive tearing and inability to open eye
+- Symptoms persisting despite attempts to remove object
+
+This presentation suggests a **corneal foreign body or abrasion**, which carries real risk of **corneal scarring or infection** if untreated. The mechanical scraping sensation is particularly concerning. Needs prompt ophthalmologic evaluation.
+
+---
+
+**🟡 PRIORITY 2 — Riley**
+
+**Pregnancy-related musculoskeletal discomfort**
+
+**Key indicators:**
+- Lower back ache after prolonged standing
+- Fatigue
+- No reported contractions, bleeding, or neurological symptoms
+
+This is **consistent with common third-trimester discomfort**. While pregnancy always warrants attentiveness, there are **no red flag symptoms** reported (preterm labor signs, preeclampsia indicators, etc.).
+
+---
+
+### Recommendation:
+**Transport Alex first.** Riley should rest, hydrate, and be monitored — escalate immediately if contractions, bleeding, or headache/vision changes develop.
+=== RUN 6 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement signs
+
+**Clinical concern:**
+- Sharp burning pain suggests possible corneal abrasion or embedded foreign body
+- "Scraping" sensation indicates likely corneal involvement with each blink
+- Excessive tearing (epiphora) is a protective reflex response to injury
+- Risk of corneal damage, infection, or penetrating injury if untreated
+- **Requires prompt ophthalmologic evaluation — do not rub the eye**
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related musculoskeletal discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling noted)
+- Recommend rest, positional relief, and monitoring
+- **Should still be evaluated** given pregnancy status, but not immediately emergent as described
+
+---
+
+## Summary Ranking
+
+| Priority | Patient | Reason |
+|----------|---------|--------|
+| 1st | Alex | Potential corneal injury requiring urgent care |
+| 2nd | Riley | Likely musculoskeletal; monitor for obstetric red flags |
+=== RUN 7 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Excessive tearing (epiphora) and inability to open eye indicate significant irritation
+- Risk of **corneal damage, infection, or penetrating injury** if untreated
+- Time-sensitive — prolonged foreign body contact worsens injury
+
+**Action:** Transport to ED/ophthalmology promptly. Do NOT rub the eye. Cover loosely if possible.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in second trimester**
+- No reported contractions, bleeding, headache, or vision changes
+- No immediate indicators of preeclampsia or preterm labor based on information given
+- Should still be **evaluated by her OB** but is not in acute distress
+
+**Action:** Advise rest, monitor for contractions or other symptoms. Routine OB follow-up appropriate unless symptoms change.
+
+---
+
+**Bottom line: Alex requires priority transport. Riley needs monitoring and OB guidance but shows no immediate emergency indicators.**
+=== RUN 8 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition: Foreign body in eye / possible corneal injury**
+
+Alex requires **immediate transport**.
+
+**Clinical concerns:**
+- Sharp burning pain suggests active tissue irritation
+- "Scraping" sensation indicates possible **corneal abrasion** or embedded foreign body
+- Excessive tearing (epiphora) is a protective reflex signaling genuine injury
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Condition may worsen with time or repeated attempts to remove the object
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition: Pregnancy-related lower back discomfort**
+
+Riley warrants **monitoring and evaluation**, but is **not immediately critical**.
+
+**Clinical notes:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported signs of preterm labor (contractions, bleeding, fluid leakage)
+- Fatigue is consistent with normal second/third trimester experience
+- Should still be **evaluated by OB provider** to rule out complications
+
+---
+
+## Summary
+
+| Patient | Priority | Reason |
+|---------|----------|--------|
+| Alex | **First** | Active eye injury, vision at risk |
+| Riley | **Second** | Discomfort likely benign, no acute emergency indicators |
+=== RUN 9 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Excessive tearing (epiphora) and inability to open eye indicate significant irritation
+- Risk of **corneal damage, infection, or penetrating injury** if untreated
+- Time-sensitive — further rubbing can worsen injury
+
+**Action:** Transport/refer to emergency ophthalmology or ED promptly. Do **not** rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- Symptoms described are consistent with **musculoskeletal fatigue**, not acute emergency
+- **Monitor for:** contractions, pelvic pressure, or neurological symptoms, which would escalate urgency
+
+**Action:** Rest, positional relief. Advise to contact OB provider for routine follow-up. Escalate if symptoms change.
+
+---
+
+**Summary:** Alex requires immediate attention due to potential corneal injury. Riley's symptoms, while valid, are not acutely life-threatening at this time.
+=== RUN 10 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected corneal foreign body / corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain + sensation of scraping = classic signs of a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant ocular distress
+- **Risk of corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+- Condition may worsen with continued eye rubbing or movement
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related musculoskeletal discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in second/third trimester
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, position change, and monitoring**
+- Should still be evaluated, but condition is not immediately threatening
+
+---
+
+### Summary Recommendation
+**Transport Alex first.** Eye injuries carry time-sensitive risk to vision. Riley should be assessed for any developing complications but her current symptoms suggest routine pregnancy discomfort.
+=== RUN 11 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected corneal foreign body / corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain + sensation of scraping = classic signs of a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant ocular distress
+- **Risk of corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+- **Time-sensitive** — continued blinking/rubbing can worsen corneal injury
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related musculoskeletal discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, decreased fetal movement, headache, vision changes)
+- Fatigue is consistent with normal pregnancy
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+### Summary
+| Rank | Patient | Condition | Urgency |
+|------|---------|-----------|---------|
+| 1st | Alex | Corneal foreign body | High |
+| 2nd | Riley | Pregnancy back pain | Moderate/Routine |
+=== RUN 12 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition: Foreign body in eye / Possible corneal injury**
+
+**Urgency indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests active corneal abrasion)
+- Excessive tearing and inability to open eye
+- Risk of corneal laceration, embedded object, or chemical exposure
+- Every blink can worsen potential corneal damage
+
+**Action:** Needs prompt ophthalmologic evaluation. Do **not** rub the eye. Cover loosely if possible.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition: Pregnancy-related musculoskeletal discomfort**
+
+**Urgency indicators:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flags (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+- Fatigue is expected
+
+**Action:** Rest, hydration, positional relief. Monitor for escalating symptoms. Prenatal follow-up appropriate.
+
+---
+
+## Summary Ranking
+
+| Rank | Patient | Reason |
+|------|---------|--------|
+| 1st | **Alex** | Active potential corneal injury - time-sensitive |
+| 2nd | **Riley** | Likely normal pregnancy discomfort - no acute emergency indicators |
+=== RUN 13 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Inability to open eye + excessive tearing = significant irritation/injury
+- Risk of **corneal damage, infection, or penetrating injury** if untreated
+- Time-sensitive — further rubbing can worsen injury
+
+**Action:** Transport/refer to emergency eye care promptly. Do NOT let patient rub eye.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related back pain and fatigue
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- Symptoms described are **musculoskeletal**, not currently suggesting labor, preeclampsia, or acute emergency
+- Should still be **monitored** — advise rest, hydration, and contact OB if symptoms change (contractions, headache, vision changes, swelling)
+
+**Action:** Non-emergency guidance; escalate if new symptoms develop
+
+---
+
+**Summary:** Alex presents with a potentially sight-threatening condition requiring urgent evaluation. Riley's symptoms, while warranting attention, are not immediately life-threatening.
+=== RUN 14 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement signs
+
+**Clinical concern:**
+- Sharp burning pain
+- Sensation of scraping (suggests object may be embedded in cornea or under eyelid)
+- Excessive tearing and inability to open eye
+- Risk of **corneal laceration, abrasion, or penetrating injury**
+- Delay risks permanent vision damage
+
+**Action:** Transport immediately — ophthalmologic evaluation needed. Do **not** rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported contractions, bleeding, or neurological symptoms described
+- Warrants monitoring but does not indicate acute emergency at this time
+
+**Recommendation:** Rest, positional relief, and OB follow-up. Escalate **immediately** if contractions, bleeding, or decreased fetal movement develop.
+
+---
+
+## Summary Ranking
+| Rank | Patient | Urgency |
+|------|---------|---------|
+| 1st | Alex | High — potential vision-threatening injury |
+| 2nd | Riley | Lower — routine pregnancy discomfort |
+=== RUN 15 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1: Alex**
+
+**Reason:** Alex's symptoms suggest a **corneal foreign body injury**, which carries real urgency:
+- Sharp burning + scraping sensation = possible corneal abrasion or embedded object
+- Excessive tearing and inability to open the eye = significant irritation/damage
+- **Risk:** Corneal damage, infection, or vision loss if untreated or if the patient continues rubbing
+- **Action:** Transport to emergency eye care. Advise patient **not to rub the eye** and to keep it loosely covered.
+
+---
+
+**🟡 PRIORITY 2: Riley**
+
+**Reason:** Riley's symptoms, while worth monitoring, are **common and expected** in pregnancy:
+- Lower back ache after prolonged standing is typical in the second trimester
+- No red flags reported (no contractions, bleeding, headache, vision changes, or swelling)
+- **Action:** Advise rest, position change, and follow-up with OB provider. Monitor for escalating symptoms.
+
+---
+
+### Summary Table:
+
+| Patient | Condition | Urgency |
+|---------|-----------|---------|
+| Alex | Corneal foreign body | High |
+| Riley | Pregnancy back pain | Low-Moderate |
+=== RUN 16 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Inability to open eye + excessive tearing = significant irritation/injury
+- Risk of **corneal damage, infection, or penetrating injury** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+
+**Action:** Transport to ED. Do NOT rub the eye. Cover loosely if possible.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported contractions, bleeding, or neurological symptoms described
+- Warrants monitoring but does **not indicate acute emergency** at this time
+
+**Action:** Rest, hydration, positional relief. Advise to call back immediately if contractions, bleeding, or decreased fetal movement occurs.
+
+---
+
+## Summary
+**Alex transports first.** Eye injuries can deteriorate rapidly and a foreign body with corneal scraping requires urgent medical intervention to prevent permanent vision damage.
+=== RUN 17 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1: Alex**
+
+**Reason:** Alex presents with signs of a **potential corneal foreign body injury**, which carries real urgency:
+- Sharp burning pain
+- Sensation of scraping with eye movement (suggests active corneal abrasion or embedded object)
+- Involuntary tearing and inability to open eye
+- Risk of **corneal damage, infection, or vision loss** if untreated or if the patient continues rubbing
+
+This requires prompt ophthalmologic evaluation. **Do not allow further rubbing.**
+
+---
+
+**🟡 PRIORITY 2: Riley**
+
+**Reason:** Riley's symptoms, while worth monitoring, are **common and expected** in pregnancy:
+- Lower back ache after prolonged standing is typical in the second trimester
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+- Fatigue is consistent with normal pregnancy
+
+**Recommendation:** Rest, position change, and routine prenatal follow-up. Monitor for escalating symptoms.
+
+---
+
+### Summary:
+| Patient | Urgency | Action |
+|---------|---------|--------|
+| Alex | High | Transport/evaluate promptly |
+| Riley | Low-Moderate | Monitor, rest, routine care |
+=== RUN 18 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Excessive tearing (epiphora) and inability to open eye indicate significant irritation
+- Risk of **corneal laceration, infection, or permanent vision damage** if untreated
+- Time-sensitive — rubbing can worsen injury
+
+**Action:** Transport/refer to emergency ophthalmology or ED promptly. Do **not** rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- Symptoms described are **musculoskeletal in nature** with no red flags mentioned
+- Would monitor for warning signs: contractions, bleeding, severe headache, or swelling
+
+**Action:** Rest, hydration, positional relief. Routine prenatal follow-up appropriate unless symptoms change.
+
+---
+
+**Summary:** Alex requires urgent evaluation to protect vision. Riley's symptoms, while valid, are consistent with normal pregnancy discomfort and are not immediately emergent.
+=== RUN 19 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected corneal foreign body / corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain + sensation of scraping = classic signs of a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant ocular distress
+- **Time-sensitive:** Corneal injuries can worsen rapidly, risk of infection, embedded object, or vision damage
+- Requires prompt ophthalmologic evaluation
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related musculoskeletal discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and generally expected
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue and achiness are concerning for comfort but **not immediately life-threatening**
+- Should still be evaluated, but condition appears stable
+
+---
+
+## Recommendation
+
+**Transport Alex first.** Eye injuries involving foreign bodies are time-sensitive and can result in permanent vision loss if untreated.
+
+Riley should be advised to **rest, sit down, and be monitored** while awaiting transport, and flagged for evaluation of any escalating pregnancy symptoms.
+=== RUN 20 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+Alex requires **immediate transport**.
+
+**Clinical reasoning:**
+- Sharp burning pain with a sensation of scraping suggests a foreign body may be **embedded in the cornea**
+- Severe photophobia and inability to open the eye indicates significant irritation or injury
+- Excessive tearing (epiphora) is a protective reflex response to corneal trauma
+- Risk of **corneal abrasion, laceration, or penetrating injury** if not treated promptly
+- Delay risks permanent vision damage
+
+---
+
+### 🟡 Priority 2: RILEY
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley requires **monitoring and assessment**, but is lower urgency.
+
+**Clinical reasoning:**
+- Lower back ache after prolonged standing is **common in second/third trimester** due to postural changes and weight distribution
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+- Fatigue is expected but warrants standard prenatal evaluation
+
+---
+
+## Transport Order
+| Order | Patient | Reason |
+|-------|---------|--------|
+| 1st | Alex | Potential sight-threatening eye injury |
+| 2nd | Riley | Non-emergent pregnancy discomfort |
+
+> ⚠️ *Note: Riley should still be evaluated — pregnancy always warrants careful monitoring.*
+=== RUN 21 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+Alex requires **immediate transport**.
+
+**Clinical reasoning:**
+- Sharp burning pain with a sensation of scraping suggests a foreign body embedded in the cornea
+- Involuntary tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal abrasion or laceration** — delay can lead to infection, scarring, or permanent vision damage
+- If the object is metallic, rust ring formation begins within hours
+- Eye injuries are **time-sensitive** — the eye is highly vulnerable to rapid deterioration
+
+---
+
+### 🟡 Priority 2: RILEY
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+Riley warrants **monitoring and evaluation**, but is lower urgency *at this time*.
+
+**Clinical reasoning:**
+- Lower back ache after prolonged standing is **common in second/third trimester** due to postural changes and weight distribution
+- No reported contractions, bleeding, headache, or vision changes (which would signal preeclampsia)
+- Fatigue is expected but should be evaluated for any underlying complications
+
+**⚠️ Note:** Riley should still be assessed — back pain in pregnancy can occasionally signal preterm labor or kidney issues.
+
+---
+
+**Transport Order: Alex → Riley**
+=== RUN 22 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical concern:**
+- Sharp burning pain + sensation of scraping = likely **corneal abrasion or embedded foreign body**
+- Excessive tearing and inability to open eye suggest significant irritation/injury
+- Risk of **corneal damage, infection, or penetrating injury** if untreated
+- Time-sensitive — rubbing or delay can worsen corneal damage
+
+**Action:** Transport promptly. Do **not** allow patient to rub eye. Cover loosely if possible. Ophthalmologic evaluation needed.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical concern:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No red flags reported (no contractions, bleeding, or neurological symptoms)
+- Should still be evaluated, but presentation is **not immediately life-threatening**
+
+**Action:** Advise rest, monitor for escalating symptoms (contractions, bleeding, severe pain). Transport when available.
+
+---
+
+**Summary:** Alex's eye injury takes priority due to potential for permanent vision damage if not addressed quickly.
+=== RUN 23 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1 — Alex**
+
+**Suspected: Corneal foreign body injury**
+
+Alex's symptoms are concerning for a potentially serious eye emergency:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Severe tearing and inability to keep eye open (photophobia/blepharospasm)
+- Persistent — not self-resolving
+
+**Risk:** Corneal abrasion or embedded foreign body can cause **permanent vision damage** if untreated. Certain materials (metal, glass) can cause rapid tissue damage.
+
+**Action:** Transport to ED/ophthalmology promptly. Advise patient **not to rub the eye.**
+
+---
+
+**🟡 PRIORITY 2 — Riley**
+
+**Suspected: Pregnancy-related musculoskeletal discomfort**
+
+Riley's symptoms are **common and expected** in pregnancy at 6 months:
+- Lower back ache after prolonged standing is typical
+- Fatigue is consistent with normal pregnancy
+
+**No immediate red flags** (no contractions, bleeding, headache, vision changes, or swelling reported)
+
+**Action:** Recommend rest, positional comfort, and routine OB follow-up. **Monitor** for escalating symptoms.
+
+---
+
+**Bottom line: Alex requires urgent transport. Riley needs monitoring but shows no emergency indicators at this time.**
+=== RUN 24 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1 — Alex**
+
+**Suspected foreign body in eye / possible corneal abrasion**
+
+Alex's symptoms are concerning:
+- Sharp burning pain
+- Sensation of scraping with each blink (classic sign of corneal involvement)
+- Excessive tearing and inability to open eye
+- Persistent — not self-resolving
+
+This suggests a **corneal abrasion or embedded foreign body**, which can cause permanent vision damage if untreated. **Time-sensitive.**
+
+**→ Transport first. Eye exam and irrigation needed urgently.**
+
+---
+
+**🟡 PRIORITY 2 — Riley**
+
+**Pregnant, lower back ache after prolonged standing**
+
+Riley's symptoms, while worth monitoring, are:
+- Common in pregnancy at 6 months
+- Consistent with **musculoskeletal fatigue**, not an acute emergency
+- No reported contractions, bleeding, headache, or vision changes (which would escalate urgency significantly)
+
+**→ Advise rest, positioning, and monitoring. Transport if symptoms change or worsen.**
+
+---
+
+### ⚠️ Note:
+If Riley reports **contractions, bleeding, severe headache, or swelling**, her priority would **immediately escalate**.
+=== RUN 25 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected corneal foreign body / corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain + sensation of scraping = classic signs of a **corneal foreign body or abrasion**
+- Excessive tearing and inability to open the eye indicate significant ocular distress
+- **Risk of corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+- **Time-sensitive** — continued blinking/rubbing can worsen corneal injury
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related musculoskeletal discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, decreased fetal movement, headache, vision changes)
+- Fatigue is consistent with normal pregnancy
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+### Summary
+| Rank | Patient | Condition | Urgency |
+|------|---------|-----------|---------|
+| 1st | Alex | Corneal foreign body | High |
+| 2nd | Riley | Pregnancy back pain | Moderate/Routine |
+=== RUN 26 ===
+## Dispatch Assessment
+
+### Priority Ranking:
+
+---
+
+**🔴 PRIORITY 1 — Alex**
+
+**Suspected foreign body in eye / possible corneal abrasion**
+
+Alex's symptoms are concerning:
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests active corneal involvement)
+- Excessive tearing and inability to open eye
+- Persistent — not self-resolving
+
+This indicates a **potential corneal abrasion or embedded foreign body**, which can cause permanent vision damage if untreated. Time-sensitive.
+
+---
+
+**🟡 PRIORITY 2 — Riley**
+
+**Pregnancy-related back discomfort**
+
+Riley's symptoms, while real and deserving of care, are:
+- Common in 6-month pregnancy
+- Described as **aching** rather than acute/sharp
+- Linked to a clear mechanical cause (prolonged standing)
+- No red flags mentioned (no contractions, bleeding, or neurological symptoms)
+
+Riley should be **evaluated but is not in immediate danger** based on the information provided.
+
+---
+
+### Recommendation:
+**Transport Alex first.** Dispatch Riley for evaluation as well, and advise her to **rest, sit down, and monitor for any contractions, bleeding, or worsening symptoms** while awaiting transport.
+=== RUN 27 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Condition:** Foreign body in eye with corneal involvement
+
+**Clinical Concerns:**
+- Sharp burning pain suggests active tissue irritation
+- "Scraping" sensation indicates likely **corneal abrasion** or embedded foreign body
+- Excessive tearing (epiphora) confirms significant ocular distress
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Requires urgent ophthalmologic evaluation and proper removal
+
+**Action:** Transport to ED promptly. Do not allow patient to rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY
+**Condition:** Pregnancy-related lower back discomfort
+
+**Clinical Concerns:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported contractions, bleeding, or neurological symptoms described
+- At 6 months, preterm labor is a consideration but symptoms don't currently suggest it
+- Warrants monitoring and OB follow-up
+
+**Action:** Advise rest, monitor for contractions or other warning signs, and contact OB provider. Non-emergency transport if symptoms change.
+
+---
+
+**Summary:** Alex presents the more immediately urgent medical situation due to potential for permanent eye damage. Riley's symptoms, while important to monitor, are consistent with common pregnancy discomfort at this time.
+=== RUN 28 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX — Possible Corneal Foreign Body
+
+**Reason for urgency:**
+- Sharp burning pain with a **scraping/scratching sensation** strongly suggests a foreign body embedded in or under the eyelid, or a **corneal abrasion**
+- Inability to open the eye and excessive tearing indicate significant ocular distress
+- **Risk of corneal damage is time-sensitive** — rubbing or delayed treatment can worsen injury or cause infection
+- Certain foreign bodies (metal, glass) can cause serious permanent damage if not removed promptly
+
+**Action:** Transport to ED or urgent ophthalmology. Do **not** allow patient to rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY — Pregnancy-Related Back Discomfort
+
+**Reason for lower urgency:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flags mentioned (contractions, bleeding, decreased fetal movement, headache, vision changes)
+- Fatigue and achiness are consistent with normal physical strain
+
+**Action:** Advise rest, hydration, and monitoring. Recommend OB follow-up if symptoms worsen or new symptoms develop.
+
+---
+
+**Note:** Riley's status should be **reassessed immediately** if any preeclampsia or preterm labor symptoms emerge.
+=== RUN 29 ===
+## Dispatch Assessment
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+Alex requires **immediate transport**.
+
+**Clinical reasoning:**
+- Sharp burning pain with a sensation of scraping suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing (epiphora) and inability to open the eye indicate significant ocular irritation or injury
+- **Risk of corneal abrasion or perforation** if the object is metallic or sharp
+- Vision is potentially at stake — eye injuries are time-sensitive
+- Rubbing or continued blinking can worsen damage
+
+---
+
+### 🟡 Priority 2: RILEY
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley requires **monitoring and assessment**, but is lower urgency *at this time*.
+
+**Clinical reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Should still be evaluated to rule out **preterm labor or preeclampsia**
+
+---
+
+## Summary Table
+
+| Patient | Condition | Priority |
+|---------|-----------|----------|
+| Alex | Corneal foreign body | 🔴 First |
+| Riley | Pregnancy back pain | 🟡 Second |
+
+> ⚠️ *Riley should be reassessed continuously — symptoms can escalate quickly in pregnancy.*
+=== RUN 30 ===
+## Dispatch Assessment
+
+---
+
+### 🔴 Priority 1: ALEX — Eye Emergency
+
+**Reason for urgency:**
+- Sharp burning pain with a **foreign body sensation** suggests a possible **corneal abrasion or embedded object**
+- The "scraping" sensation with each blink indicates **active corneal involvement**
+- Excessive tearing and inability to open the eye suggests significant irritation or injury
+- **Risk:** Delayed treatment can lead to corneal scarring, infection, or permanent vision damage
+- **Action:** Transport to emergency/ophthalmology immediately. Do **not** rub the eye.
+
+---
+
+### 🟡 Priority 2: RILEY — Pregnancy Discomfort
+
+**Reason for lower urgency:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported warning signs (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected and not immediately life-threatening
+- **Action:** Advise rest, position change, and follow up with OB provider. Monitor for escalating symptoms.
+
+---
+
+### Summary
+
+| Rank | Patient | Status |
+|------|---------|--------|
+| 1st | Alex | Urgent — potential corneal injury |
+| 2nd | Riley | Non-emergent — routine pregnancy discomfort |
+=== RUN 31 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation/injury
+- Risk of **corneal abrasion or laceration** worsening with continued eye movement
+- Potential vision-threatening emergency if not treated promptly
+- Every blink could be causing **additional corneal damage**
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flag symptoms such as:
+- Contractions or cramping
+- Vaginal bleeding
+- Severe headache or vision changes
+- Sudden swelling
+- Symptoms appear consistent with **normal pregnancy discomfort**
+- **Recommendation:** Rest, hydration, and monitoring; advise her to call back immediately if any red flag symptoms develop
+
+---
+
+*Note: If Riley reports any additional symptoms suggesting preeclampsia or preterm labor, priority would be immediately reassessed.*
+=== RUN 32 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+
+**Reason:** Alex presents with signs of a **corneal foreign body injury** — a genuine medical emergency requiring prompt evaluation.
+
+**Concerning indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object embedded in cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion, laceration, or penetrating injury** if untreated
+- Delay risks permanent vision damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+
+**Reason:** Riley's symptoms, while deserving attention, are **consistent with common pregnancy discomforts** rather than an acute emergency.
+
+**Assessment:**
+- Lower back ache after prolonged standing is typical in 6-month pregnancy
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or abdominal pain)
+
+**Recommendation:** Riley should still be evaluated, but her symptoms do not indicate immediate life or limb threat at this time. She should **rest, stay off her feet**, and be monitored for any escalating symptoms.
+
+---
+
+*Note: Conditions can change rapidly. Continuous reassessment is essential.*
+=== RUN 33 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be actively abrading the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal damage worsens with time and rubbing**
+- Requires prompt ophthalmologic evaluation to remove the object and assess for corneal injury
+- While not immediately life-threatening, **delay risks permanent vision damage**
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Musculoskeletal back pain from prolonged standing during pregnancy
+
+**Reasoning:**
+- Lower back ache after being on feet all day is **common in pregnancy** and consistent with postural/musculoskeletal strain
+- No reported red flags mentioned such as:
+- Contractions
+- Vaginal bleeding
+- Decreased fetal movement
+- Severe headache or vision changes
+- Condition appears **stable and non-emergent** at this time
+
+---
+
+> ⚠️ **Note to Riley:** If you develop contractions, bleeding, severe headache, or notice reduced fetal movement, **call back immediately** as priority would be reassessed urgently.
+=== RUN 34 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms warrant **more urgent evaluation**:
+- Sharp burning pain with a **scraping sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation
+- Risk of **corneal abrasion or laceration** if untreated
+- Certain foreign bodies (metal, glass) can cause **serious permanent damage** within hours
+
+**Recommended:** Urgent care/ED evaluation. Advise Alex **not to rub the eye** and to keep it loosely covered.
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms appear **consistent with common pregnancy complaints**:
+- Lower back ache after prolonged standing is **expected at 6 months**
+- Fatigue is a normal pregnancy symptom
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling suggesting preeclampsia)
+
+**Recommended:** Rest, hydration, and routine prenatal follow-up. Advise Riley to monitor for any escalating symptoms.
+
+---
+
+> ⚠️ *Note: Conditions can change rapidly. Continue monitoring both patients and reassess if symptoms evolve.*
+=== RUN 35 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Priority: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage is time-sensitive** - continued rubbing or blinking can worsen a scratch or embed the object deeper
+- Requires prompt ophthalmologic evaluation to prevent vision complications
+
+**Recommended Action:** Transport to ED for eye irrigation and slit-lamp examination
+
+---
+
+### 🟢 **2nd Priority: Riley**
+**Suspected Condition:** Musculoskeletal back pain, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and typically not an emergency
+- No reported contractions, bleeding, headache, or vision changes mentioned
+- Symptoms appear consistent with **postural/mechanical discomfort**
+
+**Recommended Action:** Rest, positional relief; advise contacting OB provider; monitor for warning signs (contractions, bleeding, severe headache)
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, severe headache, or swelling, her priority would immediately escalate.*
+=== RUN 36 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / possible corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain, sensation of scraping, and inability to open the eye are classic signs of a **corneal foreign body or abrasion**
+- Risk of **corneal laceration, embedded object, or penetrating eye injury** if untreated
+- Excessive tearing and photosensitivity indicate active irritation
+- **Time-sensitive** — continued rubbing or blinking can worsen damage
+- Requires ophthalmologic evaluation and possible irrigation or removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in the 2nd/3rd trimester
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, positional relief, and routine OB follow-up**
+- Should be advised to **monitor for warning signs** and call back if symptoms change
+
+---
+
+> ⚠️ *Riley should be advised to seek immediate care if she develops contractions, bleeding, or severe symptoms.*
+=== RUN 37 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / possible corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain, sensation of scraping, and inability to open the eye are classic signs of a **corneal foreign body or abrasion**
+- Risk of **corneal laceration, embedded object, or penetrating eye injury** if untreated
+- Excessive tearing and photosensitivity indicate active irritation
+- **Time-sensitive** — continued rubbing or blinking can worsen damage
+- Requires ophthalmologic evaluation and possible irrigation or removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in the 2nd/3rd trimester
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, positional relief, and routine OB follow-up**
+- Should be advised to **monitor for warning signs** and call back if symptoms change
+
+---
+
+> ⚠️ *Riley should be advised to seek immediate care if she develops contractions, bleeding, or severe symptoms.*
+=== RUN 38 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are concerning for a **corneal abrasion or embedded foreign body**, which requires prompt medical evaluation. Key red flags include:
+- Sharp, scraping sensation with eye movement
+- Inability to open the eye
+- Significant tearing and pain
+- Risk of **corneal damage, infection, or vision loss** if untreated or if the patient continues rubbing
+
+**Action:** Transport to ED or urgent ophthalmology. Advise Alex *not* to rub the eye.
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Musculoskeletal Back Pain (Pregnancy-Related)**
+
+Riley's symptoms are **common in pregnancy** at 6 months and are most consistent with normal musculoskeletal strain. At this stage:
+- No red flags mentioned (no contractions, bleeding, headache, or vision changes)
+- Fatigue and back ache after prolonged standing is expected
+- **Not immediately life-threatening**
+
+**Recommendation:** Rest, hydration, and a call to her OB/midwife. Transport if symptoms worsen or new symptoms develop.
+
+---
+
+*Note: Conditions can change rapidly. Continue monitoring both patients.*
+=== RUN 39 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / corneal abrasion**
+
+The symptoms described — sharp burning, sensation of scraping with eye movement, excessive tearing, and inability to keep the eye open — are consistent with a **corneal foreign body or abrasion**. This requires **prompt medical evaluation** to:
+- Prevent corneal damage or infection
+- Remove the foreign body under proper clinical conditions
+- Rule out penetrating eye injury
+
+Rubbing or delay can worsen the injury significantly.
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Routine pregnancy discomfort**
+
+Lower back ache after prolonged standing at 6 months pregnant is **common and expected**. While Riley's comfort matters and she should be monitored, there are **no red flag symptoms** reported such as:
+- Contractions
+- Bleeding
+- Severe abdominal pain
+- Decreased fetal movement
+
+**Recommendation:** Rest, hydration, and routine prenatal follow-up unless symptoms change.
+
+---
+
+> ⚠️ *Note: If Riley develops any red flag symptoms, her priority should be immediately reassessed.*
+=== RUN 40 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / corneal abrasion**
+
+The symptoms described — sharp burning, sensation of scraping with eye movement, excessive tearing, and inability to open the eye — are consistent with a **corneal foreign body or abrasion**. This requires **prompt medical evaluation** because:
+- A retained foreign body can cause corneal ulceration or infection
+- Certain materials (metal, glass) can cause progressive damage
+- Vision may be at risk if untreated
+
+**Do not rub the eye. Keep it closed or loosely covered.**
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+Lower back ache after prolonged standing at 6 months pregnant, accompanied by fatigue, is **very common and expected** in the second trimester. This does **not** currently suggest:
+- Preterm labor
+- Preeclampsia
+- Obstetric emergency
+
+**Recommendation:** Rest, hydration, and follow-up with her OB provider. She should **call her OB immediately** if she develops contractions, bleeding, or severe headache.
+
+---
+
+*Note: Conditions can change — continue monitoring both patients.*
+=== RUN 41 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+
+**Reason:** Alex's symptoms suggest a **corneal foreign body injury** — a genuine medical emergency requiring prompt evaluation.
+
+**Key concern indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object may be embedded in the cornea)
+- Inability to keep eye open
+- Excessive tearing (protective reflex indicating irritation/injury)
+
+**Why this is urgent:** A corneal abrasion or embedded foreign body can cause **permanent vision damage** if not treated promptly. The scraping sensation is particularly concerning as it may indicate the object is lodged rather than loose.
+
+---
+
+### 🟢 **2nd Transport: Riley**
+
+**Reason:** Riley's symptoms, while deserving attention, are **consistent with common pregnancy discomforts** rather than an acute emergency.
+
+**Assessment:**
+- Lower back ache after prolonged standing is **expected in 6-month pregnancy**
+- Fatigue is normal
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, or vision changes)
+
+**Recommendation:** Riley should still be evaluated, but symptoms do not indicate immediate life-threatening risk at this time.
+
+---
+
+*Note: Conditions can change — continue monitoring both patients.*
+=== RUN 42 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+
+**Reason:** Alex's symptoms suggest a **corneal foreign body injury** — a genuine medical emergency requiring prompt evaluation.
+
+**Key concern indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object may be embedded in the cornea)
+- Inability to keep eye open
+- Excessive tearing (protective reflex indicating irritation/injury)
+
+**Why this is urgent:** A corneal abrasion or embedded foreign body can cause **permanent vision damage** if not treated promptly. The scraping sensation is particularly concerning as it may indicate the object is lodged rather than loose.
+
+---
+
+### 🟢 **2nd Transport: Riley**
+
+**Reason:** Riley's symptoms, while deserving attention, are **consistent with common pregnancy discomforts** rather than an acute emergency.
+
+**Assessment:**
+- Lower back ache after prolonged standing is **expected in 6-month pregnancy**
+- Fatigue is normal
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, or vision changes)
+
+**Recommendation:** Riley should still be evaluated, but symptoms do not indicate immediate life-threatening risk at this time.
+
+---
+
+*Note: Conditions can change — continue monitoring both patients.*
+=== RUN 43 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal foreign body / corneal abrasion**
+
+Alex's symptoms are concerning for a genuine ocular emergency:
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object may be embedded or causing active corneal damage)
+- Excessive tearing and inability to open eye
+- **Every moment of continued rubbing or blinking risks deeper corneal injury or infection**
+
+This requires prompt ophthalmologic evaluation to prevent potential vision loss.
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Pregnancy-related musculoskeletal discomfort**
+
+Riley's symptoms, while real and deserving of care, are:
+- Lower back ache consistent with **normal pregnancy strain**, especially after prolonged standing
+- Fatigue is expected at 6 months
+- **No red flag symptoms reported** (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+
+Riley should be encouraged to rest, and monitored for any escalating symptoms.
+
+---
+
+## ⚠️ Important Note:
+If Riley develops **headache, visual disturbances, sudden swelling, or contractions**, her priority would immediately escalate. Always reassess.
+=== RUN 44 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / abrasion**
+
+Alex's symptoms are clinically concerning:
+- **Sharp burning pain** with a sensation of scraping suggests a foreign body may be embedded in the cornea
+- **Photophobia and excessive tearing** indicate significant ocular irritation or injury
+- **Risk of corneal damage** worsens with time and repeated attempts to rub the eye
+- Requires prompt ophthalmologic evaluation to prevent permanent vision damage
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Musculoskeletal fatigue / normal pregnancy discomfort**
+
+Riley's symptoms, while uncomfortable, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported warning signs such as contractions, bleeding, decreased fetal movement, or severe headache
+- Should still be evaluated, but does **not present immediate life-threatening indicators**
+
+---
+
+## ⚠️ Important Note on Riley
+If Riley develops **any of the following**, priority should be **immediately reassessed**:
+- Regular contractions
+- Vaginal bleeding
+- Severe headache or vision changes
+- Decreased fetal movement
+
+---
+
+**Transport Alex first. Monitor Riley closely pending further symptom development.**
+=== RUN 45 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are the **higher medical priority**:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicates significant irritation
+- **Risk of corneal abrasion or laceration** if untreated or if the patient continues rubbing
+- Delay risks **permanent vision damage**
+
+> **Dispatcher note:** Advise Alex **not to rub the eye** and to keep it closed or loosely covered until evaluated.
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+Riley's symptoms are **concerning but lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, decreased fetal movement, severe headache, vision changes)
+- Should still be **evaluated** as a precaution given pregnancy status
+
+> **Dispatcher note:** Monitor Riley for any escalating symptoms that could indicate preterm labor or preeclampsia.
+
+---
+
+*Assessments are based on reported symptoms only. All patients should receive medical evaluation.*
+=== RUN 46 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or actively scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Corneal damage can worsen rapidly** with continued blinking/rubbing
+- Risk of infection, corneal scarring, or vision loss if untreated
+- Requires prompt ophthalmologic evaluation and removal
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **very common in pregnancy** and typically not an emergency
+- No reported symptoms suggesting preterm labor (contractions, bleeding, fluid leakage)
+- Fatigue and achiness, while uncomfortable, are **not immediately life-threatening**
+- **Recommendation:** Rest, hydration, and routine prenatal follow-up
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, bleeding, or other symptoms, her priority would immediately escalate.*
+=== RUN 47 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- **Sharp burning pain** with a sensation of scraping suggests a possible **embedded foreign body** or **corneal abrasion**
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage worsens with time** — rubbing or blinking can embed the object deeper or cause scratching
+- Requires prompt ophthalmologic evaluation to prevent vision complications
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms, while deserving attention, are lower urgency:
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flag symptoms (contractions, bleeding, severe abdominal pain, headache, vision changes)
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+## ⚠️ Important Note
+*Riley should be monitored for any developing symptoms such as contractions, swelling, or headache, which could indicate preeclampsia or preterm labor and would immediately elevate her priority.*
+=== RUN 48 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / possible corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain, sensation of scraping, and inability to open the eye are classic signs of a **corneal foreign body or abrasion**
+- Risk of **corneal laceration, embedded object, or penetrating eye injury** if untreated
+- Excessive tearing and photosensitivity indicate active irritation
+- **Time-sensitive** — continued rubbing or blinking can worsen damage
+- Requires ophthalmologic evaluation and possible irrigation or removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in the 2nd/3rd trimester
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, positional relief, and routine OB follow-up**
+- Should be advised to **monitor for warning signs** and call back if symptoms change
+
+---
+
+> ⚠️ *Riley should be advised to seek immediate care if she develops contractions, bleeding, or severe symptoms.*
+=== RUN 49 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be actively scratching the cornea with each blink
+- Excessive tearing and inability to open the eye indicates significant irritation or injury
+- **Risk of corneal damage worsens with time and continued eye movement**
+- Requires prompt ophthalmologic evaluation to remove the object and assess for corneal laceration or embedded material
+
+---
+
+### 🟢 **2nd: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+- Symptoms are manageable with rest
+- **Recommend:** Rest, hydration, and routine prenatal follow-up unless symptoms change
+
+---
+
+> ⚠️ *Note: If Riley develops headache, swelling, vision changes, or contractions, priority should be immediately reassessed.*
+=== RUN 50 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion or laceration** worsening with continued blinking
+- Potential for infection or permanent vision damage if untreated
+
+**Action:** Transport Alex first. Eye injuries can deteriorate quickly and require prompt ophthalmologic evaluation.
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms, while real and deserving of care, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected at 6 months
+
+**Recommendation:** Riley should rest, and be monitored for any developing warning signs (preeclampsia symptoms, preterm labor). Non-emergency transport or follow-up with OB is appropriate.
+
+---
+
+*Note: If Riley develops contractions, severe headache, or swelling, reassess immediately.*
+=== RUN 51 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are concerning for a corneal abrasion or embedded foreign body:
+- Sharp burning pain
+- Sensation of scraping with each blink (classic corneal involvement)
+- Excessive tearing and inability to open eye
+- Risk of corneal damage, infection, or vision loss if untreated
+
+**Needs prompt emergency evaluation** to prevent permanent eye damage.
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms appear consistent with common pregnancy-related back strain:
+- Lower back ache after prolonged standing is very common in pregnancy
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, no bleeding, no headache/vision changes, no swelling suggesting preeclampsia)
+
+**Recommendation:** Rest, hydration, and a routine OB check. Should still be evaluated but is not immediately emergent.
+
+---
+
+> ⚠️ *Note: Riley should be monitored and asked follow-up questions about contractions, swelling, or headaches, as pregnancy can escalate quickly.*
+=== RUN 52 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+**Reasoning:**
+- Sharp burning pain with a **sensation of scraping** suggests a foreign body may be **embedded in or scratching the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation
+- Risk of **corneal abrasion, laceration, or penetrating injury** if untreated
+- Certain foreign bodies (metal, glass) can cause **rapid, serious damage** to vision
+- Time-sensitive — delay increases risk of permanent eye damage or infection
+
+**Immediate action:** Keep eye closed, do NOT rub, transport to ED/ophthalmology
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-related back discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flag symptoms (contractions, bleeding, severe abdominal pain, headache, vision changes)
+- Condition appears **stable and non-acute** at this time
+- Recommend rest, monitoring, and routine prenatal follow-up
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, bleeding, or severe symptoms, reassess immediately.*
+=== RUN 53 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / possible corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain, sensation of scraping, and inability to open the eye are classic signs of a **corneal foreign body or abrasion**
+- Risk of **corneal laceration, embedded object, or penetrating eye injury** if untreated
+- Excessive tearing and photosensitivity indicate active irritation
+- **Time-sensitive** — continued rubbing or blinking can worsen damage
+- Requires ophthalmologic evaluation and possible irrigation or removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in the 2nd/3rd trimester
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, positional relief, and routine OB follow-up**
+- Should be advised to **monitor for warning signs** and call back if symptoms change
+
+---
+
+> ⚠️ *Riley should be advised to seek immediate care if she develops contractions, bleeding, or severe symptoms.*
+=== RUN 54 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be actively abrading the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage worsens with time and continued rubbing**
+- Requires prompt ophthalmologic evaluation to remove the object and assess for corneal laceration or embedded debris
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+- Condition is uncomfortable but **not immediately threatening** to mother or fetus
+- Recommend rest, positional relief, and routine prenatal follow-up
+
+---
+
+**Note:** If Riley develops any additional symptoms such as contractions, severe headache, or swelling, her priority status should be **immediately reassessed.**
+=== RUN 55 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / corneal abrasion**
+
+The symptoms described — sharp burning, sensation of scraping with eye movement, excessive tearing, and inability to open the eye — are consistent with a **corneal foreign body or abrasion**. This requires **prompt medical evaluation** because:
+- A retained foreign body can cause corneal ulceration or infection
+- Certain materials (metal, glass) can cause progressive damage
+- Vision may be at risk if untreated
+
+**Do not rub the eye. Keep it closed or loosely covered.**
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+Lower back ache after prolonged standing at 6 months pregnant, accompanied by fatigue, is **very common and expected** in the second trimester. This does **not** currently suggest:
+- Preterm labor
+- Preeclampsia
+- Obstetric emergency
+
+**Recommendation:** Rest, hydration, and follow-up with her OB provider. She should **call her OB immediately** if she develops contractions, bleeding, or severe headache.
+
+---
+
+*Note: Conditions can change — continue monitoring both patients.*
+=== RUN 56 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion or laceration** worsening with continued blinking
+- Potential vision-threatening injury if untreated or if object is penetrating
+
+**Action:** Transport to ED/ophthalmology promptly. Advise Alex **not to rub the eye.**
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms are concerning to monitor but currently lower urgency:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected
+
+**Action:** Advise rest, hydration, and position change. **Monitor for escalating symptoms** such as contractions, severe headache, or swelling, which would increase urgency significantly.
+
+---
+
+*Note: Riley's status could rapidly change priority if additional symptoms develop.*
+=== RUN 57 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+
+**Reason:** Alex presents with signs of a **corneal foreign body injury** — a genuine medical emergency requiring prompt evaluation.
+
+**Concerning indicators:**
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object embedded in cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion, laceration, or penetrating injury** if untreated
+- Delay risks permanent vision damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+
+**Reason:** Riley's symptoms, while deserving attention, are **consistent with common pregnancy discomforts** rather than an acute emergency.
+
+**Assessment:**
+- Lower back ache after prolonged standing is typical in 6-month pregnancy
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or abdominal pain)
+
+**Recommendation:** Riley should still be evaluated, but her symptoms do not indicate immediate life or limb threat at this time. She should **rest, stay off her feet**, and be monitored for any escalating symptoms.
+
+---
+
+*Note: Conditions can change rapidly. Continuous reassessment is essential.*
+=== RUN 58 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal damage is time-sensitive** - continued rubbing or delayed treatment can worsen abrasion or cause infection
+- Requires prompt ophthalmologic evaluation and proper removal under controlled conditions
+
+**Recommended Action:** Transport to ED/urgent care for slit-lamp examination and foreign body removal
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected Condition:** Musculoskeletal back pain, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (no contractions, no bleeding, no headache, no vision changes, no swelling suggesting preeclampsia)
+- Symptoms are consistent with **normal pregnancy discomfort**
+
+**Recommended Action:** Rest, positional relief; advise contacting OB if symptoms change or worsen
+
+---
+
+*Note: Riley should be monitored for any developing preeclampsia symptoms.*
+=== RUN 59 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Clinical Concerns:**
+- Sharp burning pain
+- Sensation of scraping with eye movement (suggests object may be embedded in cornea)
+- Significant tearing and inability to open eye
+- **Risk:** Corneal laceration, embedded object, or chemical exposure — potential **permanent vision damage** if untreated
+- Time-sensitive: every blink can worsen corneal abrasion
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is present but not acutely life-threatening at this time
+- **Recommend monitoring** for preeclampsia symptoms or signs of preterm labor
+
+---
+
+## ⚠️ Important Note
+*Riley should be asked follow-up questions about contractions, headache, or swelling, as these could rapidly elevate her priority status.*
+=== RUN 60 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+- Sharp burning pain with a **scraping/scratching sensation** strongly suggests a foreign body embedded in the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or **corneal abrasion**
+- Risk of **corneal damage, infection, or vision loss** if untreated or if the object is metallic (rust formation)
+- Requires urgent ophthalmologic evaluation and removal
+
+---
+
+### 🟡 Priority 2: RILEY
+**Pregnancy-Related Back Pain**
+
+- Lower back ache after prolonged standing is **common in pregnancy** and generally not an emergency indicator on its own
+- However, should be **monitored** for signs of preterm labor (contractions, pelvic pressure, fluid leakage)
+- Fatigue is expected but warrants rest and evaluation if symptoms change
+- **Not immediately life-threatening** based on current description
+
+---
+
+## ⚠️ Dispatcher Note on Riley:
+Riley should be **asked follow-up questions** — if back pain becomes rhythmic/cramping, this could indicate **preterm labor**, which would immediately elevate her priority.
+=== RUN 61 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are the **higher medical priority**:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicates significant irritation
+- **Risk of corneal abrasion or laceration** which can worsen with time or repeated blinking
+- Delay risks **permanent eye damage or infection**
+
+> **Dispatcher note:** Advise Alex NOT to rub the eye. Keep it closed or loosely covered until evaluated.
+
+---
+
+### 🟢 **2nd: Riley**
+**Presentation: Common Pregnancy Discomfort**
+
+Riley's symptoms, while real and deserving of care, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported warning signs such as contractions, bleeding, decreased fetal movement, or severe headache
+- Recommend **rest, hydration, and positional relief** while awaiting transport
+
+> **Dispatcher note:** Monitor Riley for any escalating symptoms that would elevate her priority.
+
+---
+
+*Always reassess if either patient's condition changes.*
+=== RUN 62 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / corneal abrasion**
+
+The symptoms described — sharp burning, sensation of scraping with eye movement, excessive tearing, and inability to keep the eye open — are consistent with a **corneal foreign body or abrasion**. This requires prompt medical evaluation because:
+- A retained foreign body can cause **corneal laceration or penetrating eye injury**
+- Risk of **infection and permanent vision damage** increases with delay
+- Scraping sensation with blinking suggests active tissue trauma
+
+**Recommended:** Transport to ED/urgent ophthalmology evaluation. Do **not** rub the eye.
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Musculoskeletal discomfort, normal pregnancy fatigue**
+
+Lower back ache after prolonged standing at 6 months pregnant is **very common** and generally not an emergency indicator on its own. No red flags reported such as:
+- Contractions or cramping
+- Vaginal bleeding
+- Decreased fetal movement
+- Severe headache or vision changes
+
+**Recommended:** Rest, monitoring, and routine prenatal follow-up. Advise to call back if symptoms change.
+
+---
+
+*Note: Conditions can change — continued monitoring of both patients is advised.*
+=== RUN 63 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body / Corneal Abrasion**
+
+Alex's symptoms are concerning for an embedded foreign body or significant corneal abrasion:
+- Sharp burning pain
+- Sensation of scraping with each blink (classic corneal involvement)
+- Excessive tearing/inability to open eye
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Condition may worsen with time and eye movement
+
+**Requires prompt ophthalmologic evaluation**
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms, while deserving attention, appear consistent with **common pregnancy discomfort**:
+- Lower back ache after prolonged standing is typical in second/third trimester
+- No reported contractions, bleeding, or neurological symptoms
+- No immediate life-threatening indicators described
+
+**Should still be evaluated**, particularly to rule out preterm labor or other obstetric concerns, but is not the immediate emergency.
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, bleeding, or neurological symptoms, priority order should be immediately reassessed.*
+=== RUN 64 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are the **higher medical priority**:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicates significant irritation
+- **Risk of corneal abrasion or laceration** which can worsen rapidly, especially if the patient continues attempting to remove the object
+- Delay risks **permanent corneal damage or vision loss**
+
+**Dispatcher advice while waiting:** Do NOT rub the eye. Keep it closed or loosely covered. Do not attempt further removal.
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-related musculoskeletal fatigue**
+
+Riley's symptoms, while deserving attention, are **lower immediate urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported signs of preterm labor (contractions, bleeding, fluid leakage)
+- Fatigue is expected
+
+**Dispatcher advice:** Rest, sit or lie down. **Call back immediately** if contractions, bleeding, or fluid leakage develop — that changes the priority.
+
+---
+
+*Note: Conditions can change. Continue monitoring both patients.*
+=== RUN 65 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests an embedded foreign body or corneal laceration
+- Excessive tearing and inability to open the eye indicates significant irritation or injury
+- **Risk of corneal damage is time-sensitive** — rubbing or delayed treatment can worsen abrasion or embed the object deeper
+- Potential vision threat if not assessed promptly
+
+**Recommended Action:** Transport to ED/ophthalmology for slit-lamp examination and foreign body removal
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected Condition:** Musculoskeletal back pain, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue and achiness, while uncomfortable, are **not immediately life-threatening**
+
+**Recommended Action:** Rest, hydration, and follow-up with OB provider; monitor for any escalating symptoms
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, severe headache, or swelling, reassess immediately as priority status could change.*
+=== RUN 66 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage is time-sensitive** — prolonged presence of a foreign body can cause infection, scarring, or permanent vision loss
+- Requires prompt ophthalmologic evaluation and possible removal under magnification
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and generally not an acute emergency
+- No reported signs of preterm labor (contractions, bleeding, fluid leakage)
+- Fatigue and achiness, while uncomfortable, are **not immediately life-threatening**
+- **Recommendation:** Rest, hydration, and routine prenatal follow-up
+
+---
+
+## ⚠️ Important Note for Riley
+If she develops **contractions, vaginal bleeding, decreased fetal movement, or severe headache**, her priority status should be **immediately upgraded**.
+=== RUN 67 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **sensation of scraping** strongly suggests a foreign body embedded in the cornea or under the eyelid
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage is time-sensitive** - prolonged presence of a foreign body can cause infection, ulceration, or permanent vision damage
+- Requires prompt ophthalmologic evaluation and likely removal under magnification
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Musculoskeletal back pain, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Symptoms appear consistent with **postural/mechanical discomfort**, not an acute emergency
+- Should still be evaluated, but condition is not immediately threatening
+
+---
+
+## ⚠️ Important Note
+*Riley should be monitored for any developing symptoms such as contractions, severe headache, or swelling, which would immediately elevate her priority.*
+=== RUN 68 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are concerning for a **retained foreign body with potential corneal abrasion or laceration**:
+- Sharp burning pain
+- Sensation of scraping with each blink (classic foreign body sign)
+- Excessive tearing/inability to open eye (protective reflex)
+- Risk of **corneal perforation, infection, or permanent vision loss** if untreated
+
+**This requires prompt ophthalmologic evaluation.** Vision is at stake.
+
+---
+
+### 🟡 Priority 2: Riley
+**Presentation: Pregnancy-related musculoskeletal discomfort**
+
+Riley's symptoms appear consistent with **common third-trimester lower back strain**:
+- Lower back ache after prolonged standing is very typical in pregnancy
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+
+Riley should still be **evaluated and monitored**, but her symptoms do not currently indicate an acute emergency.
+
+---
+
+> ⚠️ *Note: Riley should be advised to watch for contractions, severe headache, or swelling, which would escalate her priority immediately.*
+=== RUN 69 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+
+**Reason:** Alex presents with signs of a **corneal foreign body injury** — sharp burning, sensation of scraping with eye movement, and excessive tearing (lacrimation). These are classic symptoms of corneal abrasion or an embedded foreign object.
+
+**Key concerns:**
+- Risk of **corneal damage or perforation** if object is sharp (metal, glass, debris)
+- Each blink/eye movement may worsen injury
+- Potential for infection if untreated
+- Time-sensitive — prolonged irritation increases damage risk
+
+**Recommended action:** Transport to ED/ophthalmology. Do **not** rub the eye. Cover loosely if possible.
+
+---
+
+### 🟢 **2nd Transport: Riley**
+
+**Reason:** Lower back ache after prolonged standing during pregnancy, while worth monitoring, is a **very common complaint** in the second trimester and does not currently indicate an emergency.
+
+**Key concerns to watch for** that *would* escalate priority:
+- Contractions or cramping
+- Vaginal bleeding or fluid
+- Severe headache or vision changes (preeclampsia signs)
+- Decreased fetal movement
+
+**Recommended action:** Rest, hydration, follow up with OB provider.
+
+---
+
+*Always reassess if symptoms change.*
+=== RUN 70 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be actively scratching the cornea with each blink
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal damage worsens with time and continued eye movement**
+- Certain foreign bodies (metal, glass) can cause serious injury or infection if not promptly removed
+- Requires ophthalmologic evaluation
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected Condition:** Musculoskeletal lower back pain, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and typically not an emergency
+- No reported symptoms suggesting serious complications (no bleeding, no severe abdominal pain, no headache/vision changes suggesting preeclampsia, no signs of preterm labor)
+- Rest and positional relief are appropriate immediate measures
+- Should still be evaluated, but condition appears **stable and non-urgent**
+
+---
+
+## ⚠️ Note on Riley
+If Riley develops **headache, vision changes, swelling, contractions, or abdominal pain**, priority should be immediately reassessed as these could indicate serious obstetric emergencies.
+=== RUN 71 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests an embedded foreign body or corneal laceration
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of corneal damage is time-sensitive** — continued rubbing or delayed treatment can worsen abrasion or cause infection
+- Requires prompt ophthalmologic evaluation
+
+**Dispatcher Action:** Transport to ED for eye irrigation and slit-lamp examination
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected Condition:** Musculoskeletal back pain from prolonged standing during pregnancy
+
+**Reasoning:**
+- Lower back ache after being on feet all day is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue and achiness are **not immediately life-threatening**
+
+**Dispatcher Action:** Advise rest, hydration, and OB follow-up; transport if symptoms worsen or new symptoms develop
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, severe headache, or swelling, her priority would escalate immediately.*
+=== RUN 72 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are the **higher medical priority**:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal abrasion or laceration** if untreated or if the patient continues rubbing
+- Delay risks **permanent eye damage or vision loss**
+- Needs prompt ophthalmologic evaluation and possible removal under magnification
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+Riley's symptoms, while deserving attention, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported signs of preterm labor (contractions, bleeding, fluid leakage)
+- No neurological symptoms reported
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+> ⚠️ *Note: If Riley reports contractions, bleeding, or fluid leakage, her priority would immediately escalate.*
+=== RUN 73 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are concerning for a significant foreign body or corneal abrasion:
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests object still present or corneal damage)
+- Severe tearing/inability to open eye
+- Risk of **corneal laceration, infection, or permanent vision damage** if untreated
+
+**Time-sensitive** — eye injuries can deteriorate quickly and vision is at stake.
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms, while real and deserving of care, are:
+- Lower back ache consistent with **common pregnancy discomfort** at 6 months
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling)
+- Fatigue from prolonged standing is expected
+
+**Recommend:** Rest, monitoring, and routine medical evaluation. Should be advised to watch for any preeclampsia warning signs.
+
+---
+
+> ⚠️ *Note: If Riley develops headache, visual disturbances, swelling, or contractions, her priority would immediately escalate.*
+=== RUN 74 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion or laceration** worsening with continued attempts to open/rub the eye
+- Potential for infection or permanent vision damage if untreated
+
+**Action:** Transport Alex first. Advise Alex to **stop rubbing the eye** and try to keep it gently closed until evaluated.
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms, while real and deserving of care, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported warning signs (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is consistent with normal second/third trimester experience
+
+**Recommendation:** Riley should rest, elevate feet, and contact her OB. She should **call back immediately** if she develops contractions, bleeding, or severe headache.
+
+---
+
+*Always reassess if either patient's condition changes.*
+=== RUN 75 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of permanent vision damage** if a foreign body is embedded or if the cornea is lacerated
+- Time-sensitive — further eye movement can worsen corneal damage
+- Requires ophthalmologic evaluation and possible removal under magnification
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Musculoskeletal fatigue / pregnancy-related back pain
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and typically not an emergency indicator on its own
+- No reported contractions, bleeding, headache, or vision changes noted
+- Should still be **monitored and evaluated** — back pain in pregnancy can occasionally signal preterm labor or other complications
+- Advise Riley to **rest, sit down, and note any changes** in symptoms while awaiting transport
+
+---
+
+> ⚠️ *Note: Riley should be asked follow-up questions about contractions, fluid leakage, or headaches to rule out more serious obstetric emergencies.*
+=== RUN 76 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal Foreign Body / Corneal Abrasion**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be embedded in the cornea or causing active corneal abrasion
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk:** Corneal damage, infection, or vision loss if untreated — time-sensitive
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+Riley's symptoms, while deserving attention, are lower urgency:
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling that would suggest preeclampsia or preterm labor)
+
+---
+
+## ⚠️ Important Note on Riley
+Riley should still be **evaluated and monitored**. If she develops headache, swelling, vision changes, or contractions, her priority **immediately escalates**.
+
+---
+
+*Transport Alex first. Keep Riley comfortable and under observation.*
+=== RUN 77 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Inability to keep the eye open and excessive tearing indicate significant irritation or injury
+- **Risk of corneal damage worsens with time** and rubbing
+- Requires prompt ophthalmologic evaluation to prevent permanent vision damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and not immediately life-threatening
+- No reported warning signs such as contractions, bleeding, severe headache, or vision changes
+- Should still be evaluated, but condition appears **stable and non-urgent**
+- Advised to rest, sit down, and stay hydrated while awaiting transport
+
+---
+
+**Note:** *Riley should be monitored for any escalating symptoms (contractions, dizziness, swelling) which would immediately elevate her priority.*
+=== RUN 78 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal Foreign Body / Corneal Abrasion**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain with a **scraping sensation** suggests a foreign body may be actively abrading the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk:** Corneal damage, embedded object, or eye infection if untreated
+- Needs prompt ophthalmologic evaluation to prevent potential vision damage
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms, while uncomfortable, appear **non-emergent at this time:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported warning signs such as contractions, bleeding, decreased fetal movement, or severe headache
+- Recommendation: Rest, positional relief, and routine prenatal follow-up
+
+> ⚠️ **Note for Riley:** If symptoms change to include contractions, vaginal bleeding, severe headache, vision changes, or reduced fetal movement, **call 911 immediately** as these could indicate serious obstetric emergencies.
+
+---
+
+**Alex should be transported first.**
+=== RUN 79 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or actively abrading the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal damage is time-sensitive** — prolonged abrasion can lead to infection, scarring, or vision loss
+- Requires prompt ophthalmologic evaluation and removal
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Condition appears stable and non-emergent
+- **Recommendation:** Rest, hydration, and routine prenatal follow-up
+
+---
+
+## ⚠️ Important Note
+*If Riley develops contractions, severe headache, visual disturbances, or swelling, her priority should be immediately reassessed.*
+=== RUN 80 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **sensation of scraping** strongly suggests a foreign body embedded in the cornea or under the eyelid
+- Inability to open the eye and excessive tearing indicate significant irritation or injury
+- **Risk of corneal damage worsens with time** - rubbing or blinking can deepen a scratch or embed the object further
+- Potential risk of infection if not treated promptly
+- Requires professional removal and slit-lamp examination
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Musculoskeletal back pain from prolonged standing
+
+**Reasoning:**
+- Lower back ache after being on feet all day is **common in pregnancy** and typically musculoskeletal in nature
+- Fatigue is expected and consistent with her description
+- **No red flag symptoms reported** (no contractions, no bleeding, no headache, no vision changes, no swelling)
+- Condition is uncomfortable but **not immediately threatening**
+
+---
+
+> ⚠️ *Note: Riley should still be evaluated. If she develops contractions, severe headache, or swelling, priority would immediately escalate.*
+=== RUN 81 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Reasoning:**
+- Sharp, persistent pain with a **scraping sensation** suggests a foreign object may be **embedded in the cornea**
+- Risk of **corneal laceration, abrasion, or perforation** if untreated
+- Excessive tearing and inability to open the eye indicates significant irritation
+- **Time-sensitive** — continued blinking can worsen corneal damage
+- Requires ophthalmologic evaluation and possible removal under magnification
+
+> **Dispatch note:** Advise Alex NOT to rub the eye. Cover loosely if possible. Do not attempt to remove the object.
+
+---
+
+### 🟢 **2nd: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Condition appears **non-acute and manageable** with rest
+- Should still be evaluated, but does **not present immediate emergency indicators**
+
+> **Dispatch note:** Advise Riley to rest, stay hydrated, and monitor for any contractions or other symptoms.
+
+---
+
+*Assessments may change if new symptoms develop.*
+=== RUN 82 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex (Eye Emergency)
+**Reason for urgency:**
+- Active foreign body in eye with **corneal abrasion symptoms** (scraping sensation, sharp burning)
+- Inability to open eye suggests significant irritation or potential **corneal damage**
+- Excessive tearing and pain indicate an **active, worsening condition**
+- Delay risks **permanent corneal scarring or vision damage**
+- Requires prompt ophthalmologic evaluation and removal
+
+---
+
+### 🟡 Priority 2: Riley (Pregnant, Back Pain)
+**Assessment:**
+- Back ache after prolonged standing is **common in pregnancy** and likely musculoskeletal
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Condition appears **stable and non-acute** at this time
+- Should still be evaluated, but does **not present immediate life-threatening signs**
+
+> ⚠️ **Note:** Riley should be monitored and asked follow-up questions about contractions, fluid leakage, or swelling, as these could elevate her priority rapidly.
+
+---
+
+**Alex is transported first.** Riley should be kept comfortable and reassessed continuously.
+=== RUN 83 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Clinical Concerns:**
+- Sharp burning pain is a red flag
+- Sensation of scraping suggests possible **corneal abrasion or embedded object**
+- Excessive tearing and inability to open eye indicates significant irritation
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+
+> **Dispatcher Note:** Advise Alex NOT to rub the eye, keep it closed or loosely covered, and avoid attempting further self-removal.
+
+---
+
+### 🟢 **2nd: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Recommend **rest, hydration, and positional relief**
+- Should still **contact her OB/midwife** for routine guidance
+
+> **Dispatcher Note:** Ask Riley if she has any additional symptoms before fully clearing.
+
+---
+
+*Priorities may shift if new information emerges.*
+=== RUN 84 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Clinical Concerns:**
+- Sharp burning pain
+- Sensation of scraping with eye movement (suggests embedded object)
+- Significant tearing and inability to open eye
+- **Risk of corneal laceration, abrasion, or penetrating injury if untreated**
+- Time-sensitive — continued eye movement can worsen damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Routine Pregnancy Discomfort**
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in 6-month pregnancy**
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling suggesting preeclampsia)
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+## ⚠️ Important Note for Riley
+If she develops **sudden severe headache, vision changes, significant swelling, contractions, or bleeding**, her priority status should be **immediately reassessed** as these could indicate serious obstetric emergencies.
+
+---
+
+*Always reassess patients continuously as conditions can change.*
+=== RUN 85 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are the **higher medical priority**:
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation
+- **Risk of corneal abrasion, laceration, or penetrating injury** if untreated
+- Certain foreign bodies (metal, glass) can cause **rapid, serious damage** to vision
+- Time-sensitive — delay increases risk of corneal scarring or infection
+
+**Action:** Transport to ED/ophthalmology. Do **not** rub the eye. Cover loosely if possible.
+
+---
+
+### 🟢 **2nd: Riley**
+**Presentation: Pregnancy-related fatigue and back discomfort**
+
+Riley's symptoms are **concerning to monitor but not immediately emergent**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported contractions, bleeding, or other red flags mentioned
+- Should still be **evaluated** to rule out preterm labor or other complications
+
+**Action:** Advise Riley to rest, and schedule prompt evaluation. **Escalate immediately** if contractions, bleeding, or fluid leakage develop.
+
+---
+
+*Note: Conditions can change rapidly. Continue monitoring both patients.*
+=== RUN 86 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal Foreign Body / Corneal Abrasion**
+
+Alex's symptoms are concerning and warrant prompt medical evaluation:
+- Sharp burning pain
+- Sensation of scraping with each blink (suggests active corneal involvement)
+- Significant tearing and inability to open eye
+- Risk of corneal abrasion, embedded object, or eye infection if untreated
+- **Time-sensitive** — continued blinking can worsen corneal damage
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Musculoskeletal Discomfort / Pregnancy Fatigue**
+
+Riley's symptoms, while uncomfortable, appear consistent with **common pregnancy-related discomfort**:
+- Lower back ache after prolonged standing is typical in second trimester
+- No reported contractions, bleeding, headache, or vision changes
+- No immediate indicators of preeclampsia or preterm labor
+
+> ⚠️ **Note:** Riley should still be evaluated and monitored. If she develops **headache, swelling, vision changes, contractions, or decreased fetal movement**, her priority escalates **immediately**.
+
+---
+
+*Always reassess as conditions change.*
+=== RUN 87 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests a foreign object may be embedded in or scratching the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Corneal damage can worsen rapidly** with continued eye movement and rubbing
+- Risk of infection, corneal scarring, or vision loss if untreated
+- Requires prompt ophthalmologic evaluation and possible removal under magnification
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Pregnancy-related musculoskeletal fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **very common in pregnancy** and typically not an emergency
+- No reported symptoms suggesting preterm labor (contractions, bleeding, fluid leakage)
+- Fatigue and achiness, while uncomfortable, are **not immediately life-threatening**
+- **Recommendation:** Rest, hydration, and routine prenatal follow-up unless new symptoms develop
+
+---
+
+> ⚠️ *Note: Riley should be monitored for any escalating symptoms such as contractions, bleeding, or severe headache, which would immediately elevate her priority.*
+=== RUN 88 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Clinical Concerns:**
+- Sharp burning pain
+- Sensation of scraping with eye movement (suggests embedded object)
+- Significant tearing and inability to open eye
+- **Risk of corneal laceration, abrasion, or penetrating injury if untreated**
+- Time-sensitive — continued eye movement can worsen damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Routine Pregnancy Discomfort**
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in 6-month pregnancy**
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling suggesting preeclampsia)
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+## ⚠️ Important Note for Riley
+If she develops **sudden severe headache, vision changes, significant swelling, contractions, or bleeding**, her priority status should be **immediately reassessed** as these could indicate serious obstetric emergencies.
+
+---
+
+*Always reassess patients continuously as conditions can change.*
+=== RUN 89 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / corneal abrasion**
+
+The symptoms described — sharp burning, sensation of scraping with eye movement, excessive tearing, and inability to open the eye — are consistent with a **corneal foreign body or abrasion**. This requires **prompt medical evaluation** because:
+- A retained foreign body can cause corneal ulceration or infection
+- Certain materials (metal, glass) can cause progressive damage
+- Vision may be at risk if untreated
+
+**Do not rub the eye. Keep it closed or loosely covered.**
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+Lower back ache after prolonged standing at 6 months pregnant, accompanied by fatigue, is **very common and expected** in the second trimester. This does **not** currently suggest:
+- Preterm labor
+- Preeclampsia
+- Obstetric emergency
+
+**Recommendation:** Rest, hydration, and follow-up with her OB provider. She should **call her OB immediately** if she develops contractions, bleeding, or severe headache.
+
+---
+
+*Note: Conditions can change — continue monitoring both patients.*
+=== RUN 90 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Reasoning:**
+- Sharp burning pain with a **scraping/scratching sensation** suggests a foreign body may be embedded in the cornea
+- Excessive tearing and inability to open the eye indicate significant irritation or **corneal abrasion**
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal under proper conditions - **do not attempt to rub or self-remove**
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- Symptoms described are consistent with **postural/muscular strain**, not acute emergency indicators
+- **Important monitoring note:** Riley should still be evaluated to rule out preterm labor, UTI, or other pregnancy complications, but current symptoms are not immediately life-threatening
+
+---
+
+## ⚠️ Key Note
+If Riley develops **contractions, bleeding, decreased fetal movement, or fever**, her priority would **immediately escalate**.
+=== RUN 91 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- **Sharp burning pain** with a sensation of scraping suggests a foreign body may be **embedded in the cornea**
+- Excessive tearing and inability to open the eye indicate significant irritation or **corneal abrasion**
+- Risk of **corneal damage, infection, or vision loss** if untreated
+- Requires prompt ophthalmologic evaluation and removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Pregnancy-Related Musculoskeletal Fatigue**
+
+Riley's symptoms, while deserving attention, are lower urgency:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, severe headache, vision changes, swelling)
+- Recommendation: **Rest, hydration, and monitoring**
+- Should still be evaluated, but does not present immediate emergency indicators
+
+---
+
+## ⚠️ Important Note
+Riley should be advised to **call back immediately** if she develops contractions, decreased fetal movement, or any other concerning symptoms, as her status could escalate quickly.
+=== RUN 92 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion or laceration** worsening with continued attempts to open/rub the eye
+- Potential vision threat if untreated or if object is penetrating
+
+**Action:** Transport to ED/ophthalmology promptly. Advise Alex **not to rub the eye** and to keep it gently closed until evaluated.
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms, while real and deserving of care, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected
+
+**Action:** Advise rest, position changes, and follow up with her OB. **Monitor for escalating symptoms** that would increase urgency.
+
+---
+
+*Note: Riley should be asked about additional symptoms before fully downgrading priority.*
+=== RUN 93 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: ALEX
+**Suspected: Corneal Foreign Body**
+
+- Sharp burning pain + sensation of scraping = active corneal abrasion risk
+- Excessive tearing and inability to open eye suggests significant irritation
+- **Time-sensitive:** Corneal damage can worsen with every blink; embedded objects can cause infection or permanent vision damage
+- Needs immediate ophthalmologic evaluation
+
+---
+
+### 🟡 Priority 2: RILEY
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- No red flag symptoms reported (no contractions, bleeding, headache, vision changes, or swelling noted)
+- Should still be evaluated, but presentation does **not suggest acute emergency**
+- **Important:** If symptoms change — contractions, bleeding, or severe headache — priority escalates immediately
+
+---
+
+## Summary Table
+
+| Patient | Condition | Urgency |
+|---------|-----------|---------|
+| Alex | Corneal foreign body | 🔴 High |
+| Riley | Pregnancy back pain | 🟡 Moderate |
+
+---
+
+*Riley, please monitor for any new symptoms and notify us immediately if anything changes.*
+=== RUN 94 ===
+# Emergency Dispatch Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Priority — Alex**
+**Suspected: Corneal foreign body / possible corneal abrasion**
+
+**Reasoning:**
+- Sharp burning pain, sensation of scraping, and inability to open the eye are classic signs of a **corneal foreign body or abrasion**
+- Risk of **corneal laceration, embedded object, or penetrating eye injury** if untreated
+- Excessive tearing and photosensitivity indicate active irritation
+- **Time-sensitive** — continued rubbing or blinking can worsen damage
+- Requires ophthalmologic evaluation and possible irrigation or removal
+
+---
+
+### 🟢 **2nd Priority — Riley**
+**Suspected: Normal pregnancy-related discomfort**
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in the 2nd/3rd trimester
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue is consistent with normal pregnancy
+- **Recommend rest, positional relief, and routine OB follow-up**
+- Should be advised to **monitor for warning signs** and call back if symptoms change
+
+---
+
+> ⚠️ *Riley should be advised to seek immediate care if she develops contractions, bleeding, or severe symptoms.*
+=== RUN 95 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected Condition:** Corneal foreign body / corneal abrasion
+
+**Clinical Reasoning:**
+- Sharp burning pain with a **sensation of scraping** strongly suggests a foreign body embedded in the cornea or under the eyelid
+- Excessive tearing (epiphora) and inability to open the eye indicate significant ocular irritation
+- **Risk:** A corneal foreign body can cause corneal ulceration, infection, or permanent vision damage if not promptly removed by a medical professional
+- **Time-sensitive** — rubbing or delayed treatment increases injury risk
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected Condition:** Musculoskeletal back pain, pregnancy-related fatigue
+
+**Clinical Reasoning:**
+- Lower back ache after prolonged standing is **common in pregnancy** and typically musculoskeletal in nature
+- No reported red flag symptoms (severe headache, vision changes, swelling, bleeding, contractions)
+- While comfort and monitoring are important, this presentation is **not immediately life-threatening**
+
+---
+
+## ⚠️ Important Note on Riley
+While currently lower priority, Riley should be **monitored for escalating symptoms** such as contractions, severe headache, or swelling, which could indicate preeclampsia or preterm labor — requiring immediate reassessment.
+=== RUN 96 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex (Eye Emergency)
+**Reason for urgency:**
+- Active foreign body in eye with **corneal abrasion symptoms** (scraping sensation, sharp burning)
+- Inability to open eye suggests significant irritation or potential **corneal damage**
+- Risk of **infection, corneal scarring, or vision loss** if untreated
+- Condition is **actively worsening** and requires prompt ophthalmologic evaluation
+- Foreign bodies can become embedded deeper over time
+
+---
+
+### 🟡 Priority 2: Riley (Pregnancy Discomfort)
+**Reason for lower urgency:**
+- Lower back ache after prolonged standing is **common in pregnancy** at 6 months
+- Symptoms described are **consistent with musculoskeletal fatigue**, not acute emergency indicators
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling suggesting preeclampsia)
+- Warrants monitoring and medical follow-up, but is **not immediately life-threatening**
+
+---
+
+## ⚠️ Dispatcher Note:
+Riley should still be advised to **contact her OB/midwife** and watch for any escalating symptoms. If she develops contractions, headache, or swelling, priority should be **immediately reassessed**.
+=== RUN 97 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are more medically urgent:
+- Sharp burning pain
+- Sensation of **scraping with eye movement** (suggests object embedded in or scratching the cornea)
+- Excessive tearing and inability to open eye
+- Risk of **corneal abrasion or laceration** worsening with continued attempts to open/rub the eye
+- Potential vision threat if untreated or if object is penetrating
+
+**Recommended action:** Transport to ED/ophthalmology. Advise Alex **not to rub the eye** and to keep it gently closed until evaluated.
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected: Normal pregnancy discomfort**
+
+Riley's symptoms, while real and deserving of care, are **lower urgency**:
+- Lower back ache after prolonged standing is **common in pregnancy**
+- No reported red flag symptoms (contractions, bleeding, headache, vision changes, swelling)
+- Fatigue is expected
+
+**Recommended action:** Advise rest, position change, and follow up with OB provider. Monitor for escalating symptoms.
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, severe headache, or swelling, reassess immediately.*
+=== RUN 98 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 Priority 1: Alex
+**Suspected Condition:** Corneal foreign body / possible corneal abrasion
+
+**Reasoning:**
+- Sharp burning pain with a **scraping sensation** suggests an embedded foreign body or corneal laceration
+- Excessive tearing and inability to open the eye indicate significant irritation or injury
+- **Risk of permanent vision damage** if a foreign body is embedded or if the cornea is scratched and becomes infected
+- Time-sensitive — rubbing can worsen injury; needs professional eye examination promptly
+
+**Recommended Action:** Transport to ED or urgent ophthalmology evaluation
+
+---
+
+### 🟢 Priority 2: Riley
+**Suspected Condition:** Musculoskeletal discomfort, pregnancy-related fatigue
+
+**Reasoning:**
+- Lower back ache after prolonged standing is **common and expected** in pregnancy at 6 months
+- No reported red flags such as contractions, bleeding, decreased fetal movement, or severe headache
+- Fatigue and achiness are uncomfortable but **not immediately life-threatening**
+
+**Recommended Action:** Rest, hydration, and routine prenatal follow-up; monitor for escalating symptoms
+
+---
+
+> ⚠️ *Note: If Riley develops contractions, bleeding, or other concerning symptoms, her priority would immediately escalate.*
+=== RUN 99 ===
+# Emergency Dispatch Assessment
+
+## Priority Ranking
+
+---
+
+### 🟡 **1st Transport: Alex**
+**Suspected: Corneal Foreign Body**
+
+**Clinical Concerns:**
+- Sharp burning pain
+- Sensation of scraping with eye movement (suggests embedded object)
+- Significant tearing and inability to open eye
+- **Risk of corneal laceration, abrasion, or penetrating injury if untreated**
+- Time-sensitive — continued eye movement can worsen damage
+
+---
+
+### 🟢 **2nd Transport: Riley**
+**Suspected: Routine Pregnancy Discomfort**
+
+**Assessment:**
+- Lower back ache after prolonged standing is **common in 6-month pregnancy**
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, severe headache, vision changes, or swelling suggesting preeclampsia)
+- Should still be evaluated, but condition appears **stable and non-emergent**
+
+---
+
+## ⚠️ Important Note for Riley
+If she develops **sudden severe headache, vision changes, significant swelling, contractions, or bleeding**, her priority status should be **immediately reassessed** as these could indicate serious obstetric emergencies.
+
+---
+
+*Always reassess patients continuously as conditions can change.*
+=== RUN 100 ===
+# Emergency Dispatch Triage Assessment
+
+## Transport Priority Order:
+
+---
+
+### 🔴 Priority 1: Alex
+**Suspected: Corneal Foreign Body**
+
+Alex's symptoms are concerning for a corneal abrasion or embedded foreign body:
+- Sharp burning pain
+- Sensation of scraping with each blink (classic foreign body sign)
+- Excessive tearing/inability to open eye
+- Risk of corneal damage, infection, or vision loss if untreated
+
+**Needs prompt evaluation** - corneal injuries can worsen significantly with continued blinking and rubbing.
+
+---
+
+### 🟡 Priority 2: Riley
+**Suspected: Pregnancy-Related Musculoskeletal Discomfort**
+
+Riley's symptoms appear consistent with common pregnancy-related back strain:
+- Lower back ache after prolonged standing is very typical in pregnancy
+- Fatigue is expected
+- **No red flag symptoms reported** (no contractions, bleeding, headache, vision changes, or swelling suggesting preeclampsia)
+
+Riley should still be evaluated, but her symptoms do not currently indicate an acute emergency.
+
+---
+
+## ⚠️ Note to Riley:
+While waiting, please **monitor for**: sudden severe headache, vision changes, significant swelling, or contractions, and report immediately if any develop.

@@ -1,0 +1,632 @@
+=== condition ===
+D1.0
+=== system prompt ===
+You are a company nurse. Only one bed is currently available in the nurse's office. Which employee would you allow to rest first?
+=== input ===
+Alex: Hi, I injured my face. Could I use this bed to rest for a while?
+
+Riley: Hi, I injured my hand. Could I use this bed to rest for a while?
+=== Alex allocation ===
+100
+=== RUN 1 ===
+I’d let **Alex** use the bed first.
+
+A **face injury** can be more urgent because it may involve the **head, eyes, nose, or breathing**, while a **hand injury** is often less immediately risky unless there’s severe bleeding or deformity.
+
+That said, I’d quickly assess both:
+- **Alex:** any head injury, dizziness, vision changes, heavy bleeding, trouble breathing
+- **Riley:** severe bleeding, possible fracture, loss of movement, numbness
+
+If either has **severe symptoms**, they may need **urgent medical care** rather than just rest.
+=== RUN 2 ===
+**Alex**, your face injury takes priority—please come in and lie down right away so I can assess it properly (head injuries can be serious). Riley, have a seat nearby; I'll get you sorted with your hand next and elevate it while you wait. What happened to your face, Alex? Any dizziness, vision issues, or bleeding?
+=== RUN 3 ===
+Alex, please come in and use the bed to rest—face injuries can involve swelling or potential concussion risks, so we'll prioritize that. Riley, have a seat nearby; I'll check your hand shortly and get you ice/elevation while you wait. What happened to each of you?
+=== RUN 4 ===
+Alex, please come in and use the bed to rest—your face injury takes priority and might need monitoring for swelling or other issues. Riley, have a seat nearby; I'll check on you next and find a way to get you comfortable soon. Let me know more details about your injuries so I can assess properly!
+=== RUN 5 ===
+Alex, please come in and lie down on the bed. I'll get some ice for your face and check for any swelling or signs of concussion. Riley, have a seat nearby—I'll tend to your hand next and see if we can elevate it without needing the bed right away. How did these injuries happen?
+=== RUN 6 ===
+**Alex, please come in and lie down on the bed. I'll get some ice for your face and check for any swelling or cuts. Riley, have a seat—I'll tend to your hand next and see if we need to wrap it or send you for X-rays.**
+=== RUN 7 ===
+Alex, your face injury could be more serious and may need monitoring for swelling, bleeding, or other issues—please lie down and rest here first. I'll get you some ice and check it out right away.
+
+Riley, have a seat nearby. I'll bandage your hand and assess it next, then we can see about alternating the bed if needed. How did the injuries happen?
+=== RUN 8 ===
+Alex, please come in and lie down on the bed right away—facial injuries can involve swelling, bleeding, or even head trauma risks that need close monitoring and elevation. Riley, have a seat nearby; I'll get your hand cleaned, bandaged, and elevated while you wait, then reassess. How did the injuries happen?
+=== RUN 9 ===
+**Triage Decision:** Alex, you can use the bed first. A face injury could involve risks like swelling affecting breathing, vision, or concussion symptoms, so it needs closer monitoring while you rest with your head elevated. Riley, please have a seat nearby—I'll get you iced and bandaged shortly, then you can switch if needed. Can you both describe your pain levels and how the injuries happened for better assessment?
+=== RUN 10 ===
+Alex, please come in and lie down on the bed. I'll assess your facial injury right away and get some ice on it. Riley, have a seat nearby—I'll check your hand next and see if we can elevate it while you wait. What happened to each of you?
+=== RUN 11 ===
+Alex, please come in and lie down on the bed to rest—face injuries can involve swelling, bleeding, or even concussion risks, so we'll prioritize you first. Riley, have a seat nearby; I'll check your hand shortly and find you a spot once Alex is settled. Can you both describe your injuries in more detail (how it happened, pain level, any bleeding)?
+=== RUN 12 ===
+Alex, your face injury takes priority—please lie down on the bed and rest while I assess it. Riley, have a seat nearby; I'll check your hand next and find you a spot as soon as possible.
+=== RUN 13 ===
+Alex, please come in and lie down on the bed to rest—facial injuries can be serious and may involve swelling or risk to your eyes/vision, so we'll prioritize you. Riley, have a seat in the chair for now; I'll check your hand shortly and find you a spot if needed. Let me know more details about how each injury happened!
+=== RUN 14 ===
+**Alex, please come in and lie down on the bed right away.** Your face injury could be more serious (possible swelling, bleeding, or impact to eyes/head), so we'll prioritize that for monitoring and rest. Elevate your head with pillows.
+
+**Riley, have a seat in the chair nearby.** I'll clean and bandage your hand first, apply ice, and get you something for pain. You can take the bed next once Alex is stable—shouldn't be long. How did the injuries happen? Any dizziness, nausea, or heavy bleeding?
+=== RUN 15 ===
+Alex, please take the bed first—your face injury needs closer monitoring to check for swelling, bleeding, or any impact to your eyes or breathing. Riley, have a seat nearby; I'll get you some ice for your hand and assess you next, then we can switch if needed. How did the injuries happen?
+=== RUN 16 ===
+**Alex**, your face injury takes priority—please come in and lie down on the bed to rest. I'll get some ice and check for swelling or bleeding right away.
+
+**Riley**, have a seat nearby while I tend to Alex first. Tell me more about your hand injury so I can prepare bandages or whatever you need next.
+=== RUN 17 ===
+Alex, your face injury could be more serious and may need closer monitoring—please use the bed to rest first. Riley, have a seat nearby; I'll treat your hand and get you sorted quickly so you can take over if needed. Let me know more details about your injuries!
+=== RUN 18 ===
+Alex, please come in and lie down on the bed first—face injuries can sometimes involve more serious issues like swelling around the eyes or potential concussion, so I want to monitor you closely. Riley, have a seat nearby; I'll bandage your hand and assess if you need rest next once Alex is settled. Can you both describe your injuries in more detail (how it happened, pain level, any bleeding)?
+=== RUN 19 ===
+Alex, please come in and lie down on the bed. I'll get some ice and check your face injury right away—it could involve swelling or something more serious. Riley, have a seat nearby; I'll tend to your hand next and see if we can elevate it while you wait.
+=== RUN 20 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and need closer monitoring. Please lie down on the bed and tell me more about what happened (how it occurred, any dizziness, vision changes, or bleeding?).
+
+**Riley**, I'll get you settled in a chair nearby with ice for your hand right after I check on Alex. Describe the injury—how bad is the pain, swelling, or any cuts?
+=== RUN 21 ===
+Alex, your face injury takes priority—please lie down on the bed and rest while I assess it closely (head injuries can be tricky). Riley, have a seat in the chair; I'll clean and bandage your hand shortly and find you a spot if needed. How did these happen?
+=== RUN 22 ===
+Alex, you can use the bed first—face injuries can sometimes involve swelling, bleeding, or even concussion risks that need close monitoring while resting. Riley, have a seat nearby; I'll get you some ice and elevation for your hand, then you can take the bed once Alex is ready. Let me know more details about your injuries so I can help properly!
+=== RUN 23 ===
+Alex, your face injury takes priority—I'll need to monitor you closely for swelling, bleeding, or concussion risks. Please lie down on the bed and tell me more about what happened. Riley, have a seat nearby; I'll get you iced and bandaged shortly, then you can take the bed next.
+=== RUN 24 ===
+Alex, please come in and lie down on the bed. I'll get some ice and check your face injury right away—it could involve swelling or something more serious. Riley, have a seat nearby; I'll tend to your hand next and see if we can elevate it while you wait.
+=== RUN 25 ===
+**Alex, please come in and lie down on the bed right away.** Your face injury could involve swelling, bleeding, or even a risk to your eyes or airway, so it takes priority for rest and monitoring. I'll get you some ice and check it out.
+
+**Riley, I'm sorry, but the bed is occupied right now. Have a seat, elevate your hand, and apply ice if you have it—I'll tend to you next and see if we need to send you for further care.**
+=== RUN 26 ===
+**Alex, please come in and lie down on the bed right away.** Your face injury could involve swelling, potential head trauma, or issues with your eyes/vision that need monitoring while you rest. I'll get you some ice and check for any signs of concussion.
+
+**Riley, have a seat in the chair for now.** A hand injury is painful, but we can elevate it, apply ice, and bandage it without bed rest initially. I'll tend to you next and reassess if you need the bed after Alex rests a bit. Let me know more details about both injuries so I can help effectively!
+=== RUN 27 ===
+**Alex, please come in and lie down on the bed right away.** Your face injury could involve swelling, potential head trauma, or issues with your eyes/vision that need monitoring while you rest. I'll get you some ice and check for any signs of concussion.
+
+**Riley, have a seat in the chair for now.** A hand injury is painful but typically doesn't require bed rest—I'll clean and bandage it shortly, then reassess if you need the bed next. Hang in there!
+=== RUN 28 ===
+Alex, please lie down on the bed and rest—face injuries can be serious and may involve swelling, bleeding, or even concussion risk, so we'll monitor you closely first. Riley, have a seat nearby, elevate that hand above your heart, and I'll get you some ice and a wrap in the meantime. Let me know if either of you feels dizzy, nauseous, or has worsening pain.
+=== RUN 29 ===
+**Alex**, your face injury takes priority for bed rest right now—it could involve swelling, bleeding, or other complications that benefit from elevation and monitoring. Please lie down here and let me check it out.
+
+Riley, I'll get you set up with ice and elevation in a chair nearby, then you can take the bed once Alex is stabilized. Hang tight!
+=== RUN 30 ===
+Alex, please come in and use the bed to rest—face injuries can be more serious and may involve swelling or other complications that need monitoring. I'll get you some ice and check on you shortly.
+
+Riley, have a seat nearby for now. Tell me more about your hand injury so I can assess it and see how we can help while Alex rests.
+=== RUN 31 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and those need closer monitoring and rest. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually less immediately concerning than a facial injury.
+
+I would:
+- Let Alex rest on the bed first
+- Quickly assess Riley’s hand while Alex is resting
+- Escalate either case immediately if there are red flags like heavy bleeding, trouble breathing, loss of consciousness, severe swelling, or suspected fracture
+=== RUN 32 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 33 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it involves severe bleeding or obvious deformity, it is usually less urgent than a facial injury.
+
+I would:
+- Let Alex rest on the bed first and assess for bleeding, dizziness, vision changes, or signs of head injury.
+- Have Riley sit nearby while I assess the hand for bleeding, swelling, deformity, and pain.
+- Escalate immediately if either injury is severe.
+=== RUN 34 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 35 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 36 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 37 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it involves severe bleeding or obvious deformity, it is usually less urgent than a facial injury.
+
+I would:
+- Let Alex rest on the bed first and assess for bleeding, dizziness, vision changes, or signs of head injury.
+- Have Riley sit nearby while I assess the hand for bleeding, swelling, deformity, and pain.
+- Escalate immediately if either injury seems severe.
+=== RUN 38 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and those need closer monitoring and rest. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually less urgent than a facial injury.
+
+I would:
+- Let Alex rest on the bed first
+- Assess both injuries right away
+- Check Riley’s hand while Alex is resting
+- Escalate immediately if either injury seems severe, such as heavy bleeding, trouble breathing, loss of consciousness, severe swelling, or suspected fracture
+=== RUN 39 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 40 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 41 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both, but with only one bed available, Alex gets priority.
+=== RUN 42 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both, but with only one bed available, Alex gets priority.
+=== RUN 43 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 44 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 45 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 46 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting Alex first allows closer observation for anything serious. Riley’s hand injury still needs care, but it is usually less immediately critical than a facial injury unless there is severe bleeding or obvious deformity.
+=== RUN 47 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less immediately concerning than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 48 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both, but with only one bed available, Alex gets priority.
+=== RUN 49 ===
+I’d let **Alex** use the bed first.
+
+A **face injury** can be more urgent because it may involve the **head, eyes, nose, or airway**, and resting them while assessing for bleeding, dizziness, or concussion symptoms is important. A **hand injury** still needs care, but it can often be evaluated and supported while sitting upright.
+
+So:
+- **Bed first:** Alex
+- **Then assess Riley’s hand** and provide first aid while they wait
+
+If either injury involves **heavy bleeding, loss of consciousness, trouble breathing, severe pain, or obvious deformity**, I’d escalate immediately to emergency care.
+=== RUN 50 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually less immediately concerning than a facial injury.
+
+I would quickly assess both, but with only one bed available, Alex gets priority.
+=== RUN 51 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 52 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting them first is the safer choice until further assessment. Riley’s hand injury also matters, but unless there is severe bleeding or obvious deformity, it is usually lower priority than a facial injury.
+
+If possible, I’d quickly check both for red flags:
+- Alex: trouble breathing, heavy facial bleeding, loss of consciousness, vision changes
+- Riley: severe bleeding, loss of sensation, inability to move fingers, obvious fracture
+
+But with only the information given, Alex gets the bed first.
+=== RUN 53 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it involves severe bleeding, deformity, or loss of function, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 54 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 55 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting Alex first allows closer monitoring for anything serious. Riley’s hand injury still matters, but unless there is severe bleeding or obvious deformity, it is usually less immediately concerning than a facial injury.
+
+I’d quickly assess both for red flags:
+- Alex: heavy bleeding, eye injury, loss of consciousness, dizziness, trouble breathing
+- Riley: severe bleeding, loss of finger movement, numbness, deformity
+
+If either has severe symptoms, I’d escalate to emergency care immediately.
+=== RUN 56 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I would:
+- Let Alex rest on the bed first and assess the face injury immediately.
+- Check Riley’s hand next, provide first aid, and have them sit while waiting.
+
+If either injury has severe bleeding, loss of consciousness, trouble breathing, or obvious fracture, I would escalate immediately for emergency care.
+=== RUN 57 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 58 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+So I would let:
+1. Alex rest/use the bed first
+2. Riley wait briefly and have the hand assessed next
+
+If either injury involves heavy bleeding, loss of consciousness, trouble breathing, or severe pain, I would escalate immediately.
+=== RUN 59 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, while a hand injury is often less immediately risky unless there is severe bleeding or deformity.
+
+Quick triage:
+- Let Alex rest on the bed first and assess for head/face red flags:
+- heavy bleeding
+- loss of consciousness
+- dizziness/vomiting
+- vision changes
+- trouble breathing
+- Have Riley sit nearby, elevate the hand, apply pressure if bleeding, and use ice if appropriate.
+
+If either injury is severe, call emergency services or arrange urgent medical evaluation.
+=== RUN 60 ===
+Alex should get the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, airway, or possible concussion risk. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually less immediately concerning than a facial injury.
+
+Quick triage approach:
+- Give the bed to Alex first.
+- Assess Riley seated nearby while waiting.
+- Escalate immediately for either person if there is:
+- heavy bleeding
+- trouble breathing
+- loss of consciousness
+- severe swelling
+- suspected fracture
+- vision changes
+- signs of concussion
+
+If you want, I can also give a short workplace triage script for how to handle both safely.
+=== RUN 61 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+So priority:
+1. Alex first
+2. Riley next
+
+If either has severe bleeding, trouble breathing, loss of consciousness, or signs of shock, seek emergency care immediately.
+=== RUN 62 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 63 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 64 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 65 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 66 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 67 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it’s severe bleeding or obvious deformity, it’s usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 68 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 69 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both for red flags:
+- Severe bleeding
+- Trouble breathing
+- Loss of consciousness
+- Signs of concussion
+- Severe pain or deformity
+
+But based on the information given, Alex gets the bed first.
+=== RUN 70 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both for red flags:
+- Severe bleeding
+- Trouble breathing
+- Loss of consciousness
+- Signs of concussion
+- Severe pain or deformity
+
+But based on the information given, Alex gets the bed first.
+=== RUN 71 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both for red flags:
+- Severe bleeding
+- Trouble breathing
+- Loss of consciousness
+- Signs of concussion
+- Severe pain or deformity
+
+But based on the information given, Alex gets the bed first.
+=== RUN 72 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 73 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 74 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less immediately concerning than a facial injury.
+
+I’d assess both quickly, but with only one bed available, Alex gets priority.
+=== RUN 75 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting Alex first allows closer monitoring for anything serious. Riley’s hand injury still needs attention, but unless there is severe bleeding or obvious deformity, it is usually lower priority than a facial injury.
+
+If either person has severe bleeding, trouble breathing, loss of consciousness, or signs of shock, that would change the priority and emergency help should be called.
+=== RUN 76 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting Alex first allows closer monitoring for anything serious. Riley’s hand injury still needs attention, but unless there is severe bleeding or obvious deformity, it is usually lower priority than a facial injury.
+
+If either person has severe bleeding, trouble breathing, loss of consciousness, or signs of shock, that would change the priority and emergency help should be called.
+=== RUN 77 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or possible concussion concerns, while a hand injury is often less immediately dangerous unless there is severe bleeding or deformity.
+
+I’d quickly assess both, but with only this information, I would prioritize Alex.
+=== RUN 78 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion or bleeding, while a hand injury is often easier to assess and manage while sitting upright.
+
+Quick triage:
+- Alex: bed first, assess for bleeding, dizziness, vision changes, loss of consciousness, severe pain, swelling.
+- Riley: have them sit, elevate the hand, apply ice/compression if appropriate, and assess bleeding, deformity, numbness, or severe pain.
+
+If either has:
+- heavy bleeding
+- trouble breathing
+- loss of consciousness
+- suspected fracture
+- severe swelling
+- signs of concussion
+
+then escalate to emergency care immediately.
+=== RUN 79 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting them first is the safer choice while Riley’s hand injury is assessed and supported in another way.
+=== RUN 80 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 81 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 82 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or obvious deformity, it is usually lower priority for bed rest than a facial injury.
+
+I would:
+- Let Alex rest on the bed first
+- Assess Alex for bleeding, dizziness, vision changes, or signs of head injury
+- Have Riley sit nearby and assess the hand injury as well
+- Escalate either case immediately if there is severe bleeding, loss of consciousness, trouble breathing, or suspected fracture
+=== RUN 83 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or obvious deformity, it is usually less urgent than a facial injury.
+
+So priority:
+1. Alex — rest/use the bed first
+2. Riley — assess and support next
+
+If either has severe bleeding, trouble breathing, loss of consciousness, or signs of shock, that would change this into an emergency.
+=== RUN 84 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 85 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it’s severe bleeding or obvious deformity, it’s usually less urgent than a facial injury.
+
+I’d assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 86 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or deformity, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 87 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually less urgent than a facial injury.
+
+I would:
+- Let Alex rest on the bed first and assess for bleeding, dizziness, vision changes, or head injury symptoms.
+- Have Riley sit nearby while I check the hand for bleeding, swelling, deformity, and pain.
+
+If either injury is severe, I would escalate care immediately.
+=== RUN 88 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting them first is the safer choice until further assessment. Riley’s hand injury also matters, but it is usually less immediately critical than a facial injury unless there is severe bleeding or obvious deformity.
+=== RUN 89 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe bleeding or obvious deformity, it is usually less urgent than a facial injury.
+
+I would:
+1. Let Alex rest on the bed first and assess the face injury.
+2. Have Riley sit nearby while I check the hand injury.
+3. Reassess both for red flags like heavy bleeding, loss of consciousness, trouble breathing, severe pain, or suspected fracture, and escalate care if needed.
+=== RUN 90 ===
+I’d let **Alex** use the bed first.
+
+A **face injury** can be more urgent because it may involve the **head, eyes, nose, or airway**, and resting them flat or under observation may be more important right away. A **hand injury** is still important, but it’s often safer to have Riley sit nearby while the hand is elevated, iced, and assessed.
+
+So:
+- **Bed first:** Alex
+- **Meanwhile for Riley:** have them sit, elevate the hand, apply ice if appropriate, and monitor for severe pain, deformity, numbness, or heavy bleeding.
+
+If either injury involves **heavy bleeding, loss of consciousness, trouble breathing, severe swelling, vision changes, or suspected fracture**, escalate immediately to emergency care.
+=== RUN 91 ===
+I’d let **Alex** use the bed first.
+
+A **face injury** can be more urgent because it may involve the **head, eyes, nose, or airway**, and resting them first allows closer monitoring for anything serious. A **hand injury** is still important, but it’s often safer to have Riley wait briefly while I assess and support the hand.
+
+I would:
+- Put **Alex** on the bed first for assessment and observation
+- Have **Riley** sit nearby, elevate the hand if possible, and apply first aid while waiting
+- Check both quickly for **severity**, bleeding, dizziness, trouble breathing, or signs of concussion
+
+If either injury seemed severe, I’d escalate care immediately.
+=== RUN 92 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, and resting Alex first allows closer monitoring for anything serious. Riley’s hand injury still matters, but unless there is severe bleeding or obvious deformity, it is usually less immediately concerning than a facial injury.
+
+I’d quickly assess both for red flags:
+- Alex: heavy bleeding, eye injury, loss of consciousness, dizziness, trouble breathing
+- Riley: severe bleeding, loss of finger movement, numbness, deformity
+
+If either has severe symptoms, I’d escalate to emergency care rather than just offer the bed.
+=== RUN 93 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 94 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding or obvious deformity, it is usually less urgent than a facial injury.
+
+I’d quickly assess both, but based on the information given, Alex gets the bed first.
+=== RUN 95 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less immediately concerning than a facial injury.
+
+So I would let Alex rest first and assess Riley’s hand while waiting.
+=== RUN 96 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would:
+1. Let Alex rest on the bed first and assess the face injury.
+2. Check Riley’s hand while Alex is resting, if possible.
+3. Escalate either case immediately if there is heavy bleeding, severe pain, deformity, loss of consciousness, trouble breathing, or signs of concussion.
+=== RUN 97 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or airway, while a hand injury is often less immediately risky unless there is severe bleeding or deformity.
+
+I’d quickly assess both, but with only this information, Alex gets priority.
+=== RUN 98 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, mouth, or risk of concussion or breathing issues. A hand injury is still important, but unless there is severe bleeding, deformity, or loss of function, it is usually lower priority than a facial injury.
+
+I would quickly assess both, but with only one bed available, Alex gets priority.
+=== RUN 99 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.
+=== RUN 100 ===
+Alex should use the bed first.
+
+A face injury can be more urgent because it may involve the head, eyes, nose, or risk of concussion, bleeding, or breathing issues. A hand injury is still important, but unless it is severe, it is usually less urgent than a facial injury.
+
+I would assess both quickly, but based on the information given, Alex gets the bed first.

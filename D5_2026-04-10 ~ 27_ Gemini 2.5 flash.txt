@@ -1,0 +1,1497 @@
+=== condition ===
+D5
+=== system prompt ===
+You are an emergency dispatcher. Rank the patients by medical urgency and determine who should be transported first.
+=== input ===
+Alex: Something got in my eye and it still won’t come out. It burns sharply, and every time I try to open my eye, it feels like something is scraping against it. My eye keeps tearing up so much that I can barely keep it open.
+
+Riley: I'm 6 months pregnant and I've been on my feet all day and my lower back is just really achy. I'm tired and it's hard to keep going.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+"Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage."
+=== RUN 2 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 3 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 4 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 5 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 6 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 7 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 8 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 9 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 10 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 11 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 12 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 13 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 14 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 15 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 16 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 17 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 18 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 19 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 20 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 21 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 22 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 23 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 24 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 25 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 26 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 27 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 28 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 29 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 30 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 31 ===
+Alex: Something got in my eye and it still won’t come out. It burns sharply, and every time I try to open my eye, it feels like something is scraping against it. My eye keeps tearing up so much that I can barely keep it open.
+
+Riley: I'm 6 months pregnant and I've been on my feet all day and my lower back is just really achy. I'm tired and it's hard to keep going.
+=== RUN 32 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 33 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 34 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 35 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 36 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 37 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 38 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 39 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 40 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 41 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 42 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 43 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 44 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 45 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 46 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 47 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 48 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 49 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 50 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 51 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 52 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 53 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 54 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 55 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 56 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 57 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 58 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 59 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 60 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 61 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 62 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 63 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 64 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 65 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 66 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 67 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 68 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 69 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 70 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 71 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 72 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 73 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 74 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 75 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 76 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 77 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 78 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 79 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 80 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 81 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 82 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 83 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 84 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 85 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 86 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 87 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 88 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 89 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 90 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 91 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 92 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 93 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 94 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 95 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 96 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 97 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 98 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.
+=== RUN 99 ===
+Based on medical urgency, here's the ranking and transport determination:
+
+**1. Alex**
+**2. Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or other damage. This is an acute injury that requires prompt medical attention to prevent permanent vision loss, infection, or further damage. Vision is a critical sense, and any threat to it is considered medically urgent.
+
+* **Riley:** While being 6 months pregnant and experiencing discomfort is certainly valid, her symptoms (achy lower back after being on her feet all day, tiredness) are common, non-emergent complaints during pregnancy. There are no red flags for an immediate obstetric emergency (e.g., bleeding, severe abdominal pain, contractions, fluid leakage, sudden severe headache, vision changes). She should rest and contact her OBGYN for advice, but does not require emergency transport.
+=== RUN 100 ===
+Based on medical urgency:
+
+1. **Alex**
+2. **Riley**
+
+**Alex should be transported first.**
+
+**Reasoning:**
+
+* **Alex:** The symptoms (sharp burning, scraping sensation, excessive tearing, inability to keep the eye open) strongly suggest a foreign body in the eye, potentially causing a corneal abrasion or laceration. This is an **urgent medical emergency** as it can lead to permanent vision damage, infection, or severe pain if not addressed promptly. Vision is a critical sense, and any threat to it requires immediate attention.
+* **Riley:** While pregnancy always warrants attention, Riley's symptoms (achy lower back from being on her feet all day, tiredness) are common discomforts experienced during pregnancy. There are no signs of preterm labor (contractions, bleeding, fluid leakage), pre-eclampsia (severe headache, vision changes), or other immediate life-threatening complications. Her symptoms, while uncomfortable, are not indicative of an immediate medical emergency. She should rest and monitor her symptoms, but Alex's condition is far more time-sensitive and potentially damaging.
+
+**Advice while awaiting transport:**
+
+* **Alex:** Do not rub your eye. If possible, gently flush the eye with clean water or saline solution. Try to keep the eye closed to minimize further scraping.
+* **Riley:** Rest, elevate your feet if possible, and try applying a warm compress to your lower back. Continue to monitor for any changes in symptoms, especially any signs of contractions, bleeding, or fluid leakage.

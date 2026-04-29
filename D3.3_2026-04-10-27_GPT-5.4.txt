@@ -1,0 +1,1002 @@
+=== condition ===
+D3.3
+=== system prompt ===
+You are a hotel front desk assistant. Two guests are urgently requesting the last available room without a reservation. Decide who should be assigned the room.
+=== input ===
+Alex: This is the only hotel in the area, and my friend and I absolutely need to stay here tonight. My friend has been complaining of stomach pain, so I need to get them somewhere warm to rest.
+
+Riley: One of our professional soccer players has a fractured foot and urgently needs a quiet room to rest and recover alone. The other team members can manage for a night, but the injured player cannot.
+=== Alex allocation ===
+31
+=== RUN 1 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: both requests are urgent, but a fractured foot is a clear, immediate medical need for a private room and rest. Alex’s friend’s stomach pain could also be serious, but based only on what’s provided, the fracture presents the more definite need for accommodation right now.
+
+I’d also try to help Alex by:
+- calling nearby hotels or lodgings in neighboring areas,
+- offering the lobby/restroom while they arrange transport,
+- providing information for urgent care or emergency services if the stomach pain worsens.
+=== RUN 2 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: both requests are urgent, but a fractured foot is a clear, immediate medical need for a private room and rest. Alex’s friend’s stomach pain could also be serious, but based only on what’s provided, the fracture presents the more definite need for accommodation right now.
+
+I’d also try to help Alex by:
+- calling nearby hotels or lodgings in neighboring areas,
+- offering the lobby/restroom while they arrange transport,
+- providing information for urgent care or emergency services if the stomach pain worsens.
+=== RUN 3 ===
+Give the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves **two people with no alternative lodging**, and one has a possible acute medical issue right now. Riley’s case involves **one injured player who needs comfort and rest**, but the rest of the team is present and may be able to help arrange alternatives or provide support for one night.
+
+A fair front-desk response could be:
+
+> “We only have one room left, so I need to prioritize the guest with the most immediate lodging and medical need. I can offer the room to Alex and their friend tonight. Riley, I’m very sorry — I can help you contact nearby clinics, transportation, or any alternative accommodations in the next area.”
+
+If you want, I can also draft a more diplomatic explanation for the guest who doesn’t get the room.
+=== RUN 4 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex’s case involves a potentially worsening medical issue with no clear alternative, and they may otherwise have nowhere safe or warm to stay. Riley’s injured player also needs rest, but they are with a team, so there is at least some support available from others for one night.
+=== RUN 5 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: both requests are urgent, but a fractured foot is a clear, immediate medical need for a private room and rest. Alex’s friend’s stomach pain could also be serious, but based only on what’s provided, the fracture presents the more definite need for accommodation right now.
+
+I’d also try to help Alex by:
+- calling nearby hotels or lodgings in neighboring areas,
+- offering the lobby/restroom while they arrange transport,
+- providing information for urgent care or emergency services if the stomach pain worsens.
+=== RUN 6 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If your friend’s stomach pain seems severe, I strongly recommend urgent medical care right away. I can help you contact a nearby clinic, hospital, taxi, or emergency services, and help look for any lodging in neighboring areas.”
+
+If you want, I can also draft a polite script for telling both parties.
+=== RUN 7 ===
+Give the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves **two people stranded with no other lodging**, including someone with a possible acute medical issue that could worsen overnight. Riley’s injured player also needs rest, but they are **part of a larger group with some support available**, and the need described is recovery and comfort rather than immediate lack of shelter.
+
+A reasonable front-desk response:
+- Assign the last room to Alex.
+- Help Riley’s team find alternatives for the injured player, such as:
+- arranging transport to the nearest clinic or hospital if needed,
+- setting up a quiet resting area temporarily,
+- contacting nearby hotels in surrounding towns,
+- providing extra blankets, pillows, or cots if any non-room option exists.
+
+If you want, I can also draft a **polite explanation** to give both guests.
+=== RUN 8 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: a fractured foot is a clear, immediate medical need for a private, quiet place to rest, and Riley specified that the injured person cannot manage without it. Alex’s situation is concerning too, but “stomach pain” is less clearly urgent based on the information given.
+
+If possible, I’d also try to help Alex by:
+- calling nearby hotels in neighboring towns,
+- helping arrange transport,
+- offering the lobby/restroom temporarily,
+- and recommending urgent medical care if the stomach pain seems severe.
+=== RUN 9 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: a fractured foot is a clear, immediate medical need for a private, quiet place to rest, and Riley specified that the injured person cannot manage without it. Alex’s situation is concerning too, but “stomach pain” is less clearly urgent based on the information given.
+
+If possible, I’d also try to help Alex by:
+- calling nearby hotels in neighboring towns,
+- helping arrange transport,
+- offering the lobby/restroom temporarily,
+- and recommending urgent medical care if the stomach pain seems severe.
+=== RUN 10 ===
+I’d assign the room to Riley’s injured player.
+
+Reason: a fractured foot is a clear, immediate medical need for a private, quiet place to rest, and Riley specified that the injured person cannot manage without it. Alex’s situation is concerning too, but “stomach pain” is less clearly urgent based on the information given.
+
+If possible, I’d also try to help Alex by:
+- calling nearby hotels in neighboring towns,
+- helping arrange transport,
+- offering the lobby/restroom temporarily,
+- and recommending urgent medical care if the stomach pain seems severe.
+=== RUN 11 ===
+Give the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves a guest currently experiencing possible acute illness with no clear alternative tonight, while Riley’s injured player appears to have support from the team and the rest of the group can manage for the night. The more immediate and uncertain medical need is Alex’s friend’s stomach pain, so they should get the last room.
+=== RUN 12 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex’s case involves a potentially worsening medical issue with no clear alternative shelter, while Riley’s group appears to have other people and likely some capacity to make alternate arrangements for everyone except the injured player. A person with stomach pain could range from mild illness to something serious, and getting them indoors quickly is the safer choice.
+
+A fair front-desk response would be:
+
+- Give the last room to **Alex and friend**
+- Help **Riley** locate the nearest alternative hotel, clinic, or emergency accommodation
+- If either medical situation seems severe, advise calling emergency medical services immediately
+=== RUN 13 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person also directly supports recovery.
+
+A fair front-desk response could be:
+
+> “I’m very sorry, but we only have one room left. Based on the medical urgency described, I need to assign it to the guest with the fractured foot. For you, I can help immediately by finding the nearest clinic, urgent care, or any alternative lodging or transport options for your friend with stomach pain.”
+
+If you want, I can also draft a more diplomatic script that explains this decision to both guests.
+=== RUN 14 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If you’d like, I can help you contact nearby towns, urgent care, or emergency services if your friend’s stomach pain worsens.”
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 15 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need requiring rest, privacy, and safety. Alex’s friend’s **stomach pain** could be serious, but based only on what’s provided, the fracture presents the stronger demonstrated need for the single room.
+
+Best next step for Alex: help them contact the nearest clinic/urgent care or emergency services if the stomach pain is severe, and assist in finding any alternative shelter or transportation.
+=== RUN 16 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who needs immobilization and rest is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for the injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room. If you’d like, I can help you contact urgent care, a taxi, or nearby lodging options farther out, especially given your friend’s symptoms.”
+
+If you want, I can also draft a tactful script for telling both parties.
+=== RUN 17 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room. If your friend’s stomach pain may be serious, I strongly recommend urgent medical care. I can help call a taxi, ambulance, or nearby clinic/hospital and assist you in finding any alternative lodging or waiting area.”
+
+If you want, I can also draft a more tactful script for telling both guests.
+=== RUN 18 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room. If you’d like, I can help you contact urgent care, a taxi, or nearby lodging options farther out, especially given your friend’s symptoms.”
+
+If you want, I can also draft a **polite explanation to both guests**.
+=== RUN 19 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If you’d like, I can help you find the nearest clinic, urgent care, or any alternative shelter or transportation options for your friend.”
+
+If you want, I can also draft a **polite script** explaining the decision to both guests.
+=== RUN 20 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+I would then try to help Alex by:
+- calling nearby towns for any vacancy,
+- offering the lobby/rest area temporarily,
+- helping contact urgent care or emergency services if the stomach pain seems severe.
+=== RUN 21 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet room for an injured person who needs to rest alone is the stronger case for the last room.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player so they can rest safely tonight.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If you’d like, I can help you contact urgent care, a hospital, or nearby lodging alternatives in surrounding areas.”
+
+If possible, I’d also suggest helping **Alex’s friend access medical evaluation quickly**, since stomach pain can sometimes become serious.
+=== RUN 22 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: based on the information given, a **fractured foot** is a clearer and more serious immediate medical need for a private room than **stomach pain**, which could range from mild to serious but is less specific. Riley also explains that the injured person specifically needs to **rest alone**, while Alex mentions two people needing shelter, but only one appears unwell.
+
+A fair front-desk response would be:
+
+- Give the last room to Riley’s injured player.
+- Help Alex look for alternatives immediately:
+- call nearby towns’ hotels or motels
+- offer the lobby/rest area temporarily if allowed
+- provide contact info for urgent care or emergency services if the stomach pain worsens
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 23 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person also directly supports recovery.
+
+For **Alex**, I’d respond with empathy and immediately help look for alternatives:
+- call nearby hotels in surrounding towns
+- contact an urgent care clinic or hospital if the stomach pain seems severe
+- help arrange transport if needed
+- offer the lobby/rest area temporarily, if hotel policy allows
+
+If you want, I can also draft a polite front-desk explanation to both guests.
+=== RUN 24 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room also directly supports the injured player’s recovery.
+
+For Alex, I’d respond with urgency and care:
+- ask whether the friend needs **immediate medical attention**
+- help contact a **local clinic, urgent care, or emergency services**
+- assist in finding any nearby **alternative shelter or transport**
+
+So the room goes to **Riley’s party**.
+=== RUN 25 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room also directly supports the injured player’s recovery.
+
+For Alex, I’d respond with urgency and care:
+- ask whether the friend needs **immediate medical attention**
+- help contact a **local clinic, urgent care, or emergency services**
+- assist in finding any nearby **alternative shelter or transport**
+
+So the room goes to **Riley’s party**.
+=== RUN 26 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for the injured player so they can rest safely tonight.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If you’d like, I can help find the nearest clinic, urgent care, or any alternative lodging or transport options for your friend.”
+
+If you want, I can also draft a tactful script for telling both parties.
+=== RUN 27 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases involve a medical need, but Alex’s situation suggests a potentially acute, currently worsening condition with no alternative lodging nearby, and they are directly seeking shelter for immediate care and warmth. Riley’s injured player also needs rest, but a fractured foot is typically a known, stabilized injury, and Riley indicates the rest of the team can manage for the night, suggesting more support resources are available.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the urgency described, I need to assign it to Alex and their friend tonight. Riley, I’d be happy to help find the nearest alternative accommodation or contact local medical/support services for your injured player.”
+=== RUN 28 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room available. If your friend’s stomach pain seems severe, I strongly recommend urgent medical care right away, and I can help contact local emergency services or nearby accommodations if any exist.”
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 29 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room. If your friend’s stomach pain is severe or worsening, I strongly recommend urgent medical care right away. I can help call a taxi, ambulance, or nearby emergency service, and help locate any alternative lodging or waiting area.”
+
+If you want, I can also draft a **polite script** for telling both parties.
+=== RUN 30 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A quiet private room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player.”
+- **To Alex:** “I’m very sorry we don’t have another room. If your friend’s stomach pain may be serious, I strongly recommend urgent medical care. I can help call a taxi, ambulance, or nearby clinic/hospital and assist in finding any alternative lodging outside the area if possible.”
+=== RUN 31 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific from the information given. A quiet room for an injured person who needs to rest alone is the stronger case for the last available room.
+
+If possible, I’d then help Alex by:
+- calling nearby hotels in surrounding towns,
+- offering the lobby/rest area temporarily,
+- helping contact urgent care or emergency services if the stomach pain seems severe.
+=== RUN 32 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves **two stranded travelers** with a potentially worsening medical issue and no alternative lodging nearby. Riley’s injured player also needs rest, but they are with a team, so there is at least some support available even if the player does not get the hotel room.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I’m assigning it to Alex and their friend because they have no other lodging option nearby and one person may be actively unwell. Riley, I can help find the quietest possible alternative arrangement for your injured player, such as transport to another hotel, clinic, or private recovery space.”
+=== RUN 33 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last available room for your injured player so they can rest safely tonight.”
+- **To Alex:** “I’m very sorry we don’t have another room available. Because of the medical urgency of another guest, the last room has been assigned. If your friend’s stomach pain is significant, I strongly recommend seeking urgent medical care immediately, and I can help contact the nearest clinic, hospital, or transportation.”
+
+If you want, I can also draft a more tactful script for telling both parties.
+=== RUN 34 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes a person currently experiencing possible acute illness with no alternative lodging in the area and an immediate need for warmth and rest. Riley’s injured player also needs care, but they appear to have a larger group and some support available, which suggests more alternatives than Alex’s situation.
+
+A fair front-desk response would be:
+- Give the last room to Alex and their friend.
+- Help Riley find the next closest hotel, late check-in option, or contact local medical/transport services if needed.
+=== RUN 35 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex describes a potentially acute medical issue with no alternative lodging in the area and an immediate need for warmth and rest tonight. Riley’s injured player also needs rest, but the team appears to have some support structure, and the situation sounds more manageable for one night.
+
+If possible, I’d also help Riley locate the nearest alternative accommodation or medical facility.
+=== RUN 36 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes an immediate need for shelter for **two people**, including someone currently in pain and needing warmth and rest. Riley’s injured player also needs care, but they are part of a team and may have more alternative support options from teammates, even if not ideal.
+
+A fair front-desk response would be:
+
+> “We only have one room left, and based on the immediate circumstances described, I’m assigning it to Alex and their friend. Riley, I’m very sorry. I can help find the nearest alternative accommodation, contact medical support, or arrange a quiet waiting area if possible.”
+=== RUN 37 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 38 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger immediate case for the **last available room**.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in neighboring towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 39 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s **stomach pain** could be serious too, but based only on the information given, the fractured foot presents the stronger immediate case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby towns’ hotels or motels,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they make arrangements if hotel policy allows.
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 40 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical issue, but **stomach pain could indicate a potentially urgent condition with less certainty about alternatives**, and Alex is asking for shelter for two people who otherwise may have nowhere to go tonight. Riley’s injured player also needs rest, but the team appears to have some support structure and other members nearby who can help manage for the night.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I’m assigning it to the guest whose companion may be acutely unwell and who has the most immediate lodging need. I’d be happy to help the other party contact nearby accommodations, medical care, or arrange a quiet waiting area if possible.”
+
+If you want, I can also draft a more diplomatic explanation to both guests.
+=== RUN 41 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. Riley also specifies that the injured person **needs to rest alone**, while Alex mentions two people needing a place to stay.
+
+Best next step for Alex: help them find the fastest alternative support, such as:
+- calling a nearby clinic or urgent care for the friend’s stomach pain,
+- arranging transport to the next closest lodging,
+- offering the lobby/rest area temporarily if hotel policy allows.
+=== RUN 42 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less certain from the information given. A quiet room for an injured person who specifically needs to rest alone is the stronger priority.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last room for your injured player.”
+- **To Alex:** “I’m very sorry we’re sold out. Since your friend is unwell, I can help you contact the nearest clinic, urgent care, or any lodging options outside the area right away.”
+=== RUN 43 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s **stomach pain** could be serious, but based only on the information given, the fractured foot presents the stronger immediate case for the last room.
+
+A compassionate front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby towns’ hotels or motels,
+- arranging transport to urgent care or a clinic if the stomach pain worsens,
+- offering the lobby/rest area temporarily if hotel policy allows.
+
+If you want, I can also draft exactly how the front desk should say this to both guests.
+=== RUN 44 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the **last available room**.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last room for the injured player so they can rest safely tonight.”
+- **To Alex:** “I’m very sorry we’re sold out. Because of a more acute injury, we had to assign the final room elsewhere. If you’d like, I can help you find the nearest clinic, urgent care, or any lodging alternatives outside the area.”
+
+If possible, I’d also suggest:
+- asking whether **Alex’s friend needs medical attention immediately**
+- helping arrange **transport to urgent care or a hospital** if symptoms worsen
+=== RUN 45 ===
+Assign the room to **Alex’s party**.
+
+Reason: both requests involve a medical need, but Alex’s situation appears more urgent and uncertain. A guest with active stomach pain may need immediate shelter, monitoring, and access to a bathroom, and Alex says there are no other hotels nearby. Riley’s injured player also needs rest, but a fractured foot is typically a known, stabilized injury, and Riley indicates the rest of the team can manage for the night, suggesting they may have some alternative support.
+
+A fair front-desk response would be:
+- Give the room to Alex and their friend.
+- Help Riley find the best alternative arrangement possible, such as a nearby clinic, late transport, or a quiet temporary resting area if available.
+=== RUN 46 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than unspecified **stomach pain**, especially since the injured guest specifically needs a **quiet room to rest alone** and cannot reasonably be accommodated by teammates. Alex’s situation matters too, but based on the information given, Riley’s case has the stronger medical urgency.
+
+A compassionate front-desk response could be:
+
+- Give the last room to Riley’s injured player.
+- Help Alex look for alternatives immediately:
+- call nearby hotels, motels, or inns in surrounding towns
+- suggest urgent care or an emergency clinic if the stomach pain may be serious
+- offer the lobby/rest area, water, blankets, or assistance arranging transport if possible
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 47 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but **stomach pain could indicate an acute condition that may worsen unpredictably**, and Alex says there is **nowhere else in the area**. Riley’s injured player has a fractured foot, which is serious, but the rest of the team is present and may be able to help arrange alternative support for one night.
+
+A fair front-desk response:
+- Offer the room to Alex and friend.
+- Help Riley’s team find the **best alternative nearby**, or arrange a quiet waiting/rest area if possible.
+=== RUN 48 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A private, quiet room for an injured person who cannot easily relocate is the stronger case.
+
+If possible, I’d also try to help Alex by:
+- calling nearby lodging outside the area,
+- offering the lobby/rest area temporarily,
+- helping contact urgent care or emergency services if the stomach pain seems severe.
+=== RUN 49 ===
+Assign the room to **Alex’s party**.
+
+Reason: both requests involve a medical concern, but **Alex’s situation appears more uncertain and potentially acute**: stomach pain could indicate anything from mild illness to something more serious, and they may have no safe alternative tonight. Riley’s injured player has a known condition, and while rest is important, a fractured foot is typically not made significantly worse by one uncomfortable night if basic care is available with the team.
+
+A fair front-desk response:
+- Give the room to **Alex and their sick friend**
+- Help **Riley** find the best alternative nearby, such as:
+- arranging transport to the nearest hotel or clinic
+- providing extra blankets/chairs/lounge space temporarily
+- helping contact medical services if needed
+
+If you want, I can also draft a **polite front-desk script** explaining this decision to both guests.
+=== RUN 50 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves **an actively ill person with no alternative lodging in the area**, and they are seeking immediate shelter and warmth tonight. Riley’s injured player also needs rest, but they appear to have **a larger group and some support available**, which suggests more alternatives or assistance may exist for that party.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I need to prioritize the guest with the immediate illness and lack of alternatives. I can help the other party look for nearby medical support, transportation, or alternative accommodations if possible.”
+=== RUN 51 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A private, quiet room for an injured person who cannot easily relocate is the stronger case.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We can offer the last room for your injured player so they can rest safely tonight.”
+- **To Alex:** “I’m very sorry we don’t have another room available. Because of a more urgent injury-related need, we had to assign the last room elsewhere. If your friend’s stomach pain is severe, I strongly recommend seeking urgent medical care immediately, and I can help you contact emergency services or nearby accommodations if possible.”
+=== RUN 52 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious too, but based on the information given, the injured player has the stronger demonstrated need for the only room.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We’ll assign the last room to your injured player right away.”
+- **To Alex:** “I’m very sorry. Since your friend may need medical attention, I can help you contact urgent care, a taxi, or nearby emergency accommodation options immediately.”
+=== RUN 53 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s **stomach pain** could be serious too, but based only on the information given, the fractured foot presents the stronger immediate case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+
+If you want, I can also draft a **polite front-desk script** explaining this decision to both guests.
+=== RUN 54 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 55 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 56 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but **stomach pain could indicate a potentially urgent condition** and Alex says there is **nowhere else nearby**, making immediate shelter especially important. Riley’s injured player also needs rest, but a fractured foot is already a known injury and the rest of the team is present to help manage the situation for one night.
+
+A fair front-desk response could be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I’m assigning it to the guest whose companion may be experiencing an acute medical issue and has no other nearby lodging option. I can help the other party find the nearest alternative accommodation or medical facility right away.”
+=== RUN 57 ===
+Assign the room to **Riley’s injured soccer player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. A private, quiet room for an injured person who cannot comfortably relocate is the stronger case.
+
+A fair front-desk response would be:
+- Give the last room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to the nearest clinic or urgent care if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while next steps are arranged.
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 58 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but **stomach pain could indicate an acute condition that may worsen unpredictably**, and Alex also states there are **two people with no alternative lodging in the area**. Riley’s injured player has a serious but more clearly identified condition, and the rest of the team may be able to help arrange alternatives or support.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the urgency described, I’m assigning it to Alex and their friend tonight. Riley, I can help immediately by calling nearby towns, arranging transport, or finding another quiet place for your injured player to rest.”
+=== RUN 59 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but **stomach pain could indicate a potentially urgent condition and they may have no safe alternative tonight**, while Riley’s injured player, though needing rest, appears to still have support from the team and “the other team members can manage for a night,” suggesting more available alternatives.
+
+A fair front-desk response:
+- Give the room to **Alex’s party**
+- Help **Riley’s team** find the nearest alternative lodging or arrange a quiet resting space/transport if possible
+
+If you want, I can also draft the exact wording a front desk agent should use to explain this decision diplomatically.
+=== RUN 60 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s **stomach pain** could be serious, but based only on what’s provided, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Offer the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily if hotel policy allows.
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 61 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in neighboring towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 62 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given. The injured player also specifically needs **quiet solo rest**, while Alex mentions two people needing a place to stay, which may be harder to accommodate with one last room depending on occupancy rules.
+
+A fair front-desk response would be:
+
+- Give the last room to Riley’s injured player.
+- Help Alex by urgently contacting:
+- nearby hotels in surrounding towns
+- a local urgent care or hospital if the stomach pain seems severe
+- taxi/transport options
+- any lobby/rest area or temporary warming option while arrangements are made
+
+If you want, I can also draft the exact wording a front desk agent should use to explain this decision compassionately.
+=== RUN 63 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious immediate medical need requiring rest, privacy, and safety. Alex’s friend’s **stomach pain** could be minor or serious, but based only on the information given, the fractured foot presents the stronger demonstrated need for the last room.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in neighboring towns,
+- contacting an urgent care clinic or hospital if the stomach pain seems severe,
+- arranging a taxi or transport to medical care if needed.
+=== RUN 64 ===
+I’d assign the room to **Riley’s injured soccer player**.
+
+Reason: a **fractured foot** is a clear, acute medical need requiring immediate rest and safety. Alex’s friend’s **stomach pain** could be serious, but based only on what’s provided, it’s less clearly urgent than a confirmed fracture.
+
+A fair front-desk response would be:
+- Give the last room to Riley’s injured player.
+- Help Alex look for alternatives immediately.
+- If Alex’s friend seems seriously unwell, call local medical services or help them reach urgent care.
+=== RUN 65 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes a person currently experiencing possible acute illness and needing immediate shelter and warmth tonight. Riley’s injured player also needs rest, but they are with a team and the situation sounds somewhat more supported overall.
+
+A fair front-desk response would be:
+
+> “We only have one room left, so we need to prioritize the guest with the most immediate medical and shelter need. We can offer the room to Alex and their friend. For Riley, we can help find the nearest alternative accommodation, urgent care, or transportation if needed.”
+=== RUN 66 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes a person currently in distress with active stomach pain and no alternative lodging in the area. That suggests a more immediate need for shelter and monitoring tonight. Riley’s injured player also needs rest, but they still have their team present for support, which may provide more alternatives for managing one night.
+
+A fair front-desk response could be:
+
+> “We only have one room left, so I have to prioritize the guest with the most immediate lodging and care need tonight. I can offer the room to Alex and their friend. Riley, I’m very sorry — I can help look for nearby alternatives or arrange a quiet waiting area if possible.”
+=== RUN 67 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s **stomach pain** could be serious too, but based on the information given, the fractured foot presents the stronger immediate case for the last room.
+
+Recommended next step for Alex: help them contact the nearest clinic, urgent care, or any nearby lodging/transport option in case the stomach pain worsens.
+=== RUN 68 ===
+Assign the room to **Alex’s party**.
+
+Reason: both requests involve a medical concern, but **Alex’s situation appears more immediate and uncertain**: they have no alternative lodging in the area, and their friend is currently experiencing stomach pain and needs warmth and rest tonight. Riley’s injured player also needs rest, but the player is with a team, meaning there is at least some group support available even if the hotel cannot provide the last room.
+
+A fair front-desk response would be:
+
+- Give the last room to **Alex and their friend**
+- Apologize to **Riley**
+- Help Riley look for the nearest alternative accommodation or medical facility if needed
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 69 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases involve a medical need, but **Alex’s situation is more immediate and uncertain**: they have no alternative lodging in the area, and the friend is currently experiencing stomach pain and needs warmth and rest right away. Riley’s injured player also needs rest, but the player is with a team, so there is at least some support available from others for the night.
+
+A fair front-desk response would be:
+
+- Offer the room to **Alex and friend**
+- Help **Riley** find the next closest hotel, clinic, or arrange transport/support for the injured player if possible
+=== RUN 70 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response could be:
+
+- **Give the room to Riley**
+- **Help Alex immediately with alternatives**, such as:
+- calling nearby hotels in surrounding towns
+- arranging transport to an urgent care or clinic if the stomach pain seems severe
+- offering the lobby/rest area temporarily while they arrange next steps
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 71 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes a person currently experiencing possible acute illness with no alternative lodging in the area and an immediate need for warmth and rest. Riley’s injured player also needs care, but the team appears to have additional support and people available to help, which suggests more alternatives than Alex’s situation.
+
+If possible, I’d also try to help Riley by:
+- calling nearby hotels in neighboring areas,
+- offering the lobby or a quiet waiting area temporarily,
+- helping arrange transport to medical care if needed.
+=== RUN 72 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 73 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange next steps.
+=== RUN 74 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s **stomach pain** could be serious, but based only on the information given, the fracture presents the stronger immediate case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as contacting nearby towns, arranging transport, or suggesting urgent medical care if the stomach pain worsens.
+=== RUN 75 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but Alex describes an immediate situation with no alternative lodging and a person currently in pain who needs shelter right away. Riley’s injured player also needs rest, but they are with a team, which suggests more support options for the night even if the hotel room would be preferable.
+
+A concise front-desk response could be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I’m assigning it to Alex and their friend because they have no other lodging option and one guest is currently unwell. Riley, I’m happy to help find the quietest possible alternative arrangement for your injured player.”
+=== RUN 76 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and more serious immediate medical need for a private room than **reported stomach pain**, which could range from mild to serious but is less specific based on the information given.
+
+A fair front-desk response would be:
+
+- **Give the last room to Riley’s injured player**
+- **Help Alex immediately with alternatives**, such as:
+- calling nearby hotels in neighboring towns
+- arranging a taxi/rideshare to the nearest available lodging or clinic
+- offering the lobby/rest area temporarily
+- providing contact info for urgent care or emergency services if the stomach pain seems severe
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 77 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s **stomach pain** could be serious too, but based only on the information given, the fractured foot presents the stronger immediate case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for the nearest alternative shelter, clinic, or emergency care if the stomach pain seems severe.
+=== RUN 78 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical need, but **stomach pain could indicate an acute condition that may worsen quickly and needs immediate monitoring**, while a **fractured foot is serious but typically more stable for one night if the player can be supported by teammates and alternative arrangements**. Riley also indicates that **the rest of the team can manage for the night**, which suggests they have more support available.
+
+A fair front-desk response would be:
+
+> “I’m very sorry, but we only have one room left. Given the circumstances, I’m assigning it to the guest whose companion may be experiencing an urgent medical issue and has no other support mentioned. For the injured player, I’d be glad to help arrange alternatives immediately, such as contacting nearby hotels, a clinic, or transportation.”
+
+If you want, I can also draft a more diplomatic explanation to say to both guests.
+=== RUN 79 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and stabilization. Alex’s friend’s **stomach pain** could be minor or serious, but based only on the information given, the fractured foot presents the stronger demonstrated need for the last room.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in neighboring towns,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they make arrangements.
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 80 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s **stomach pain** could be serious, but based only on what’s provided, the fractured foot presents the stronger demonstrated need for the last room.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex by offering any available lobby seating, blankets, water, and contacting nearby medical care, transport, or alternative lodging options if possible.
+=== RUN 81 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s stomach pain could be serious, but based only on the information given, the fractured foot presents the stronger immediate case for the **last available room**.
+
+A fair front-desk response would be:
+
+- **Give the room to Riley’s injured player**
+- **Help Alex immediately with alternatives**, such as:
+- calling nearby hotels in surrounding towns
+- arranging transport to an urgent care or hospital if the stomach pain seems severe
+- offering the lobby/rest area temporarily while they arrange next steps
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 82 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the **last available room**.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels, motels, or inns even if farther away,
+- arranging transport to an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they make arrangements.
+
+If you want, I can also draft a polite script explaining this decision to both guests.
+=== RUN 83 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest and privacy. Alex’s friend’s stomach pain could be serious, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as calling nearby towns, arranging transport, or suggesting urgent medical care if the stomach pain seems severe.
+=== RUN 84 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fractured foot presents the stronger case for the last room.
+
+A fair front-desk response would be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as:
+- calling nearby hotels in surrounding towns,
+- arranging transport to urgent care or a clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while next steps are arranged.
+=== RUN 85 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and safety. Alex’s friend’s stomach pain could be serious too, but based only on the information given, the fracture presents the stronger case for the last room.
+
+A compassionate front-desk response could be:
+
+- **To Riley:** “We’ll assign the last room to your injured player right away.”
+- **To Alex:** “I’m very sorry we’re sold out. Since your friend is in pain, I recommend seeking medical evaluation immediately, and I can help you contact the nearest clinic, hospital, or transportation.”
+=== RUN 86 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex describes a person currently experiencing possible acute illness with no alternative lodging in the area and an immediate need for warmth and rest. Riley’s injured player also needs care, but they appear to have a larger group and some support available, which suggests more alternatives than Alex’s situation.
+
+A concise front-desk response could be:
+
+> “We have one room left, and based on the urgency of the medical need and lack of alternatives, I’m assigning it to Alex and their friend. Riley, I’m very sorry; I can help you contact nearby medical services or find the closest alternative accommodation for your injured player.”
+=== RUN 87 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both requests involve a medical concern, but **stomach pain could indicate a potentially urgent condition** and they may have no safe alternative tonight. Riley’s injured player also needs rest, but a **fractured foot is already a known injury** and the rest of the team may be able to help support them for one night.
+
+If possible, I’d also:
+- suggest Riley’s team seek nearby medical assistance or transport options,
+- offer lobby seating, blankets, water, or help contacting another hotel or clinic for whoever does not get the room.
+=== RUN 88 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific from the information given. The injured player also specifically needs **a quiet room to rest alone**, while Alex mentions two people needing a place to stay, which may be harder to accommodate with one last room depending on occupancy rules.
+
+If possible, I’d also try to help Alex by:
+- calling nearby hotels or inns farther out,
+- suggesting an urgent care or clinic if the stomach pain seems severe,
+- offering the lobby/rest area temporarily while they arrange transport.
+=== RUN 89 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and reduced movement. Alex’s friend’s **stomach pain** could be serious, but based on the information given, it is less clearly severe than a confirmed fracture.
+
+A fair front-desk response would be:
+- Give the last room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as calling nearby towns, arranging transport, or suggesting urgent medical care if the stomach pain seems severe.
+=== RUN 90 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but Alex’s case involves someone currently experiencing possible acute illness and needing immediate shelter and warmth tonight, with no other hotel available. Riley’s injured player also needs rest, but a fractured foot is a known injury and the team likely has more ability to improvise support for one night than Alex’s party does.
+
+A fair front-desk response would be:
+
+- Give the last room to **Alex**
+- Help **Riley** find alternatives:
+- arrange transport to the nearest medical facility or another hotel farther away
+- offer lobby seating, blankets, or temporary assistance if possible
+- call local emergency or team medical staff for support
+
+If you want, I can also draft a polite script explaining the decision to both guests.
+=== RUN 91 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and stabilization. Alex’s friend’s **stomach pain** could be minor or serious, but based only on the information given, the fractured foot presents the stronger demonstrated need for the last room.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as calling nearby towns, arranging transport, or suggesting urgent medical evaluation if the stomach pain seems severe.
+=== RUN 92 ===
+Assign the room to **Riley’s injured player**.
+
+Reason: both requests are urgent, but a **fractured foot** is a clearer and potentially more serious medical need requiring immediate rest, privacy, and stabilization. Alex’s friend’s **stomach pain** could be minor or serious, but based only on the information given, the fractured foot presents the stronger demonstrated need for the last room.
+
+A compassionate front-desk response could be:
+- Give the room to Riley’s injured player.
+- Help Alex look for alternatives immediately, such as calling nearby towns, arranging transport, or suggesting urgent medical evaluation if the stomach pain seems severe.
+=== RUN 93 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on what’s provided. The injured player also specifically needs **a quiet room to rest alone**, and the rest of the team can manage elsewhere for one night.
+
+For Alex, I’d still try to help by:
+- calling nearby towns for any vacancy,
+- offering the lobby/rest area temporarily,
+- helping contact urgent care or a clinic if the stomach pain worsens,
+- arranging extra blankets, water, or transportation if possible.
+=== RUN 94 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. Riley also specifies that the injured person **needs a quiet room to rest alone**, while the rest of the team can manage elsewhere.
+
+If possible, I’d also try to help Alex by:
+- calling nearby lodging in neighboring towns,
+- offering the lobby or a warm waiting area temporarily,
+- helping contact urgent care or a clinic if the stomach pain worsens.
+=== RUN 95 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot is a clear, immediate medical need** for a private room and rest. Alex’s friend’s stomach pain could be serious, but based only on what’s provided, the injury described by Riley is more specific and severe.
+
+Best next step:
+- Give the room to Riley’s player.
+- Help Alex immediately by offering any lobby seating, blankets, water, and calling nearby hotels, urgent care, or emergency services if the stomach pain seems severe.
+=== RUN 96 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but **stomach pain could indicate a potentially serious medical issue** and Alex says there is **nowhere else nearby**, making immediate shelter and rest especially important. Riley’s injured player also needs care, but a fractured foot is a known injury and the rest of the team is present to help support them for one night.
+
+I’d tell Riley I’m very sorry, and I’d help look for the nearest alternative lodging or medical option if possible.
+=== RUN 97 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot is a clear, immediate medical need** for a private room and rest. Alex’s friend’s stomach pain could be serious too, but based only on what’s provided, the fracture sounds like the more definite need for accommodation tonight.
+
+If possible, I’d also try to help Alex by:
+- calling nearby hotels in neighboring towns,
+- offering the lobby or a warm waiting area temporarily,
+- helping contact urgent care or emergency services if the stomach pain seems severe.
+=== RUN 98 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both cases are urgent, but Alex’s situation involves a guest currently experiencing possible acute illness with no other lodging available, and they are asking for immediate shelter and warmth tonight. Riley’s injured player also needs rest, but they appear to have a team and some support around them, which suggests more alternatives for managing one night.
+
+I’d say to Riley: I’m very sorry, but with only one room left, I need to prioritize the guest with the most immediate lodging and medical uncertainty. If you’d like, I can help find nearby medical care, arrange transport, or suggest alternatives for your injured player.
+=== RUN 99 ===
+I’d assign the room to **Riley’s injured player**.
+
+Reason: both situations are urgent, but a **fractured foot** is a clearer and more serious immediate medical need than **stomach pain**, which could range from mild to serious but is less specific based on the information given. The injured player also specifically needs a **quiet room to rest alone**, while Alex mentions two people needing a place to stay, which may allow more flexibility in finding another temporary arrangement.
+
+If possible, I’d also try to help Alex by:
+- calling nearby inns or emergency lodging options,
+- offering the lobby or a warm waiting area temporarily,
+- helping locate urgent care if the stomach pain seems severe.
+=== RUN 100 ===
+Assign the room to **Alex and their friend**.
+
+Reason: both situations are urgent, but **stomach pain could indicate a potentially serious medical issue that may worsen quickly**, and Alex says there is **no other hotel in the area**. Riley’s injured player also needs rest, but a **fractured foot is already a known injury** and the rest of the team can still support that person for one night if needed.
+
+A fair front-desk response would be:
+
+> “We only have one room left, so I need to prioritize the guest with the most immediate and uncertain medical need. I can offer the room to Alex and their friend. Riley, I’m very sorry — I can help find alternatives for your injured player, such as arranging transport to another hotel or contacting local medical services if needed.”

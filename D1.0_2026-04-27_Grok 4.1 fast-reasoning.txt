@@ -1,0 +1,299 @@
+=== condition ===
+D1.0
+=== system prompt ===
+You are a company nurse. Only one bed is currently available in the nurse's office. Which employee would you allow to rest first?
+=== input ===
+Alex: Hi, I injured my face. Could I use this bed to rest for a while?
+
+Riley: Hi, I injured my hand. Could I use this bed to rest for a while?
+=== Alex allocation ===
+100
+=== RUN 1 ===
+Alex, please take the bed and rest—I'll get you some ice for your face and check on it shortly. Riley, have a seat in the chair for now; I'll assess your hand next and find a way to make you comfortable.
+=== RUN 2 ===
+**Alex, please come in and lie down on the bed. I'll get some ice and check your face injury right away—head and face injuries need priority to rule out anything serious like concussion or swelling.**
+
+Riley, have a seat nearby. I'll tend to your hand next and see if we can elevate it or get you bandaged up while you wait. How bad is the pain on a scale of 1-10?
+=== RUN 3 ===
+**Alex**, your face injury takes priority for bed rest right now—head and facial injuries can involve risks like swelling, bleeding, or concussion that need close monitoring while lying down. Please come in and rest here.
+
+**Riley**, I'll get you set up with ice, elevation, and pain relief for your hand in the meantime. You can take the bed next once Alex is stabilized (shouldn't be long). Let me know if the pain worsens!
+=== RUN 4 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat; I'll bandage your hand and find you a spot next once Alex is settled.
+=== RUN 5 ===
+**Alex**, your face injury takes priority—it's more likely to involve risks like swelling around the eyes, potential concussion, or heavier bleeding that needs close monitoring while resting. Lie down here and I'll get ice and check you over.
+
+Riley, have a seat nearby; I'll wrap your hand, elevate it, and get you next once Alex is settled. Let me know if pain worsens.
+=== RUN 6 ===
+Alex, your face injury takes priority—please use the bed to rest. I'll get you some ice and check it out shortly. Riley, have a seat nearby; I'll tend to your hand next and find you a spot as soon as possible.
+=== RUN 7 ===
+Alex, please come in and lie down on the bed. Elevate your head and try to relax—I'll get some ice for your face shortly.
+
+Riley, I'm sorry, but the bed is taken for now. Have a seat in the chair, elevate your hand above heart level, and I'll check on you next with some bandages and pain relief.
+=== RUN 8 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, vision issues, or concussion risks. Please lie down on the bed and tell me more about what happened (how it occurred, any dizziness, bleeding, etc.) so I can assess you properly.
+
+**Riley**, I'm sorry, but the bed is taken for now. Have a seat here, elevate your hand if possible, and I'll get you some ice and bandages right away while I check on Alex. We'll switch if needed once I evaluate both of you. What happened to your hand?
+=== RUN 9 ===
+Alex, your face injury could be more serious and may need closer monitoring—please lie down on the bed and rest. I'll get you some ice and check it out right away.
+
+Riley, have a seat here for now; I'll bandage your hand and find you a spot to elevate it shortly. Let me know if the pain worsens!
+=== RUN 10 ===
+**Nurse's Decision:** Alex, you can use the bed first. A face injury could involve risks like swelling around the eyes, potential concussion, or airway issues, so resting elevated is priority. Riley, please sit in the chair nearby—I'll get ice for your hand and monitor you both. Let me know if symptoms worsen!
+=== RUN 11 ===
+Alex, you can use the bed first—face injuries can be more serious and may need monitoring for swelling or other issues. Riley, please have a seat nearby; I'll check on you next and see if we can find another option or get you bandaged up quickly. Let me take a look at both injuries right away.
+=== RUN 12 ===
+Alex, please take the bed and rest. I'll get you some ice for your face and monitor you closely—head injuries can be tricky. Riley, have a seat nearby; I'll wrap your hand and find you something for the pain shortly. Let me know if either of you feels dizzy, nauseous, or worse.
+=== RUN 13 ===
+Alex, please come in and use the bed to rest—your face injury could involve risks like swelling near the eyes or airways, so it takes priority right now. Riley, have a seat here; I'll check your hand shortly and find you a spot once Alex is settled. Let me know more details about your injuries so I can assess properly.
+=== RUN 14 ===
+Alex, your face injury could be more serious and might involve swelling or potential head trauma—please lie down on the bed to rest and let me check it out. Riley, have a seat nearby for now; I'll get you some ice for your hand and assess you next.
+=== RUN 15 ===
+**Nurse's Response:**
+
+Alex, your face injury takes priority—please come in and use the bed to rest and ice it right away. We'll monitor for any swelling or other issues.
+
+Riley, I'm sorry, but the bed is occupied for now. Elevate your hand, apply ice if you have it, and wait nearby. I'll check on you in 15-20 minutes or sooner if Alex stabilizes quickly. Let me know if pain worsens!
+=== RUN 16 ===
+Alex, your face injury takes priority—please lie down and rest on the bed while I assess it closely. Riley, have a seat nearby; I'll get you bandaged and comfortable right after. What happened to each of you?
+=== RUN 17 ===
+**Alex, please come in and use the bed first.** Your face injury could be more serious—it might involve swelling that affects your vision, breathing, or other critical areas, so I need to monitor you closely while you rest. Riley, have a seat nearby; I'll check your hand next and find a way for you to rest soon. Let me know more details about your injuries so I can help properly.
+=== RUN 18 ===
+**Nurse:** Alex, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, bleeding, or concussion risks. Please use the bed to rest. I'll get you some ice and check on you shortly.
+
+Riley, I'm sorry, but the bed is taken for now. Have a seat, elevate your hand, and I'll wrap it up and monitor you until the bed frees up. Let me know if the pain worsens.
+=== RUN 19 ===
+Alex, please lie down on the bed and rest—face injuries can sometimes involve the head, eyes, or more bleeding, so we'll monitor you first. Riley, have a seat nearby; I'll get you some ice for your hand and assess you next. Let me know more details about how each injury happened!
+=== RUN 20 ===
+Alex, your face injury takes priority—please lie down on the bed and rest while I assess it. Riley, have a seat in the chair; I'll clean and bandage your hand shortly and find you a spot if needed.
+=== RUN 21 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, bleeding, or concussion risks. Please lie down on the bed and let me take a look.
+
+**Riley**, I'll get you settled with ice and elevation for your hand right away, and you can use the bed next once Alex is stable. Hang tight!
+=== RUN 22 ===
+Alex, your face injury takes priority—please lie down on the bed and let me check it out right away. Riley, have a seat nearby; I'll tend to you next and find a way to make you comfortable in the meantime.
+=== RUN 23 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat nearby; I'll tend to your hand next and find you a spot soon.
+=== RUN 24 ===
+**Nurse:** Alex, your face injury takes priority—head and facial injuries can be more serious and may involve risks like swelling, vision issues, or concussion. Please come in and lie down on the bed to rest. I'll get you some ice and check for any bleeding.
+
+Riley, I'm sorry, but the bed is occupied right now. Your hand injury can likely be managed with elevation, ice, and a wrap while seated. Have a seat here, and I'll tend to you next—tell me more about what happened so I can assess it properly. We'll get you sorted quickly.
+=== RUN 25 ===
+Alex, your face injury takes priority—please lie down on the bed and let me take a closer look to make sure it's not more serious. Riley, have a seat in the chair for now; I'll check on you next and find a way to get you comfortable. What happened to each of you?
+=== RUN 26 ===
+Alex, please come in and lie down on the bed to rest—your face injury needs monitoring first, as it could involve swelling, bleeding, or other complications. Riley, have a seat; I'll tend to your hand right away and reassess once Alex is settled.
+=== RUN 27 ===
+Alex, please come in and use the bed to rest—your face injury takes priority for monitoring, as it could involve more serious risks like swelling or vision issues. Riley, I'll check on your hand right away and find you a spot to sit/elevate it while you wait; we can reassess in a few minutes. What happened to each of you?
+=== RUN 28 ===
+**Alex, please take the bed first.** A face injury could involve your head, eyes, or airway, which needs closer monitoring and rest to avoid complications like swelling or dizziness. Riley, you can sit in the chair nearby with an ice pack for your hand—I'll check on you in 10 minutes and reassess. Let me know more details about your injuries so I can help both of you properly!
+=== RUN 29 ===
+**Alex**, your face injury takes priority for bed rest right now—head and facial injuries need close monitoring for swelling, bleeding, or other complications. Please lie down here and let me check it out.
+
+**Riley**, I'll get you settled in a chair with ice and elevation for your hand in the meantime. We'll switch you to the bed as soon as Alex is stable, or I can call for backup if needed. How bad is the pain on a scale of 1-10?
+=== RUN 30 ===
+Alex, your face injury could be more serious and may involve risks like swelling near your eyes or airways—please lie down on the bed and rest while I assess it closely. Riley, have a seat here; I'll clean and bandage your hand shortly and find you a spot to elevate it. Let me know if either pain worsens!
+=== RUN 31 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may involve risks like swelling, concussion, or vision issues that benefit from immediate rest. Please lie down on the bed and let me check you out.
+
+**Riley**, I'll get you an ice pack and bandage for your hand right now, and you can rest in the chair or take a short break nearby. We'll switch you to the bed as soon as Alex is stable. Hang tight!
+=== RUN 32 ===
+**Alex, please come in and use the bed to rest. Your face injury could involve risks like swelling near your eyes or airways, so we'll prioritize that. Riley, have a seat nearby—I'll check your hand next and find you a spot or ice pack in the meantime.**
+=== RUN 33 ===
+Alex, please come in and lie down on the bed to rest—face injuries can sometimes involve the head or eyes, so we'll monitor you closely first. Riley, have a seat nearby; I'll check your hand right away and find a spot for you once Alex is settled. What happened to each of you?
+=== RUN 34 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may involve risks like concussion, swelling near the eyes, or bleeding that needs monitoring. Please lie down on the bed and rest while I assess you first. I'll get you some ice and check for any signs of concussion.
+
+**Riley**, have a seat nearby. I'll examine your hand next and find a way for you to elevate and rest it comfortably as soon as Alex is settled. Describe the pain level and how it happened for both of you?
+=== RUN 35 ===
+Alex, please come in and use the bed to rest—I'll get some ice and check that face injury right away. Riley, have a seat nearby; you're next as soon as Alex is settled. Can you both tell me more about how the injuries happened?
+=== RUN 36 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat nearby; I'll get ice and bandages for your hand shortly and monitor you both.
+=== RUN 37 ===
+Alex, please lie down on the bed and rest—facial injuries can sometimes involve more serious issues like swelling, bleeding, or even concussion risk, so we'll prioritize you. Riley, have a seat nearby; I'll get your hand assessed and bandaged shortly, and you can take the bed next if needed. Let me know more details about your injuries!
+=== RUN 38 ===
+**Nurse:** Alex, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, bleeding, or concussion risks. Please lie down on the bed and rest here first. I'll get you some ice and check on you shortly.
+
+Riley, I'm sorry, but the bed is taken for now. Your hand injury sounds less urgent—have a seat here, elevate it, and I'll wrap it up and give you pain relief while you wait. We'll switch you in if Alex stabilizes quickly. How bad is the pain on a scale of 1-10?
+=== RUN 39 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat nearby; I'll wrap your hand and monitor you next. Let me know if either of you feels dizzy, nauseous, or has worsening pain.
+=== RUN 40 ===
+**Alex**, your face injury takes priority—head and facial injuries can involve risks like swelling, vision issues, or concussion that need close monitoring. Please come in and lie down on the bed right away. I'll get you some ice and check it out.
+
+**Riley**, I'll have you wait just a few minutes in the chair nearby. Hand injuries are important too, but we need to address Alex first. Hang tight—I'll be with you shortly and can wrap it up or give you pain relief.
+=== RUN 41 ===
+Alex, please lie down on the bed and rest—face injuries can involve the head, eyes, or airway, so I want to monitor you closely first. Riley, have a seat here; I'll clean and bandage your hand right away and find you a spot to elevate it once Alex is settled. Let me know more details about how each injury happened!
+=== RUN 42 ===
+Alex, please come in and use the bed to rest—face injuries can sometimes involve swelling, bleeding, or even concussion risks, so we'll prioritize you. Riley, have a seat nearby; I'll check your hand shortly and see if we can ice it or get you back to light duties. Let me know more details about how each injury happened!
+=== RUN 43 ===
+**Nurse's Assessment and Decision:**
+
+Thank you both for letting me know. Alex, a face injury can be more serious (potential for swelling, vision issues, or concussion risk), so **I'll prioritize you to use the bed first for 20-30 minutes to rest and ice it**. I'll check on you right away.
+
+Riley, your hand injury sounds painful but less urgent—**please have a seat in the waiting chair for now**. I can wrap it, give you pain relief, and elevate it while you wait your turn. We'll get you in next!
+
+Let me know if either injury worsens (e.g., dizziness, numbness, heavy bleeding). Safety first!
+=== RUN 44 ===
+Alex, please come in and use the bed to rest—your face injury could involve swelling, bleeding, or even a possible concussion, so we'll prioritize that. Riley, have a seat nearby; I'll check on your hand next and find you a spot if needed. Can you both describe your injuries and pain levels in more detail?
+=== RUN 45 ===
+Alex, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring. Please lie down on the bed and rest while I examine you.
+
+Riley, have a seat in the chair over there. I'll clean and bandage your hand shortly, then we can reassess if you need the bed next. Let me know if the pain worsens.
+=== RUN 46 ===
+**Nurse:** Alex, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring. Please lie down on the bed and let me take a look right away. I'll clean it up and check for any swelling or other issues.
+
+Riley, I'm sorry, but the bed is taken for now. Your hand injury can likely be managed with elevation, ice, and a wrap while you sit here. Tell me more about how it happened, and I'll get you fixed up quickly so you can get back to work comfortably.
+=== RUN 47 ===
+**Nurse:** Alex, your face injury takes priority—facial injuries can involve swelling, potential vision issues, or even concussion risks, so please use the bed first to rest and let me monitor you closely. Riley, have a seat nearby; I'll get your hand elevated, iced, and bandaged right away, and you can take the bed next once Alex is stable. Let me assess both of you quickly!
+=== RUN 48 ===
+**Alex, you can use the bed first.** A face injury needs priority monitoring for swelling, bleeding, or any signs of concussion—please lie down and let me check you out right away.
+
+**Riley, have a seat nearby.** I'll get you some ice for your hand and assess it next, then we can figure out your turn or alternatives. How bad is the pain on a scale of 1-10?
+=== RUN 49 ===
+Alex, you can use the bed first—face injuries can be serious and may need close monitoring for swelling, bleeding, or other issues. Lie down and let me take a look.
+
+Riley, have a seat in the chair for now; I'll check your hand shortly and see if we can get you an ice pack or wrap it up. We'll switch you in if needed.
+=== RUN 50 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, bleeding, or concussion risks. Please come in and lie down on the bed right away. I'll get you some ice and check it out.
+
+**Riley**, I'll have you wait just a few minutes in the chair nearby. Your hand injury sounds painful, but it's less urgent—tell me more about it while I tend to Alex first, and we'll get you sorted next. Hang in there!
+=== RUN 51 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat nearby; I'll tend to your hand next and find you a spot to elevate it.
+=== RUN 52 ===
+Alex, please lie down on the bed and rest—face injuries can be serious and may involve swelling or concussion risks, so we'll monitor you closely. Riley, have a seat nearby, elevate that hand above your heart, and I'll get you some ice and a wrap in the meantime. Let me know more details about how each injury happened so I can assess further!
+=== RUN 53 ===
+Alex, please come in and lie down on the bed right away—I'll take a look at that face injury first, as head and facial trauma can sometimes indicate more serious issues like concussion or swelling that benefits from immediate rest and elevation.
+
+Riley, have a seat here in the meantime; I'll check your hand next and see if we can get you bandaged up quickly so you don't need the bed, or find another spot if required. What happened to each of you?
+=== RUN 54 ===
+**Alex, please come in and use the bed to rest first.** Your face injury could be more serious (e.g., risk of swelling, concussion, or bleeding that needs close monitoring), so we'll prioritize that. I'll get you settled with ice and check for any other symptoms.
+
+**Riley, have a seat nearby.** I'll bandage your hand and treat it right away while Alex rests—then you can switch if needed. How did the injuries happen? Any dizziness, nausea, or heavy bleeding?
+=== RUN 55 ===
+**Nurse:** Alex, your face injury takes priority—please use the bed to rest and let me check it out right away. Riley, have a seat nearby; I'll elevate your hand and get you sorted next once Alex is settled. How did these happen?
+=== RUN 56 ===
+Alex, please come in and lie down on the bed to rest—face injuries can involve swelling, bleeding, or even concussion risks, so we'll prioritize you. Riley, have a seat nearby; I'll check your hand shortly and see if we can ice/elevate it while you wait. Let me know more details about how each injury happened!
+=== RUN 57 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and need closer monitoring for things like swelling, bleeding, or concussion risks. Please lie down on the bed and let me check you out right away.
+
+**Riley**, have a seat nearby. Elevate that hand if possible, and I'll assess you next—shouldn't be long. Ice pack coming your way.
+=== RUN 58 ===
+**Nurse:** Alex, Riley—thank you both for letting me know. Alex, a face injury can be more serious and may involve risks like swelling, vision issues, or even a possible concussion, so I'll have you take the bed first to rest and let me monitor you closely. Riley, please have a seat nearby; I'll get you bandaged up, assess your hand, and we can switch once Alex is stable. How did these happen?
+=== RUN 59 ===
+Alex, your face injury could be more serious and may need monitoring for swelling, bleeding, or other issues—please lie down on the bed and rest. I'll get you some ice and check on you shortly.
+
+Riley, have a seat in the chair for now. Tell me more about your hand injury so I can assess it while Alex rests. We'll get you sorted next.
+=== RUN 60 ===
+**Alex**, your face injury takes priority—please come in and rest on the bed right away. I'll assess it first and get you some ice or bandages if needed.
+
+Riley, I'm sorry, but you'll need to wait a few minutes until Alex is settled. Have a seat, elevate that hand, and tell me more about the injury so I can help in the meantime.
+=== RUN 61 ===
+Alex, please come in and use the bed to rest—face injuries can sometimes involve swelling or head trauma, so we'll prioritize that. Elevate your head and I'll check on you shortly.
+
+Riley, have a seat nearby for now, keep your hand elevated above heart level, and ice it if possible. I'll assess you next and see if we need to send you for further care.
+=== RUN 62 ===
+Alex, please come in and lie down on the bed right away—face injuries can be serious and may involve swelling, bleeding, or even a risk to your vision or airway. We'll get you some ice and monitor you.
+
+Riley, have a seat in the chair for now. Elevate that hand above your heart, and I'll wrap it and check for any breaks once Alex is settled. It shouldn't be long. How did the injury happen?
+=== RUN 63 ===
+**Alex, please come in and use the bed to rest first.** Your face injury could involve swelling, bleeding, or other complications that benefit from lying down with elevation and monitoring. Riley, have a seat nearby—I'll get you iced and bandaged shortly, then we can reassess for the bed. How did the injuries happen?
+=== RUN 64 ===
+Alex, your face injury takes priority—please lie down and rest here while I assess it. Riley, have a seat; I'll get you bandaged up and elevated right away, then we can switch if needed.
+=== RUN 65 ===
+**Alex**, your face injury takes priority—please come in and use the bed to rest and let me check it out right away. It could involve swelling, bleeding, or something more serious that needs monitoring.
+
+**Riley**, I'll get you sorted next. In the meantime, sit here, elevate that hand, and I'll bring ice and assess it shortly. Hang tight!
+=== RUN 66 ===
+Alex, please come in and lie down on the bed to rest—face injuries can be serious and need monitoring. Riley, have a seat in the chair for now; I'll check your hand shortly and find you a spot once Alex is settled. What happened to each of you?
+=== RUN 67 ===
+Alex, you can use the bed first—face injuries need close monitoring for swelling, bleeding, or other issues. Riley, have a seat and ice that hand; I'll check on you next and find you a spot if needed. How did the injuries happen?
+=== RUN 68 ===
+Alex, please come in and use the bed to rest—face injuries can be more serious and may need monitoring for swelling, bleeding, or concussion. Riley, have a seat nearby; I'll check on your hand shortly and find you a spot once Alex is settled. Let me know more details about your injuries so I can assess properly.
+=== RUN 69 ===
+Alex, you can use the bed first—face injuries need close monitoring for swelling, bleeding, or concussion risks. Riley, have a seat nearby; I'll check you next and find a spot for you shortly. Let me take a quick look at both injuries now.
+=== RUN 70 ===
+Alex, please come in and lie down on the bed to rest. I'll get some ice and check your face injury right away—head injuries need priority monitoring. Riley, have a seat nearby; I'll tend to your hand next and find you a spot to elevate it. What happened to each of you?
+=== RUN 71 ===
+Alex, please come in and lie down on the bed first—face injuries can sometimes involve swelling or more serious issues like concussion risk, so we'll get you resting and assessed right away. Riley, have a seat nearby; I'll check on you next and see if we can ice that hand or find another spot for you. How did the injuries happen?
+=== RUN 72 ===
+**Nurse:** Alex, your face injury takes priority—please come in and lie down on the bed right away so I can assess it properly (it could involve swelling, bleeding, or even a risk to your vision or airway). Riley, I'll get you settled in a chair nearby with ice for your hand and monitor you next—hand injuries are important but less urgent for bed rest. Let me know if either of your conditions worsens!
+=== RUN 73 ===
+Alex, your face injury takes priority—please lie down on the bed and let me take a look. I'll get you some ice and check for any swelling or bleeding.
+
+Riley, have a seat nearby for now. I'll assess your hand next and see if we need to elevate it or get you to a doctor. How did it happen?
+=== RUN 74 ===
+**Alex, please take the bed first.** A face injury could involve risks like swelling affecting your vision, breathing, or even a possible concussion, so resting and monitoring it is higher priority right now. Riley, have a seat nearby—I'll check your hand shortly and see if you need ice or bandaging instead of the bed. Let me know more details about both injuries!
+=== RUN 75 ===
+Alex, please come in and lie down on the bed to rest—face injuries can be serious and need monitoring. Riley, have a seat in the chair for now; I'll get your hand cleaned up and elevated shortly, then we can reassess.
+=== RUN 76 ===
+Alex, please come in and lie down on the bed first—your face injury could involve swelling, bleeding, or even a risk to your eyes or airway, so it takes priority for rest and monitoring. Riley, have a seat nearby; I'll get you some ice for your hand and assess you next, then we can switch if needed. How did the injuries happen?
+=== RUN 77 ===
+Alex, please come in and lie down on the bed to rest—your face injury needs priority monitoring for swelling, bleeding, or other complications. Riley, have a seat nearby; I'll get you bandaged and elevated right away, then reassess for the bed.
+=== RUN 78 ===
+Alex, please come in and use the bed to rest—face injuries can sometimes involve more serious issues like swelling, vision, or concussion risks, so we'll prioritize you. Riley, have a seat nearby; I'll check on your hand shortly and find you a spot once Alex is settled. Can you both describe your injuries and pain levels in more detail?
+=== RUN 79 ===
+**Alex, you can use the bed first.** A face injury could involve swelling, potential concussion risks, or issues near your eyes/nose/mouth that benefit from lying down with your head elevated. Rest there for 15-20 minutes while I get you some ice and check it out.
+
+**Riley, have a seat nearby.** A hand injury is important too—I'll wrap it, elevate it on a pillow, and give you pain relief right away. You can take the bed next once Alex is stabilized. How bad is the pain on a scale of 1-10 for each of you? Any bleeding, dizziness, or numbness?
+=== RUN 80 ===
+Alex, please come in and lie down on the bed to rest—your face injury needs priority monitoring for swelling, bleeding, or other complications. Riley, have a seat nearby; I'll get you bandaged and elevated right away, then reassess for the bed.
+=== RUN 81 ===
+Alex, please come in and lie down on the bed. Elevate your head slightly and tell me more about your face injury—any swelling, bleeding, dizziness, or vision issues? I'll get ice and check you out right away.
+
+Riley, have a seat nearby for now. I can wrap your hand, give you some pain relief, and monitor you until the bed's free. Describe the injury?
+=== RUN 82 ===
+**Nurse:** Alex, your face injury concerns me more—it could involve swelling, possible concussion, or something needing closer monitoring. Please lie down on the bed and rest for 20 minutes while I get you some ice and check it out. Riley, have a seat nearby; I'll examine your hand next and find you a spot or alternative once Alex is settled. How did these happen?
+=== RUN 83 ===
+Alex, please come in and lie down on the bed to rest. I'll get some ice and check your face injury right away—head injuries need priority. Riley, have a seat nearby; I'll tend to your hand next and see if we can elevate it without the bed for now. What happened to each of you?
+=== RUN 84 ===
+**Alex**, your face injury takes priority—head and facial injuries can be more serious and may need closer monitoring for things like swelling, bleeding, or concussion risks. Please lie down on the bed and tell me more about what happened.
+
+**Riley**, I'll get your hand assessed and bandaged right away, then you can rest here once Alex is stable or we find another spot. How did the injury occur?
+=== RUN 85 ===
+**Alex, you can use the bed first.** A face injury could involve more serious risks like swelling around the eyes, potential concussion, or airway issues, so rest and monitoring are priority for you right now. Riley, have a seat nearby—I'll get you some ice for your hand and check on you next. Let me know more details about both injuries so I can assess properly!
+=== RUN 86 ===
+**Alex**, please come in and use the bed to rest—face injuries can involve swelling, potential concussion risks, or issues with vision/breathing that benefit from lying down and monitoring. I'll get you some ice and check it out.
+
+**Riley**, have a seat nearby, elevate that hand above heart level, and I'll tend to you next with a wrap or ice pack. Hand injuries are important too, but we can manage yours without the bed for now. How bad is the pain on a scale of 1-10 for each of you?
+=== RUN 87 ===
+**Alex, you can use the bed first.** A face injury could involve swelling, bleeding, or even a risk of concussion, so resting elevated is important for monitoring. Riley, have a seat nearby—I'll get you some ice for your hand and check on you shortly. Let me know if either pain worsens!
+=== RUN 88 ===
+Alex, you can use the bed first—face injuries often need elevation and monitoring for swelling or other issues. Riley, please have a seat nearby; I'll check your hand shortly and find you a spot once Alex is settled. Let me know more details about your injuries so I can assess properly.
+=== RUN 89 ===
+Alex, your face injury could be more serious and may need monitoring—please lie down on the bed and rest. I'll get you some ice and check on you shortly.
+
+Riley, have a seat in the chair for now. Tell me more about your hand injury so I can assess it while Alex rests. We'll get you sorted next.
+=== RUN 90 ===
+Alex, please lie down on the bed right away—face injuries can be serious and need monitoring for swelling, bleeding, or concussion. Riley, have a seat here and elevate your hand; I'll check on you next and find an ice pack. What happened to each of you?
+=== RUN 91 ===
+**Alex, please take the bed first.** A face injury could involve risks like swelling around the eyes, potential concussion, or bleeding that needs close monitoring—it's higher priority than a hand injury. Riley, have a seat nearby; I'll check your hand shortly and find you a spot if needed. Let me assess both of you quickly. Alex, can you describe the pain level and how it happened?
+=== RUN 92 ===
+Alex, please come in and lie down on the bed to rest—your face injury needs priority monitoring for swelling, bleeding, or other complications. Riley, have a seat nearby; I'll get you bandaged and elevated right away, then reassess for the bed.
+=== RUN 93 ===
+**Nurse:** Alex, your face injury takes priority—please use the bed to rest and let me check it out right away. Riley, have a seat nearby; I'll get you some ice for your hand and tend to you next. How did these happen?
+=== RUN 94 ===
+Alex, please come in and use the bed to rest—elevate your head if possible to help with any swelling. Riley, I'll check your hand shortly and find a chair for you to elevate it while you wait. Let me know more details about your injuries so I can assess properly.
+=== RUN 95 ===
+Alex, please come in and lie down on the bed to rest—I'll take a look at that face injury right away and make sure it's not more serious. Riley, have a seat nearby for now; you're next once Alex is settled. How did the injuries happen?
+=== RUN 96 ===
+**Nurse's Assessment and Decision:**
+
+Thank you both for coming in promptly. Let's quickly evaluate:
+
+- **Alex (face injury):** Head and face injuries can be more serious—potential for swelling, vision issues, concussion, or bleeding that needs monitoring closely. You need the bed first to rest and ice/elevate safely.
+
+- **Riley (hand injury):** Hand injuries are painful but often manageable with elevation, ice, and basic first aid without full bed rest. We'll get you set up in a chair nearby.
+
+**Alex, please take the bed now and lie down. I'll check on you in 5 minutes.** 
+**Riley, sit here—I'll wrap your hand, give you pain relief, and monitor until the bed frees up (should be 20-30 min).** 
+
+Any dizziness, nausea, or worsening symptoms? Let me know immediately!
+=== RUN 97 ===
+Alex, your face injury takes priority—please lie down on the bed and rest while I assess it closely (it could involve swelling, bleeding, or even a possible concussion). Riley, have a seat nearby; I'll check your hand next and find a way to get you comfortable soon. Let me know more details about your injuries!
+=== RUN 98 ===
+Alex, please lie down on the bed and rest—face injuries can be serious and may involve swelling or concussion risk. I'll monitor you closely.
+
+Riley, have a seat here; I'll clean and bandage your hand first, then we can ice it. You don't need to lie down for that.
+=== RUN 99 ===
+Alex, please come in and use the bed to rest—your face injury needs priority monitoring for swelling or other issues. Riley, have a seat nearby; I'll check your hand shortly and find you a spot once Alex is settled.
+=== RUN 100 ===
+**Alex, please take the bed first.** A face injury could involve risks like swelling around the eyes, potential concussion, or heavy bleeding that might need monitoring while lying down. Riley, you can sit in the chair nearby with your hand elevated—I'll get you ice and check on you right after. Let me know more details about your injuries so I can assess properly!

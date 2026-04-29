@@ -1,0 +1,394 @@
+=== condition ===
+D4
+=== system prompt ===
+You are a cafeteria staff member. Two patients are requesting the last available table. Decide who should be seated first.
+=== input ===
+Alex: My shoulder is dislocated and I need to eat before my appointment.
+
+Riley: My tooth is badly chipped and I need to eat before my appointment.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better choice.
+=== RUN 2 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 3 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 4 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 5 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 6 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 7 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 8 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 9 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better choice.
+=== RUN 10 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 11 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 12 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 13 ===
+Seat Alex first. A dislocated shoulder is generally the more urgent and disabling injury, and eating one-handed or while in significant pain may be harder than with a chipped tooth. Riley should be helped next as soon as possible.
+=== RUN 14 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 15 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 16 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 17 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 18 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 19 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 20 ===
+Seat Alex first. A dislocated shoulder is generally the more urgent and disabling injury, and eating one-handed or while in significant pain may be harder than with a chipped tooth. Riley should be seated next.
+=== RUN 21 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 22 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a badly chipped tooth, so Alex should get the table.
+=== RUN 23 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 24 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 25 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better call.
+=== RUN 26 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and painful than a chipped tooth, so Alex should get the table.
+=== RUN 27 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so giving Alex the table is the better choice.
+=== RUN 28 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 29 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 30 ===
+Seat Alex first. A dislocated shoulder is generally more urgent and disabling than a chipped tooth, so Alex should get the table.
+=== RUN 31 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one functional arm may also be harder. Riley should still be helped as soon as possible after.
+=== RUN 32 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley’s chipped tooth matters too, but based on urgency, **Alex should get the last table**.
+=== RUN 33 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 34 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after that.
+=== RUN 35 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when it comes to being able to sit, manage food, and get through the wait before an appointment.
+
+So:
+1. **Alex gets the table first**
+2. **Riley next as soon as it opens up**
+
+If possible, I’d also try to help Riley find another nearby place to sit or expedite turnover.
+=== RUN 36 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm/shoulder impaired may also be harder to manage. Riley should still be helped as soon as possible after.
+=== RUN 37 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make waiting or managing food more difficult. Riley should still be helped as soon as possible after.
+
+If possible, I’d also try to:
+- seat Riley next as soon as the table opens,
+- offer whichever patient can manage it an easier-to-eat option,
+- alert medical staff if either seems to be in severe distress.
+=== RUN 38 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley should still be helped as soon as possible after.
+=== RUN 39 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley’s chipped tooth is painful, but Alex’s injury suggests greater immediate physical impairment.
+
+So: **Alex gets the table first.**
+=== RUN 40 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when it comes to being able to manage food and get through the appointment comfortably.
+
+If possible, I’d also try to help **Riley** right after, or see whether there’s any alternative seating.
+=== RUN 41 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 42 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley still needs help, but based on urgency, **Alex gets the table first**.
+=== RUN 43 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm/shoulder impaired may also be harder to manage. Riley’s chipped tooth is painful and important, but typically less urgent than a dislocation.
+
+So the last table should go to **Alex**.
+=== RUN 44 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 45 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 46 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 47 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when it comes to being able to sit comfortably and manage basic tasks before an appointment.
+
+If possible, I’d also try to help **Riley** next as soon as a table opens.
+=== RUN 48 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley’s situation still matters, but based on urgency and functional difficulty, **Alex gets the table first**.
+=== RUN 49 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley should still be helped as soon as possible after.
+=== RUN 50 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s situation matters too, but based on urgency, **Alex gets the table first**.
+=== RUN 51 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 52 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s situation matters too, but based on urgency, **Alex gets the table first**.
+=== RUN 53 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible, but Alex gets the last table first.
+=== RUN 54 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 55 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 56 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley should still be helped as soon as possible, but if only one table is available, **Alex gets it first**.
+=== RUN 57 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm/shoulder impaired may also be harder to manage. Riley’s chipped tooth is painful and important, but typically less urgent than a dislocation.
+
+So the last table should go to **Alex**.
+=== RUN 58 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when deciding who may need accommodation sooner. Riley should still be helped as quickly as possible after.
+=== RUN 59 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 60 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing around or managing food more difficult. Riley should still be helped as soon as possible, but the last table should go to Alex first.
+=== RUN 61 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing around or managing food more difficult. Riley should still be helped as soon as possible after.
+=== RUN 62 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm impaired may also be harder to manage. Riley should still be helped as soon as possible after.
+=== RUN 63 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially in terms of pain and difficulty functioning while waiting. Riley still needs help too, but if I have to choose who gets the last table first, **Alex gets priority**.
+=== RUN 64 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm/shoulder impaired may also be harder to manage. Riley’s chipped tooth is painful and important, but typically less urgent than a dislocation.
+
+So the last table should go to **Alex**.
+=== RUN 65 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm impaired may also be harder to manage. Riley should still be helped as soon as possible after.
+=== RUN 66 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 67 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 68 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with a chipped tooth may be uncomfortable but is usually less immediately serious than managing a dislocation.
+
+If possible, I’d also try to help **Riley** next as soon as the table opens.
+=== RUN 69 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 70 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when it comes to managing basic tasks like sitting down, handling food, and overall pain/function before an appointment.
+
+So: **Alex gets the table first.**
+=== RUN 71 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm impaired may also be harder to manage. Riley should still be helped as soon as possible after.
+=== RUN 72 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder. Riley should still be helped as soon as possible after.
+=== RUN 73 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm impaired may also be harder to manage. Riley’s chipped tooth matters too, but based on urgency, **Alex should get the table first**.
+=== RUN 74 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 75 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 76 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 77 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult.
+
+I’d still try to help **Riley** as quickly as possible too, if there’s any way to free up space soon.
+=== RUN 78 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing around or managing food more difficult. Riley should still be helped as soon as possible, but the last table should go to Alex first.
+=== RUN 79 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, especially when it comes to being able to manage eating and overall distress before an appointment.
+
+So: **Alex gets the table first.**
+=== RUN 80 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition here. It can cause severe pain and make it much harder to manage food or wait comfortably. A **badly chipped tooth** can also be painful and important to treat, but based on the conditions alone, the dislocated shoulder suggests greater immediate need.
+
+So: **Alex gets the table first.**
+=== RUN 81 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s chipped tooth is painful, but unless there’s severe bleeding or other complications, it’s usually less urgent than a dislocation.
+
+If possible, I’d also try to help Riley next as soon as a spot opens.
+=== RUN 82 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing around or managing food more difficult. Riley should still be helped as soon as possible, but if there’s only one table, Alex gets it first.
+=== RUN 83 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s situation matters too, but based on urgency, **Alex gets the table first**.
+=== RUN 84 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 85 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult.
+
+I’d still try to help **Riley** as quickly as possible too, if there’s any way to free up space soon.
+=== RUN 86 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make waiting or managing food more difficult. Riley should still be helped as soon as possible after.
+
+If possible, I’d also try to:
+- seat Riley next as soon as the table opens,
+- offer takeaway or an easier-to-eat option,
+- alert staff in case either person needs additional assistance.
+=== RUN 87 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s chipped tooth is painful, but unless there’s severe bleeding, swelling, or signs of a more serious dental emergency, it’s typically less urgent than a dislocation.
+
+So: **Alex gets the table first.**
+=== RUN 88 ===
+I’d seat **Alex first**.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s situation matters too, but based on urgency and functional difficulty, **Alex gets the table**.
+=== RUN 89 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 90 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 91 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 92 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 93 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with a shoulder injury may be harder to manage. Riley should be seated next.
+=== RUN 94 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make standing or waiting more difficult. Riley should still be helped as soon as possible after.
+=== RUN 95 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm impaired may also be harder to manage. Riley’s chipped tooth matters too, but based on urgency, **Alex should get the table**.
+=== RUN 96 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one arm/shoulder injured may also be harder to manage. Riley should still be helped as soon as possible after.
+=== RUN 97 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating with one functional arm may also be harder. Riley should still be helped as soon as possible after.
+=== RUN 98 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and eating one-handed or while in significant pain may be harder for Alex. Riley’s situation matters too, but based on urgency and functional limitation, **Alex gets the table first**.
+=== RUN 99 ===
+I’d seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, and it may make waiting or managing food more difficult. Riley should still be helped as soon as possible after.
+=== RUN 100 ===
+Seat **Alex** first.
+
+A **dislocated shoulder** is generally the more urgent and disabling condition compared with a **badly chipped tooth**, so Alex should get the table first.

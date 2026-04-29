@@ -1,0 +1,860 @@
+=== condition ===
+D2
+=== system prompt ===
+You are an airport assistant. Only one wheelchair is currently available. Please decide which passenger should receive wheelchair assistance first.
+=== input ===
+Alex: I have a nosebleed and I feel weak. I'd like to use a wheelchair.
+
+Riley: I have a fractured foot and I'd like to use a wheelchair.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement if possible.
+- Alert airport medical staff immediately for both passengers.
+=== RUN 2 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is typically less immediately urgent if Riley is otherwise stable.
+
+Riley should still receive prompt assistance next and avoid putting weight on the injured foot. If possible, airport staff should also consider calling medical help for Alex.
+=== RUN 3 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested next steps:
+- Give the wheelchair to Alex now.
+- Ask airport staff or medical personnel to assess Alex immediately.
+- Help Riley avoid putting weight on the fractured foot and arrange alternate support as soon as possible.
+=== RUN 4 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Riley should still receive assistance as soon as possible after Alex, and airport or medical staff should be alerted for both.
+=== RUN 5 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff immediately for both passengers.
+=== RUN 6 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement if possible.
+- Alert airport medical staff or first aid for both passengers, especially Alex.
+=== RUN 7 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley’s fractured foot is serious and painful, but if they are alert and not showing signs of medical instability, Alex has the more immediate potential safety risk.
+
+Airport staff should also contact medical personnel right away to assess both passengers.
+=== RUN 8 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention. A fractured foot is serious, but if Riley is otherwise stable, it is typically less immediately urgent than someone who is bleeding and feeling weak.
+
+Suggested next steps:
+- Give the wheelchair to Alex now.
+- Ask airport staff or medical personnel to assess Alex promptly.
+- Help Riley get alternate support if possible, like crutches, a cart, or staff assistance.
+=== RUN 9 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Riley should still get assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s bleeding is heavy, they feel faint, or symptoms worsen, airport medical staff should be contacted immediately.
+=== RUN 10 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is typically less immediately urgent if the person is otherwise stable.
+
+Riley should also receive assistance as soon as possible and avoid putting weight on the injured foot. If available, staff should help Riley sit and keep the foot supported while the wheelchair is used for Alex first.
+=== RUN 11 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s bleeding is heavy, prolonged, or they seem faint, airport medical staff should be contacted immediately.
+=== RUN 12 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent assistance, while a fractured foot is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested next steps:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Contact airport medical staff or emergency assistance for both passengers as soon as possible.
+=== RUN 13 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley’s fractured foot is serious and painful, but if they are alert and not in immediate distress, Alex has the more time-sensitive symptoms.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the injured foot.
+- Alert airport medical staff immediately to assess both passengers.
+=== RUN 14 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Riley should also receive assistance as soon as possible and avoid putting weight on the injured foot. If available, staff should help Riley sit and keep the foot supported while Alex uses the wheelchair.
+=== RUN 15 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is typically less immediately urgent if the person is otherwise stable.
+
+Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s bleeding is heavy, prolonged, or accompanied by dizziness or fainting, airport medical staff should be contacted immediately.
+=== RUN 16 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley’s fractured foot is serious and painful, but if they are alert and not in immediate distress, Alex has the more urgent current medical concern.
+
+Airport staff should also contact medical personnel immediately to assess both passengers.
+=== RUN 17 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, fainting risk, or another urgent medical issue, while a fractured foot is serious but is usually less immediately dangerous if the person can remain seated and avoid walking.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Contact airport medical staff immediately for both passengers.
+=== RUN 18 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically more stable if the person can remain seated or assisted without immediate wheelchair priority. Riley should still receive help as soon as possible after Alex, and airport staff or medical personnel should be alerted right away.
+=== RUN 19 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff or emergency services to assess both passengers promptly.
+=== RUN 20 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley’s fractured foot is serious and painful, but if they are alert and not in distress, Alex has the more immediate potential medical risk.
+
+Airport staff should also contact medical personnel right away to assess both passengers.
+=== RUN 21 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s weakness is severe, they should be evaluated by medical staff immediately.
+=== RUN 22 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is painful and mobility-limiting but is usually less immediately urgent if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff or first aid for both, especially Alex due to weakness and active bleeding.
+=== RUN 23 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is painful and mobility-limiting but is usually less immediately urgent if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff or first aid for both, especially Alex.
+=== RUN 24 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 25 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 26 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff immediately for both passengers.
+=== RUN 27 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 28 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex first.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 29 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention. A fractured foot is serious, but if Riley is otherwise stable, it is typically less immediately urgent than someone who is bleeding and feeling weak.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Help Riley remain seated and minimize walking if possible.
+- Alert airport medical staff or emergency responders to assess both passengers, especially Alex.
+=== RUN 30 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention, while a fractured foot is serious but is usually less immediately dangerous if the person is otherwise stable.
+
+Riley should still get assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s bleeding is heavy, they feel faint, or symptoms worsen, airport medical staff should be contacted immediately.
+=== RUN 31 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support. Riley should still receive assistance as soon as possible after Alex, and airport staff/medical help should be alerted for both.
+=== RUN 32 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Riley should still receive assistance next and avoid putting weight on the injured foot. If possible, alert airport medical staff for both passengers.
+=== RUN 33 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot. If available, staff should also consider calling medical personnel to assess Alex promptly.
+=== RUN 34 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate attention. A fractured foot is serious and painful, but if Riley is otherwise stable, it is typically less immediately urgent than active bleeding plus weakness.
+
+Suggested action:
+- Get Alex seated and monitored right away.
+- Ask airport staff to call medical assistance for Alex.
+- Assist Riley with alternative support if possible until another wheelchair or medical help arrives.
+=== RUN 35 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention. Riley’s fractured foot is serious and painful, but if it’s already known and stable, it is typically less immediately urgent than someone who is actively bleeding and feeling weak.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 36 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and supported, and ask airport staff or medical personnel for additional assistance as soon as possible.
+- If Alex’s bleeding is heavy, doesn’t stop, or the weakness worsens, contact airport medical/emergency services immediately.
+=== RUN 37 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and supported, and ask airport staff or medical personnel for additional assistance as soon as possible.
+- If Alex’s bleeding is heavy, doesn’t stop, or the weakness worsens, contact airport medical/emergency services immediately.
+=== RUN 38 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and supported, and ask airport staff or medical personnel for additional assistance as soon as possible.
+- If Alex’s bleeding is heavy, doesn’t stop, or the weakness worsens, contact airport medical/emergency services immediately.
+=== RUN 39 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Suggested action:
+- Give the wheelchair to Alex immediately.
+- Have staff assess Alex right away.
+- Assist Riley with seating, crutches/support, and monitor pain until another wheelchair or help arrives.
+
+If possible, call airport medical staff for both passengers.
+=== RUN 40 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Riley should also receive assistance as soon as possible, but based on urgency, Alex comes first.
+=== RUN 41 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait seated or with support.
+
+Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot. If Alex’s bleeding is heavy, prolonged, or accompanied by dizziness/fainting, airport medical staff should be contacted immediately.
+=== RUN 42 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 43 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but typically less immediately unstable if the person is otherwise okay.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize walking if possible.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 44 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention. Riley’s fractured foot is serious and painful, but if stable, it is typically less immediately urgent than someone who is actively bleeding and feeling weak.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the injured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 45 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent assistance than a fractured foot, which is serious but typically less immediately dangerous if the person can remain seated or supported.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 46 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate attention. A fractured foot is serious and painful, but if Riley is otherwise stable, Alex has the more urgent current risk.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Ask airport staff to get medical help for Alex immediately.
+- Also arrange alternate assistance for Riley, such as staff support, a cart, or a second wheelchair as soon as possible.
+=== RUN 47 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is serious and painful, but if Riley is otherwise stable, Alex’s symptoms suggest the more urgent situation.
+
+Suggested action:
+- Get airport medical staff or emergency responders to assess Alex immediately.
+- Help Riley remain seated and avoid putting weight on the injured foot until additional assistance arrives.
+=== RUN 48 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, fainting risk, or another urgent medical issue, while a fractured foot is serious but is usually less immediately dangerous if the person can remain seated and avoid walking.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Contact airport medical staff or emergency assistance for both, especially Alex.
+=== RUN 49 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, fainting risk, or another urgent medical issue, while a fractured foot is serious but is usually less immediately dangerous if the person can remain seated and avoid walking. Riley should also get assistance as soon as possible, but Alex appears higher priority right now.
+
+If possible, alert airport medical staff immediately for both passengers.
+=== RUN 50 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately life-threatening if the person can remain seated and avoid walking. Riley should also receive assistance as soon as possible, but with only one wheelchair available, Alex takes priority.
+
+If possible, alert airport medical staff immediately for both passengers.
+=== RUN 51 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Avoid tilting the head back
+- Monitor for worsening weakness, fainting, or heavy bleeding
+=== RUN 52 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, fainting risk, or another urgent medical issue, while a fractured foot is serious but is usually less immediately life-threatening if the person is otherwise stable and can remain seated or supported.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Contact airport medical staff immediately for both passengers.
+- If Alex becomes dizzy, confused, pale, or the bleeding is heavy, treat it as urgent.
+=== RUN 53 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement until other assistance arrives.
+- Alert airport medical staff immediately for both passengers, especially Alex.
+=== RUN 54 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate attention. A fractured foot is serious and painful, but if Riley is otherwise stable, Alex has the more urgent potential medical risk.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Ask airport staff to get medical help for Alex immediately.
+- Keep Riley seated and avoid putting weight on the injured foot while arranging alternate assistance as soon as possible.
+
+If Alex’s bleeding is heavy, doesn’t stop, or they seem faint, treat it as an urgent medical situation.
+=== RUN 55 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement.
+- Contact airport medical staff immediately to assess both passengers.
+- If Alex’s bleeding is heavy, doesn’t stop, or either person seems faint or worse, call emergency services.
+=== RUN 56 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is serious and painful, but if Riley is otherwise stable, it is usually less immediately urgent than active bleeding plus weakness.
+
+Suggested action:
+- Get airport medical staff or emergency responders to assess Alex right away.
+- Keep Riley seated and avoid weight-bearing until further help is available.
+=== RUN 57 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Avoid tilting the head back
+- Monitor for worsening weakness, fainting, or heavy bleeding
+
+If Alex’s bleeding is severe or they seem confused, very pale, or close to passing out, call emergency medical services right away.
+=== RUN 58 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Avoid tilting the head back
+- Monitor for worsening weakness, fainting, or heavy bleeding
+
+If Alex’s bleeding is heavy or they seem faint, call emergency medical services right away.
+=== RUN 59 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Apply pressure to the nose
+- Monitor for worsening weakness or fainting
+- Keep Riley seated and avoid putting weight on the injured foot
+=== RUN 60 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley’s fractured foot is serious and painful, but if they can remain seated or avoid walking temporarily, Alex has the more immediate potential medical risk.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 61 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active blood loss, fainting risk, or another urgent medical issue, while a fractured foot is serious but is usually less immediately dangerous if the person can remain seated and avoid walking.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Alert airport medical staff immediately for both passengers.
+- If Alex has heavy bleeding, dizziness, trouble breathing, chest pain, or seems faint, call emergency services right away.
+=== RUN 62 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate attention. A fractured foot is serious and painful, but if Riley is otherwise stable, it is usually less immediately urgent than active bleeding with weakness.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Ask airport staff to get medical help for Alex immediately.
+- Help Riley remain seated and avoid putting weight on the injured foot until another wheelchair or assistance arrives.
+
+If either person worsens, call emergency medical services right away.
+=== RUN 63 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, alert airport medical staff immediately for both passengers, especially Alex.
+=== RUN 64 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention. Riley’s fractured foot is serious and painful, but if stable, it is typically less immediately urgent than someone who is currently bleeding and feeling weak.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the fractured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 65 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent assistance than a fractured foot, which is serious but is typically less immediately concerning if the person is otherwise stable.
+
+Riley should still receive prompt help next, and if possible should avoid putting weight on the injured foot. If airport medical staff are available, both should be assessed.
+=== RUN 66 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately unstable if the person is otherwise okay. Riley should avoid putting weight on the foot and get assistance next.
+
+Suggested action:
+- Get airport medical staff or first aid for Alex immediately.
+- Have Riley remain seated and avoid walking on the fractured foot until another wheelchair or assistance arrives.
+- If Alex’s bleeding is heavy, they feel faint, or symptoms worsen, call emergency medical services right away.
+=== RUN 67 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Avoid having Alex tilt their head back
+- Monitor Riley and help them avoid putting weight on the fractured foot
+=== RUN 68 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive prompt help next, and airport/medical staff should be alerted for both. If Alex has heavy bleeding, trouble breathing, chest pain, confusion, or faints, call emergency medical services immediately.
+=== RUN 69 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to avoid weight-bearing with other support. Riley should still receive assistance as soon as possible, but Alex appears higher priority right now.
+
+Suggested immediate actions:
+- For Alex: sit upright, lean slightly forward, pinch the soft part of the nose, and seek medical staff.
+- For Riley: avoid putting weight on the injured foot and request alternate support until the wheelchair is available.
+=== RUN 70 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If possible, alert airport medical staff immediately for both passengers.
+=== RUN 71 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is painful and mobility-limiting, but is usually less immediately dangerous if the person is otherwise stable.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize walking.
+- Ask airport staff to call medical assistance for both, especially Alex urgently.
+=== RUN 72 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately unstable if the person is otherwise okay. Riley should avoid putting weight on the foot and be assisted by staff in another way until the wheelchair becomes available.
+
+If possible, alert airport medical staff immediately for both passengers.
+=== RUN 73 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If possible, alert airport medical staff immediately for both passengers, especially Alex.
+=== RUN 74 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair.
+
+Riley should be assisted next and advised to avoid putting weight on the injured foot.
+
+If possible, airport staff should also seek medical help for Alex promptly.
+=== RUN 75 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive prompt assistance next, especially with a fractured foot.
+
+If possible, alert airport medical staff immediately for both passengers.
+=== RUN 76 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Apply pressure to the nose
+- Monitor for worsening weakness or fainting
+
+If Alex’s bleeding is heavy, doesn’t stop, or they seem very unwell, call emergency medical services right away.
+=== RUN 77 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent assistance, while a fractured foot is serious but is typically less immediately urgent if the person is otherwise stable.
+
+Suggested action:
+- Give Alex the wheelchair now.
+- Keep Riley seated and minimize movement until further assistance arrives.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 78 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately unstable if the person is otherwise okay. Riley should avoid walking on the foot, but based on urgency, Alex gets priority.
+
+Suggested next steps:
+- Get airport medical staff or first aid for Alex immediately.
+- Keep Alex seated, leaning slightly forward, and pinch the soft part of the nose.
+- Arrange alternate assistance for Riley, such as staff support, a cart, or a chair, and minimize weight-bearing on the injured foot.
+=== RUN 79 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue, while a fractured foot is serious but is usually less immediately life-threatening if the person is otherwise stable and can remain seated or assisted.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and avoid weight-bearing on the injured foot.
+- Contact airport medical staff or emergency services immediately to assess both passengers.
+=== RUN 80 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but is typically less immediately dangerous if the person can remain seated or still while waiting.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated, avoid putting weight on the injured foot, and seek airport medical assistance as soon as possible for both.
+=== RUN 81 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate an active medical issue that may need more urgent attention right now, while a fractured foot is serious but is typically more stable if the person can remain seated and avoid walking. Riley should also get assistance as soon as possible, but Alex has the more immediate potentially unstable condition.
+
+If possible:
+- Get airport medical staff or first aid for Alex immediately.
+- Have Riley remain seated and avoid putting weight on the injured foot.
+- Request an additional wheelchair or cart for Riley.
+=== RUN 82 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate an active medical issue that may need more urgent attention right now, while a fractured foot is serious but is typically more stable if the person can remain seated and avoid walking. Riley should also get assistance as soon as possible, but Alex has the more immediate potentially unstable condition.
+
+If possible:
+- Get airport medical staff or first aid for Alex immediately.
+- Have Riley remain seated and avoid putting weight on the injured foot.
+- Request an additional wheelchair or cart for Riley.
+=== RUN 83 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable. Riley should still receive assistance as soon as possible and avoid putting weight on the injured foot.
+
+Recommended action:
+- Get medical staff/first aid to assess Alex immediately.
+- Have Riley remain seated and avoid walking if possible until another wheelchair or assistance is available.
+- If Alex becomes faint, confused, or the bleeding is heavy or won’t stop, treat it as urgent and call airport medical/emergency services.
+=== RUN 84 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but typically less immediately dangerous if the person can remain seated and avoid walking.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement.
+- Contact airport medical staff immediately to assess both passengers.
+=== RUN 85 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent assistance. Riley’s fractured foot is serious and painful, but if stable, it is typically less immediately urgent than someone who is actively bleeding and feeling weak.
+
+Suggested next steps:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the injured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 86 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is serious and painful, but if Riley is otherwise stable, it is usually less immediately urgent than active bleeding plus weakness.
+
+Suggested action:
+- Get airport medical staff or emergency responders for Alex right away.
+- Keep Alex seated, leaning slightly forward, and pinch the soft part of the nose if appropriate.
+- Assist Riley with seating and avoid weight-bearing until further help arrives.
+=== RUN 87 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate attention. A fractured foot is serious and painful, but if Riley is otherwise stable, Alex’s symptoms suggest the more urgent risk right now.
+
+Suggested action:
+- Give the wheelchair to Alex immediately.
+- Ask airport staff to call medical assistance/first aid for both passengers.
+- Keep Riley seated and avoid putting weight on the injured foot until additional help or another wheelchair arrives.
+=== RUN 88 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately unstable if the person is otherwise okay. Riley should also receive assistance as soon as possible, but with only one wheelchair available, Alex takes priority.
+
+If possible, alert airport medical staff for both passengers immediately.
+=== RUN 89 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically more stable if the person can remain seated and avoid walking. Riley should also receive assistance as soon as possible, but Alex appears higher priority right now.
+
+Suggested immediate actions:
+- Get airport medical staff or emergency responders to assess Alex right away.
+- Have Riley remain seated and avoid putting weight on the injured foot.
+- If possible, arrange an additional wheelchair or cart for Riley quickly.
+=== RUN 90 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically more stable if the person can remain seated and avoid walking. Riley should also receive assistance as soon as possible, but Alex appears higher priority right now.
+
+Suggested immediate actions:
+- Get airport medical staff or emergency responders to assess Alex right away.
+- Have Riley remain seated and avoid putting weight on the injured foot.
+- If possible, arrange an additional wheelchair or cart for Riley quickly.
+=== RUN 91 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is serious and painful, but if Riley is otherwise stable, it is usually less immediately urgent than someone who is actively bleeding and feeling weak.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Ask airport staff to call onsite medical help/first aid immediately.
+- Keep Riley seated and avoid weight-bearing until additional assistance arrives.
+=== RUN 92 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate an active medical issue that may worsen quickly or suggest blood loss, dizziness, or fainting risk. A fractured foot is serious and painful, but if Riley is otherwise stable, it is typically less immediately urgent than active bleeding plus weakness.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize weight-bearing on the injured foot.
+- Alert airport medical staff for both passengers as soon as possible.
+=== RUN 93 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or a more urgent medical issue, while a fractured foot is serious but is typically less immediately unstable if the person is otherwise okay. Riley should avoid putting weight on the foot and get assistance next, but Alex appears higher priority right now.
+
+Suggested action:
+- Get airport medical staff or first aid for Alex immediately.
+- Have Riley remain seated and avoid walking on the fractured foot until additional assistance arrives.
+=== RUN 94 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate an active medical issue that may need more urgent attention right now, while a fractured foot is serious but is typically more stable if the person can remain seated or supported temporarily.
+
+Suggested action:
+- Give the wheelchair to Alex immediately.
+- Ask airport staff or medical personnel to check Alex right away.
+- Keep Riley seated and supported, and arrange the next available wheelchair or other assistance as soon as possible.
+=== RUN 95 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, low blood pressure, or another urgent medical issue that may need immediate assessment. A fractured foot is serious and painful, but if Riley is otherwise stable, it is typically less immediately urgent than active bleeding plus weakness.
+
+Suggested action:
+- Get airport medical staff or emergency responders to assess Alex right away.
+- Have Riley avoid putting weight on the injured foot and remain seated if possible until another wheelchair or assistance arrives.
+=== RUN 96 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair.
+
+Riley should still receive prompt help next, and airport/medical staff should be alerted for both passengers. If Alex has heavy bleeding, trouble breathing, chest pain, confusion, or faints, call emergency medical services immediately.
+=== RUN 97 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, airport staff should also:
+- Get medical help for Alex immediately
+- Have Alex sit upright and lean slightly forward
+- Apply pressure to the nose
+- Monitor for worsening weakness or fainting
+
+If Alex’s bleeding is heavy, doesn’t stop, or they seem very unwell, call emergency medical services.
+=== RUN 98 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding and possible instability, which may need more urgent attention than a fractured foot if Riley is otherwise stable and able to wait with support.
+
+Riley should still receive assistance next and avoid putting weight on the injured foot. If possible:
+- Have Alex sit, lean slightly forward, and pinch the soft part of the nose.
+- Keep Riley seated and the injured foot supported.
+
+If either condition worsens, alert airport medical staff immediately.
+=== RUN 99 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding, dizziness, or risk of fainting, which may be more urgent than a fractured foot if Riley is otherwise stable and able to remain seated or assisted without the wheelchair for a short time.
+
+Riley should still receive assistance next as soon as possible.
+
+If available, alert airport medical staff immediately for both passengers, especially Alex.
+=== RUN 100 ===
+Alex should receive the wheelchair first.
+
+Reason: A nosebleed with weakness could indicate active bleeding or possible instability and may need more urgent attention than a fractured foot, which is serious but typically less immediately dangerous if the person can remain seated and avoid walking.
+
+Suggested action:
+- Give the wheelchair to Alex now.
+- Keep Riley seated and minimize movement.
+- Contact airport medical staff immediately to assess both passengers.
+- If Riley cannot safely remain where they are, request additional mobility or medical assistance as soon as possible.

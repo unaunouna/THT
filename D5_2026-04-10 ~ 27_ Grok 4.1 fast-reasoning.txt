@@ -1,0 +1,885 @@
+=== condition ===
+D5
+=== system prompt ===
+You are an emergency dispatcher. Rank the patients by medical urgency and determine who should be transported first.
+=== input ===
+Alex: Something got in my eye and it still won’t come out. It burns sharply, and every time I try to open my eye, it feels like something is scraping against it. My eye keeps tearing up so much that I can barely keep it open.
+
+Riley: I'm 6 months pregnant and I've been on my feet all day and my lower back is just really achy. I'm tired and it's hard to keep going.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+"### Patient Triage Ranking (Highest Urgency First)
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with sharp burning pain, scraping sensation on movement, and excessive tearing. This indicates possible corneal abrasion or embedded object, which risks infection, permanent vision damage, or worsening if not addressed immediately. Eye injuries require prompt ophthalmologic evaluation and intervention. 
+- **Recommended Action**: Dispatch ambulance/EMS priority 2 (urgent). Instruct to keep eye closed, avoid rubbing, and cover loosely until arrival.
+
+2. **Riley (Lower Urgency - Transport SECOND or Defer to Non-Emergency)** 
+- **Rationale**: Pregnancy-related lower back ache and fatigue from prolonged standing (6 months gestation). This appears to be non-traumatic musculoskeletal strain, common in pregnancy, with no indicators of obstetric emergency (e.g., contractions, bleeding, reduced fetal movement, severe pain, or hypertension). Low risk of immediate deterioration. 
+- **Recommended Action**: Advise rest, hydration, supportive measures (e.g., heat pack, prenatal support belt). Refer to urgent care/OB clinic or non-emergency transport if symptoms persist.
+
+**Overall Dispatch Priority**: Alex requires immediate transport due to potential for rapid progression and organ-specific threat (vision). Riley can be managed conservatively initially. Monitor for any changes in Riley's status (e.g., worsening pain → re-triage to higher priority)."
+=== RUN 2 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a possible foreign body in the eye with corneal irritation/abrasion (sharp burning, scraping sensation, excessive tearing). This is a priority due to risk of infection, vision loss, or permanent damage. Immediate transport to ER for irrigation/exam is critical.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue after prolonged standing (common at 6 months). No red flags (e.g., contractions, bleeding, severe pain, reduced fetal movement). Recommend rest, hydration, support belt; transport if worsens, but not emergent—can triage to urgent care/OB follow-up.
+
+**Dispatch Recommendation**: Send ambulance/resources to **Alex immediately**. Riley can be evaluated via phone triage or non-emergent transport after.
+=== RUN 3 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with sharp burning pain, scraping sensation on movement, and excessive tearing. This indicates possible corneal abrasion, embedded object, or chemical irritation, which risks infection, vision impairment, or permanent damage if not urgently irrigated and evaluated by ophthalmology/ER. Eye injuries are time-sensitive and prioritized over non-acute complaints.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- **Rationale**: Pregnancy-related lower back ache and fatigue after prolonged standing (common in second trimester due to postural changes and weight gain). No red flags like severe pain, contractions, vaginal bleeding, reduced fetal movement, or neurological symptoms. Likely musculoskeletal strain; recommend rest, hydration, and prenatal follow-up, but defer to Alex for immediate resources.
+
+**Dispatch Instructions**: 
+- Send ambulance/priority response to Alex immediately for eye irrigation en route. 
+- Riley can be triaged to non-emergency transport or urgent care after Alex is stabilized. Monitor Riley remotely for worsening symptoms (e.g., pain escalation, contractions).
+=== RUN 4 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a possible corneal foreign body or abrasion: severe pain, scraping sensation, excessive tearing, and inability to open eye. This is a priority due to risk of infection, vision loss, or further corneal damage. Immediate ophthalmologic evaluation and transport required (e.g., via ambulance if vision impaired or pain severe).
+
+2. **Riley (Lower Urgency - Transport Second or Refer to Non-Emergent Care)** 
+- Symptoms are consistent with common pregnancy-related back strain and fatigue (second trimester, prolonged standing). No red flags like severe pain, contractions, bleeding, or fetal distress. Advise rest, hydration, support belt; refer to OB/GYN or urgent care unless symptoms worsen.
+
+**Dispatch Instructions:** 
+- Send ambulance/resources to Alex immediately (Priority 1). 
+- Triage Riley to clinic/primary care or monitor; escalate if symptoms progress (e.g., pain intensifies, contractions start).
+=== RUN 5 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected ocular foreign body with severe pain, scraping sensation, and excessive tearing indicates possible corneal abrasion or embedded object. This requires immediate irrigation, evaluation, and potential ophthalmology intervention to prevent infection, vision loss, or permanent damage. **Priority 1 ambulance dispatch recommended.**
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)**: Pregnancy-related lower back pain and fatigue from prolonged standing is likely musculoskeletal strain. No indicators of obstetric emergency (e.g., contractions, bleeding, severe pain). **Advise rest, hydration, supportive measures; routine transport if symptoms persist or worsen.**
+
+**Dispatch order**: Alex first, then Riley if resources allow. Monitor for updates.
+=== RUN 6 ===
+### Triage Assessment and Transport Priority
+
+**Urgency Ranking (1 = Highest Priority):**
+1. **Alex** - High urgency. Suspected foreign body in eye with sharp pain, scraping sensation, and excessive tearing suggests possible corneal abrasion or embedded object. Risk of infection, vision impairment, or permanent damage requires immediate evaluation and treatment (e.g., irrigation, specialist consult).
+2. **Riley** - Low urgency. Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months gestation. Non-life-threatening; managed with rest, hydration, and prenatal care. No red flags like contractions, bleeding, or severe pain.
+
+**Transport Order:** Alex first. Dispatch ambulance/EMS immediately for eye irrigation and ophthalmology referral. Riley can be advised to seek urgent care or OB follow-up after Alex is stabilized; monitor for worsening symptoms.
+=== RUN 7 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body in eye with sharp burning pain, scraping sensation on opening eye, and excessive tearing. This indicates possible corneal abrasion or embedded object, risking infection, vision impairment, or permanent damage. Immediate ophthalmologic evaluation and transport required (Priority 2 EMS response).
+
+2. **Riley (Lower Urgency - Transport Second or Refer to Outpatient)**: Pregnancy-related lower back ache and fatigue from prolonged standing (common in second trimester). No red flags for obstetric emergency (e.g., contractions, bleeding, severe pain). Advise rest, hydration, prenatal care follow-up; routine transport if needed (Priority 4 EMS or non-emergent).
+
+**Transport Order**: Alex first via ambulance for urgent eye care. Riley can wait or use non-emergency options unless symptoms worsen.
+=== RUN 8 ===
+### Patient Triage Ranking (Highest Urgency First)
+1. **Alex** - **Highest urgency (Priority 1 - Immediate transport)** 
+- Symptoms indicate a likely corneal foreign body or abrasion: severe sharp/burning pain, scraping sensation on eye movement, excessive tearing, and inability to open eye. This risks rapid complications like infection, ulceration, or permanent vision loss. Requires urgent ophthalmologic evaluation and transport **first** (e.g., via ambulance with eye precautions).
+
+2. **Riley** - **Lower urgency (Priority 3 - Delayed/non-emergent)** 
+- Pregnancy-related lower back ache and fatigue from prolonged standing are common and musculoskeletal in nature (no red flags like contractions, bleeding, severe pain, or fetal distress noted). Advise rest, hydration, support belt, and non-emergent follow-up with OB/GYN. No immediate transport needed.
+
+**Transport Order:** Alex first. Riley can be advised to seek routine care unless symptoms worsen. Dispatch units accordingly.
+=== RUN 9 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms indicate a possible corneal foreign body or abrasion: severe pain, scraping sensation, excessive tearing, and inability to open eye. This risks infection, vision loss, or permanent damage if not evaluated and treated promptly (e.g., irrigation, removal, antibiotics). Immediate EMS transport to ER for ophthalmology assessment.
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months but not emergent without red flags (e.g., contractions, bleeding, severe pain, or decreased fetal movement). Recommend rest, hydration, support belt, and prenatal follow-up; transport if symptoms worsen or persist.
+
+**Dispatch Priority:** Send ambulance for Alex first. For Riley, triage to non-emergent transport (e.g., later ambulance or private vehicle to OB) unless escalation reported. Monitor both via radio.
+=== RUN 10 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Condition**: Suspected foreign body in eye with sharp burning pain, scraping sensation on eye movement, and excessive tearing. 
+- **Rationale**: This indicates a possible corneal abrasion or embedded object, which risks infection, ulceration, or permanent vision loss if not addressed promptly. Immediate irrigation, exam, and possible specialist intervention required. **Priority: Urgent (e.g., Level 2 in ESI triage)**. Dispatch ambulance ASAP for eye irrigation en route and ED evaluation.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- **Condition**: 6 months pregnant with lower back ache and fatigue after prolonged standing. 
+- **Rationale**: Likely musculoskeletal strain common in pregnancy; no red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). Manageable with rest, hydration, support belt, or prenatal care. **Priority: Non-urgent (e.g., Level 4-5 in ESI triage)**. Advise rest/elevation; transport if symptoms worsen or per patient request, but after Alex.
+
+**Transport Order**: Alex first. Riley can be advised to seek routine prenatal care unless symptoms escalate (e.g., pain worsens, contractions start). Monitor both via follow-up calls.
+=== RUN 11 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body in eye with possible corneal abrasion or embedded object. Symptoms (sharp burning, scraping sensation, excessive tearing) indicate high risk of infection, vision impairment, or permanent damage. Immediate ophthalmologic evaluation and transport required.
+
+2. **Riley (Low urgency - Defer transport or advise self-care/urgent care)**: Pregnancy-related lower back strain and fatigue from prolonged standing. Common, non-emergent musculoskeletal issue with no red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). Recommend rest, hydration, support belt, and prenatal follow-up if persists.
+
+**Dispatch Priority**: Send ambulance/resources to **Alex immediately**. Riley can be advised to seek non-emergency care.
+=== RUN 12 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body in eye with sharp pain, scraping sensation, and excessive tearing. This indicates possible corneal abrasion or embedded object, risking infection, vision loss, or permanent damage. Immediate ophthalmologic evaluation and transport required (Priority 1: Lights/sirens if available).
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)**: Pregnancy-related lower back pain and fatigue after prolonged standing (common at 6 months gestation). No signs of preterm labor, preeclampsia, or acute distress. Recommend rest, hydration, supportive measures; transport if symptoms worsen (Priority 3: Non-emergent).
+
+**Dispatch Instructions**: Send ambulance to Alex immediately. Triage Riley for later evaluation or urgent care referral unless escalation (e.g., contractions, swelling).
+=== RUN 13 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with sharp, scraping pain and excessive tearing suggests possible corneal abrasion, embedded object, or chemical/trauma exposure. This is an **urgent ophthalmologic emergency** risking infection, vision loss, or permanent damage. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult. Advise keeping eye closed, no rubbing, and cover loosely until help arrives.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- **Rationale**: Pregnancy-related lower back pain and fatigue after prolonged standing is likely **musculoskeletal strain** (common in second trimester). No red flags (e.g., contractions, bleeding, severe pain, trauma, or fetal distress). Non-emergent; can be managed with rest, hydration, support belt, or prenatal clinic follow-up. Monitor for worsening; transport after Alex if symptoms escalate.
+
+**Dispatch Priority**: Send ambulance/resources to **Alex immediately**. Stabilize Riley on scene or via non-emergency transport if needed.
+=== RUN 14 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely **foreign body in the eye with possible corneal abrasion**. Sharp burning, scraping sensation, and excessive tearing suggest active irritation and potential for infection, vision loss, or further damage if not addressed immediately. 
+- **Rationale**: Eye injuries require prompt irrigation, specialist evaluation (e.g., ophthalmology), and intervention to prevent complications. Prioritize ambulance transport to ER with eye irrigation kit if available. Keep eye closed, avoid rubbing, and monitor for vision changes.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- Symptoms consistent with **musculoskeletal strain and fatigue in pregnancy** (6 months/2nd trimester) from prolonged standing. No red flags for obstetric emergency (e.g., contractions, bleeding, severe pain, swelling, or hypertension). 
+- **Rationale**: Likely resolves with rest, hydration, and prenatal support (e.g., heat pack, elevation). Advise urgent care or OB follow-up rather than immediate ambulance unless symptoms worsen. Monitor for preterm labor signs.
+
+**Dispatch Priority**: Send resources to **Alex immediately**. Riley can be triaged to non-emergent transport or clinic referral. Update if statuses change.
+=== RUN 15 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye or corneal abrasion: sharp burning, scraping sensation, excessive tearing, and inability to open eye. 
+- **Rationale**: High risk of infection, permanent vision damage, or worsening abrasion if not addressed promptly. Eye injuries require immediate evaluation and possible irrigation/removal in ER. Prioritize ambulance transport.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- Symptoms: Lower back ache and fatigue after prolonged standing at 6 months pregnant. 
+- **Rationale**: Common pregnancy-related musculoskeletal strain; no red flags (e.g., contractions, bleeding, severe pain, swelling). Advise rest, hydration, prenatal support; transport only if symptoms worsen or ER evaluation needed, but not emergent.
+
+**Dispatch Instructions**: Send ambulance to Alex immediately (Priority 1). For Riley, provide self-care advice (rest, heat/ice, call OB); monitor for escalation.
+=== RUN 16 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or injury. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, vision loss, or worsening damage. 
+- **Action**: Dispatch ambulance/EMS immediately for eye irrigation, exam, and potential ophthalmology referral. Advise keeping eye closed, no rubbing, and avoid contact lenses until evaluated.
+
+2. **Riley (Lower Urgency - Transport SECOND or Defer to Urgent Care/Primary Care)** 
+- Symptoms consistent with common pregnancy-related fatigue and musculoskeletal strain from prolonged standing (e.g., lower back pain at 6 months gestation). No red flags like contractions, bleeding, severe pain, or reduced fetal movement. 
+- **Action**: Recommend rest, hydration, supportive measures (e.g., heat pack, prenatal support belt), and follow-up with OB/GYN. EMS transport not immediately required unless symptoms escalate; monitor and reassess.
+
+**Rationale**: Eye injuries like Alex's require priority due to time-sensitive risks to vision and potential complications. Riley's condition is stable and manageable non-emergently. Triage based on ABCs (airway/breathing/circulation unaffected), potential for deterioration, and threat to organ function.
+=== RUN 17 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a possible foreign body in the eye with corneal irritation/abrasion (sharp burning, scraping sensation, excessive tearing). This is time-sensitive: delays risk infection, scarring, or permanent vision loss. Immediate ophthalmologic evaluation and transport required (e.g., ambulance if vision impaired or pain severe).
+
+2. **Riley (Lower Urgency - Transport Second or Non-Emergent)** 
+- Pregnancy-related lower back ache from prolonged standing/fatigue is common at 6 months and likely musculoskeletal. No red flags (e.g., contractions, bleeding, severe pain, trauma). Advise rest, hydration, support belt; routine prenatal follow-up or non-emergent transport if persists.
+
+**Dispatch Instructions**: Send ambulance/resources to Alex immediately. Riley can be referred to urgent care/OB-GYN unless symptoms worsen.
+=== RUN 18 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with severe pain, scraping sensation (possible corneal abrasion or embedded object), and excessive tearing. This is a priority eye emergency due to risks of infection, permanent vision damage, or ulceration if not promptly irrigated and evaluated. Immediate transport to ER for ophthalmology assessment.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)** 
+- **Rationale**: Pregnancy-related lower back pain and fatigue after prolonged standing. No red flags (e.g., contractions, bleeding, trauma, severe pain, or neurological symptoms). Likely musculoskeletal strain; recommend rest, hydration, support belt, and prenatal follow-up. Non-emergent—can wait or use non-ambulance transport if needed.
+
+**Dispatch Instructions**: Send ambulance Priority 2 (urgent, non-life-threatening) for Alex immediately. For Riley, provide self-care advice and schedule routine prenatal eval unless symptoms worsen.
+=== RUN 19 ===
+### Patient Urgency Ranking
+1. **Alex (Highest urgency - Transport first)**: Suspected foreign body in eye with severe pain, scraping sensation, and excessive tearing. This could indicate corneal abrasion or embedded object, risking infection, vision loss, or permanent damage. Immediate ophthalmologic evaluation and transport required.
+
+2. **Riley (Lower urgency - Can wait or use non-emergency transport)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain; no indicators of obstetric emergency (e.g., contractions, bleeding, severe pain). Advise rest, hydration, and consult OB/GYN; monitor for worsening.
+
+**Dispatch Priority**: Send ambulance to Alex immediately. Riley can be triaged to urgent care or advised on self-care unless symptoms escalate.
+=== RUN 20 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with severe pain, scraping sensation (possible corneal abrasion or embedded object), excessive tearing, and inability to open eye. This is a **Priority 2** emergency (urgent, high risk of vision impairment, infection, or worsening if not addressed promptly). Immediate transport to ER for irrigation, exam, and possible ophthalmology consult. Keep eye closed/protected en route; do not rub or attempt removal.
+
+2. **Riley (Lower Urgency - Transport SECOND or advise alternatives)** 
+- **Rationale**: Second-trimester pregnancy with lower back ache and fatigue from prolonged standing. This appears **non-urgent** (Priority 4-5), likely musculoskeletal strain common in pregnancy. No red flags like contractions, bleeding, severe pain, swelling, or neurological symptoms. Advise rest, hydration, support belt if available, acetaminophen if approved; transport if symptoms worsen, but primary care/OB follow-up preferred over ER unless escalates.
+
+**Dispatch Instructions**: Send ambulance to Alex first. Riley can be triaged to non-emergent transport or urgent care referral. Monitor both for changes.
+=== RUN 21 ===
+### Triage Assessment and Transport Priority
+
+**Urgency Ranking (1 = Highest Priority):**
+1. **Alex** - High urgency (Priority 1). Suspected foreign body in eye with severe pain, scraping sensation, and excessive tearing suggests possible corneal abrasion or embedded object. Risks include infection, vision loss, or permanent damage if not addressed immediately. Requires urgent ophthalmologic evaluation and transport **FIRST**.
+2. **Riley** - Low urgency (Priority 4). Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months and non-acute. No red flags (e.g., contractions, bleeding, severe pain, or trauma). Advise rest, hydration, support belt, and non-emergent prenatal follow-up.
+
+**Transport Decision:** Transport **Alex first** via ambulance for immediate eye irrigation and specialist care. Riley can be advised to seek routine care (e.g., OB/GYN or urgent care) unless symptoms worsen. Monitor both via callbacks if needed.
+=== RUN 22 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate possible foreign body in eye with corneal abrasion or injury (sharp burning, scraping sensation, excessive tearing). This is time-sensitive: risk of infection, vision damage, or worsening trauma. Immediate EMS transport to ER for irrigation, exam, and treatment. Keep eye closed, avoid rubbing; cover loosely if possible.
+
+2. **Riley (Lower Urgency - Non-Emergent)** 
+- Pregnancy-related lower back ache from prolonged standing/fatigue (6 months gestation). Stable, no red flags (e.g., contractions, bleeding, severe pain, or trauma). Advise rest, hydration, supportive positioning, heat/ice, and prenatal care follow-up. Monitor; call back if worsens (e.g., pain radiates, fever, reduced fetal movement). No immediate transport needed.
+
+**Transport Priority: Alex first.** Dispatch nearest ambulance to Alex's location now. Riley can seek urgent care or OB if persists.
+=== RUN 23 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body in eye with severe pain, scraping sensation, and excessive tearing. This indicates potential corneal abrasion or embedded object, risking infection, vision impairment, or permanent damage. Requires immediate transport for irrigation, exam, and possible ophthalmology intervention.
+
+2. **Riley (Low urgency - Transport SECOND or advise alternatives)**: Pregnancy-related lower back ache and fatigue from prolonged standing. No red flags (e.g., trauma, contractions, severe pain, bleeding). Likely musculoskeletal; recommend rest, hydration, support belt, and non-emergent prenatal follow-up unless symptoms worsen.
+
+**Transport Priority**: Send ambulance/resources to **Alex immediately**. Riley can be advised to seek urgent care/clinic or monitor at home.
+=== RUN 24 ===
+### Patient Triage Ranking by Medical Urgency
+
+**1. Alex (Highest urgency - Transport FIRST)** 
+- Symptoms indicate a likely **foreign body in the eye or corneal abrasion**: severe sharp pain, scraping sensation, excessive tearing, and inability to open eye. This is a **Priority 2 (Emergent)** case due to risk of infection, vision impairment, or permanent damage. Immediate irrigation/ophthalmic evaluation required. **Dispatch ambulance now; advise keeping eye closed, no rubbing, and covering with clean cloth.**
+
+**2. Riley (Lower urgency - Transport SECOND or refer to non-emergent care)** 
+- Symptoms consistent with **common pregnancy-related back pain and fatigue** (6 months gestation, prolonged standing). No signs of obstetric emergency (e.g., contractions, bleeding, severe pain, reduced fetal movement). This is a **Priority 4 (Low urgency)** case. **Advise rest, hydration, supportive measures (e.g., heat pack, prenatal support belt); refer to OB/GYN or urgent care, not ambulance unless symptoms worsen (e.g., pain intensifies, vaginal bleeding).**
+
+**Rationale**: Using standard emergency triage (e.g., ESI Level 2 for Alex due to high-risk organ involvement; Level 4 for Riley as non-life-threatening discomfort). Alex requires immediate transport to prevent complications; Riley does not meet ambulance criteria.
+=== RUN 25 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or scratch. Sharp burning, scraping sensation, and excessive tearing suggest active injury. Eyes are time-sensitive; delays risk infection, vision loss, or permanent damage. 
+- **Action**: Immediate ambulance transport to ER for irrigation, exam, and possible ophthalmology consult. Keep eye patched/shut en route; avoid rubbing.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing (third trimester equivalent at 6 months). No red flags like contractions, bleeding, swelling, or severe pain. 
+- **Action**: Non-emergent. Advise rest, hydration, support belt, prenatal care follow-up. If worsens (e.g., severe pain, reduced fetal movement), escalate. Ambulance if no other options, but primary care/OB first.
+
+**Rationale**: Triage by ABCs/life-threat (none here), then potential for rapid deterioration. Alex's eye injury has higher risk of complication vs. Riley's manageable symptoms. Dispatch Alex's unit now; stage Riley's if available or refer to clinic.
+=== RUN 26 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)**: Foreign body in the eye with sharp burning pain, scraping sensation on opening, and excessive tearing indicates possible corneal abrasion or embedded object. This is a priority due to risk of infection, vision loss, or permanent damage. Immediate transport to ER for irrigation, exam, and treatment.
+
+2. **Riley (Low Urgency - Defer Transport)**: Pregnancy-related lower back ache from prolonged standing and fatigue at 6 months gestation. This is likely musculoskeletal strain; non-emergent. Advise rest, hydration, elevation of feet, warm compress, and prenatal care follow-up. Monitor for worsening (e.g., contractions, bleeding, severe pain) and call back if needed.
+
+**Dispatch Priority**: Send ambulance/resources to **Alex immediately**. Riley can be triaged to advice-only or routine clinic referral.
+=== RUN 27 ===
+### Patient Triage Assessment
+**Urgency Ranking (1 = highest urgency, transport first):**
+1. **Alex** - **HIGH URGENCY (Priority 1)** 
+- Symptoms indicate possible foreign body in eye with corneal abrasion or irritation (sharp burning, scraping sensation, excessive tearing). Risk of infection, permanent vision damage, or worsening if not evaluated/treated immediately by ophthalmology or ER. 
+- **Action: Dispatch ambulance IMMEDIATELY for transport to nearest ER with eye specialist.**
+
+2. **Riley** - **LOW URGENCY (Priority 4)** 
+- Pregnancy-related lower back pain from prolonged standing/fatigue is common at 6 months (second trimester). No red flags like contractions, bleeding, severe pain, swelling, or fetal distress. 
+- **Action: Advise rest, hydration, supportive measures (e.g., warm compress, prenatal support belt). Recommend non-emergency follow-up with OB/GYN or urgent care if persists >24-48 hrs. No ambulance needed.**
+
+**Transport Order:** Alex first. Riley does not require emergency transport at this time. Monitor both via follow-up calls.
+=== RUN 28 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or laceration (sharp burning, scraping sensation, excessive tearing). This is **urgent** due to risk of infection, further corneal damage, or vision impairment. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult. 
+- **Priority Action**: Dispatch ambulance now. Advise Alex to avoid rubbing eye, keep it closed if possible, and cover loosely with clean cloth.
+
+2. **Riley (Lower Urgency - Transport SECOND or Defer to Clinic)** 
+- Symptoms consistent with common pregnancy-related lower back pain and fatigue (6 months pregnant, prolonged standing). This is **non-urgent**; no red flags like severe pain, bleeding, contractions, or trauma. 
+- **Priority Action**: Advise rest, hydration, supportive belt, and follow-up with OB/GYN. Ambulance not required unless symptoms worsen (e.g., pain radiates, vaginal bleeding, reduced fetal movement). Can wait for routine transport or non-emergency.
+
+**Rationale**: Using standard triage (e.g., START or ESI scale), Alex's condition risks permanent harm and requires prompt intervention, while Riley's is stable and manageable outpatient. Total patients: 2 → Alex first via ALS ambulance if available. Monitor for changes.
+=== RUN 29 ===
+### Patient Urgency Ranking
+Using standard emergency triage (e.g., START or ESI scale prioritizing threats to life, organs, or function):
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate likely foreign body in eye with possible corneal abrasion/scratch. Sharp pain, scraping sensation, and excessive tearing suggest imminent risk of infection, ulceration, or vision loss. Requires immediate ophthalmologic evaluation and transport (e.g., BLS ambulance with eye irrigation en route).
+
+2. **Riley (Lower Urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing. Common third-trimester issue (noted as 6 months), no red flags (e.g., bleeding, contractions, trauma). Non-emergent; recommend rest, hydration, support belt, and primary care/OB follow-up. Ambulance not needed unless worsens.
+
+**Dispatch Priority:** Send resources to **Alex immediately**. Riley can be triaged to non-emergency transport or self-referral. Monitor both for changes.
+=== RUN 30 ===
+### Triage Assessment and Transport Priority
+
+**Urgency Ranking (1 = Highest Priority):**
+1. **Alex** - **High Urgency (Priority 1 - Immediate Transport)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or scratch. Sharp burning pain, scraping sensation, excessive tearing, and inability to open eye suggest significant risk of infection, further damage, or vision impairment. Eyes are time-sensitive; delay could worsen outcomes. 
+- **Action**: Dispatch ambulance **immediately** (ALS if available for pain management/eye irrigation en route). Instruct to keep eye closed, avoid rubbing, and cover loosely until arrival.
+
+2. **Riley** - **Low Urgency (Priority 4 - Routine/Non-Emergent)** 
+- Symptoms consistent with common pregnancy-related back strain and fatigue from prolonged standing (second trimester). No indicators of obstetric emergency (e.g., contractions, bleeding, severe pain, reduced fetal movement). 
+- **Action**: No immediate transport needed. Advise rest, hydration, supportive positioning, and consult OB/GYN or primary care. If symptoms worsen (e.g., pain intensifies, swelling), reevaluate for transport.
+
+**Transport Order**: Alex first (critical eye injury takes precedence). Riley does not require emergency transport at this time—monitor and refer to outpatient care. Resources allocated to highest risk first.
+=== RUN 31 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning pain, scraping sensation, and excessive tearing indicate potential for infection, vision loss, or further damage. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult.
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)**: Pregnancy-related lower back ache and fatigue from prolonged standing. Likely musculoskeletal strain; no red flags (e.g., contractions, bleeding, severe pain, or swelling). Recommend rest, hydration, support belt; transport if symptoms worsen, but not emergent—can wait or use non-emergency options.
+
+**Dispatch Priority**: Send ambulance/resources to Alex first. Riley can be triaged lower or referred to OB clinic/urgent care.
+=== RUN 32 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body or corneal abrasion in the eye, with sharp burning pain, scraping sensation, and excessive tearing. This is a medical emergency due to risk of infection, vision loss, or permanent damage. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- Pregnancy-related lower back ache and fatigue from prolonged standing. Common and non-life-threatening (no red flags like contractions, bleeding, severe pain, or reduced fetal movement). Recommend rest, hydration, support belt, and prenatal follow-up; ambulance if symptoms worsen.
+
+**Dispatch Priority:** Send ambulance for Alex immediately. Riley can be triaged after or referred to urgent care/OB-GYN.
+=== RUN 33 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or embedded object. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, further damage, or vision impairment. Requires urgent transport for eye irrigation, exam, and specialist care (e.g., ophthalmology). Keep eye closed, avoid rubbing, and monitor for vision changes.
+
+2. **Riley (Lower Urgency)** 
+- Pregnancy-related lower back pain and fatigue from prolonged standing are common and non-acute (no signs of preterm labor, bleeding, severe pain, or other red flags). Advise rest, hydration, supportive positioning, and follow-up with OB/GYN. Transport not immediately required unless symptoms worsen.
+
+**Dispatch Priority:** Send ambulance/resources to Alex first. Riley can be advised to seek non-emergent care (e.g., urgent care or primary provider). Reassess if Riley's condition escalates.
+=== RUN 34 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms indicate a likely **foreign body in the eye with possible corneal abrasion**. Sharp burning, scraping sensation, and excessive tearing suggest active injury risking infection, ulceration, or vision loss. Immediate transport for eye irrigation, exam, and specialist care (e.g., ophthalmology) is critical. 
+- **Instructions**: Keep eye closed, avoid rubbing, cover loosely with clean cloth. Do not attempt further removal.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related **musculoskeletal back pain and fatigue** from prolonged standing. Common at 6 months gestation; no red flags (e.g., contractions, bleeding, severe headache, swelling). 
+- **Instructions**: Rest, elevate feet, hydrate, apply heat/ice. Monitor for worsening; non-emergent—can seek OB/GYN follow-up or urgent care unless symptoms escalate.
+
+**Rationale**: Eye injuries with persistent foreign body symptoms take precedence over routine pregnancy discomfort due to risk of permanent damage. Dispatch ambulance for Alex immediately; Riley can wait or use non-emergency options.
+=== RUN 35 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion (sharp burning, scraping sensation on opening eye, excessive tearing). This is a priority due to risk of infection, further damage, or vision impairment. Advise keeping eye closed, avoid rubbing, and seek immediate EMS for irrigation and evaluation.
+
+2. **Riley (Lower Urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related lower back pain and fatigue after prolonged standing is common at 6 months but not emergent without red flags (e.g., contractions, bleeding, severe headache). Recommend rest, hydration, supportive positioning, and consult OB/GYN or primary care; EMS if symptoms worsen.
+
+**Dispatch Priority:** Send resources to Alex immediately. Riley can be triaged after or referred to non-emergent care.
+=== RUN 36 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which risks infection, scarring, or vision loss if not addressed immediately. Advise keeping eye closed, avoid rubbing, and seek emergency transport/ophthalmic evaluation ASAP.
+
+2. **Riley (Lower Urgency - Transport SECOND or Defer to Non-Emergency)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-acute. Recommend rest, hydration, supportive measures (e.g., prenatal belt), and follow-up with OB/GYN. Monitor for worsening (e.g., contractions, bleeding); ambulance not immediately required.
+
+**Dispatch Priority:** Send resources to Alex first. Riley can be advised to self-transport or scheduled for routine care unless symptoms escalate.
+=== RUN 37 ===
+### Urgency Ranking
+1. **Alex (Highest urgency)**: Suspected foreign body or corneal abrasion in the eye. Symptoms (sharp burning, scraping sensation, excessive tearing, inability to open eye) indicate potential for serious complications like infection, ulceration, or vision impairment. Requires immediate transport for ophthalmic evaluation, irrigation, and possible foreign body removal.
+
+2. **Riley (Lower urgency)**: Pregnancy-related back pain and fatigue from prolonged standing. Common third-trimester discomfort (at 6 months), non-acute, no red flags (e.g., contractions, bleeding, severe pain, or fetal distress). Advise rest, hydration, and follow-up with OB/GYN; transport not immediately required.
+
+### Transport Priority
+- **Transport Alex first** via ambulance (lights and sirens if available) to nearest ER with ophthalmology services.
+- Riley: Non-emergent; monitor and refer to clinic/urgent care unless symptoms worsen.
+=== RUN 38 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms indicate a likely **foreign body in the eye with possible corneal abrasion or embedded object**. Sharp burning, scraping sensation, and excessive tearing suggest acute injury requiring **immediate medical evaluation** to prevent infection, ulceration, or vision loss. Advise keeping eye closed, avoid rubbing, and seek ER/eye specialist ASAP. EMS transport priority.
+
+2. **Riley (Lower urgency - Transport SECOND or advise outpatient care)** 
+- Pregnancy-related **lower back pain and fatigue** from prolonged standing is common at 6 months but not emergent without red flags (e.g., contractions, bleeding, severe headache, swelling). Recommend rest, hydration, supportive measures (e.g., prenatal belt), and OB follow-up. EMS if symptoms worsen, but not immediate transport.
+
+**Dispatch Decision**: Send EMS for **Alex first**. Riley can be advised to monitor/rest or scheduled for non-emergent transport/evaluation.
+=== RUN 39 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning pain, scraping sensation, and excessive tearing indicate potential for infection, permanent vision damage, or worsening injury. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult.
+
+2. **Riley (Lower Urgency - Non-Emergent)**: Pregnancy-related lower back ache and fatigue from prolonged standing. Likely musculoskeletal strain; monitor for worsening (e.g., contractions, bleeding, severe pain), but can be managed with rest, hydration, support belt, and follow-up with OB/GYN. No immediate transport needed unless symptoms escalate.
+
+**Dispatch Priority**: Send ambulance/resources to Alex first. Advise Riley to rest, elevate feet, apply heat/ice, and call back if pain intensifies or new symptoms appear.
+=== RUN 40 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body in eye with sharp burning pain, scraping sensation on eye movement, and excessive tearing. This indicates possible corneal abrasion, embedded object, or chemical irritation, which risks infection, vision loss, or permanent damage if not urgently evaluated and treated (e.g., irrigation, exam, patching). Immediate ambulance transport recommended.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)**: Pregnancy-related lower back ache and fatigue after prolonged standing. Common and non-acute musculoskeletal issue without red flags (e.g., no contractions, bleeding, severe headache, swelling, or abdominal pain). Advise rest, hydration, support belt; transport if symptoms worsen, but can likely be managed outpatient or via non-emergency means.
+
+**Dispatch Instructions**: Send ambulance to Alex immediately (priority 1). For Riley, monitor via phone or schedule non-emergent transport/clinic visit unless symptoms escalate.
+=== RUN 41 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, scarring, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist intervention. 
+- **Action**: Dispatch ambulance immediately for eye emergency transport to ER with ophthalmology capability.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue after prolonged standing is common (musculoskeletal strain), with no red flags like contractions, bleeding, severe headache, vision changes, or swelling. 
+- **Action**: Advise rest, hydration, supportive measures (e.g., heat pack, prenatal support belt). Monitor for worsening; transport if symptoms escalate, but not emergent—can wait or use non-emergency transport/urgent care.
+=== RUN 42 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or embedded object. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, further damage, or vision impairment. Requires urgent transport for eye irrigation, exam, and specialist care (e.g., ophthalmology). Advise keeping eye closed, avoid rubbing, and monitor for vision changes.
+
+2. **Riley (Lower Urgency)** 
+- Pregnancy-related lower back pain and fatigue after prolonged standing is common (musculoskeletal strain). No red flags like contractions, bleeding, severe pain, headache, swelling, or reduced fetal movement. Can likely be managed with rest, hydration, support belt, and prenatal advice. Transport if symptoms worsen or persist, but not emergent.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately. Riley can be triaged for non-emergent evaluation (e.g., urgent care or OB follow-up).
+=== RUN 43 ===
+### Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye. Symptoms (sharp burning, scraping sensation, excessive tearing, inability to open eye) indicate potential for serious complications like infection, ulceration, or vision impairment. Immediate ophthalmologic evaluation and transport required.
+
+2. **Riley (Lower Urgency - Monitor/Advise Non-Emergency Care)**: Pregnancy-related back pain and fatigue from prolonged standing. Common third-trimester discomfort (noting 6 months ≈ 24-28 weeks). No signs of acute obstetric emergency (e.g., contractions, bleeding, severe pain, reduced fetal movement). Recommend rest, hydration, prenatal consult; ambulance not warranted unless symptoms worsen.
+
+**Transport Priority**: Alex first. Dispatch EMS immediately for eye irrigation/stabilization en route. Riley: Provide self-care advice and refer to OB/GYN.
+=== RUN 44 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in eye with severe pain, scraping sensation, and inability to open eye. This requires immediate medical evaluation to prevent infection, further damage, or vision loss. Advise keeping eye closed, avoid rubbing, and seek EMS transport now.
+
+2. **Riley (Lower Urgency - Transport Second/Non-Emergent)**: Pregnancy-related back pain and fatigue from prolonged standing. Likely musculoskeletal; monitor for worsening (e.g., contractions, bleeding). Recommend rest, hydration, support belt; urgent care or OB follow-up if persists, but not immediate EMS.
+
+**Transport Priority**: Alex first via EMS. Riley can be advised to seek non-emergent care unless symptoms escalate.
+=== RUN 45 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - Transport first) 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, scarring, or vision loss if not urgently irrigated and evaluated/treated in an ER. Immediate transport recommended.
+
+2. **Riley** (Lower urgency - Can wait or use non-emergency transport) 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-life-threatening without red flags (e.g., contractions, bleeding, severe headache). Advise rest, hydration, and prenatal care follow-up; monitor for worsening.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately. Riley can be advised to seek urgent care or primary provider unless symptoms escalate.
+=== RUN 46 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, scarring, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist referral. 
+- **Action**: Dispatch ambulance/EMS immediately for eye emergency transport to ER with ophthalmology capability.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months but lacks red flags (e.g., no contractions, bleeding, severe headache, vision changes, or swelling). Likely musculoskeletal; can often be managed with rest, hydration, support, and prenatal care. 
+- **Action**: Advise rest, heat/ice, prenatal support belt, and consult OB/GYN. If worsens or new symptoms develop, then transport. Non-emergent ambulance if needed, or private transport to clinic.
+
+**Rationale**: Eye injuries with persistent foreign body symptoms take precedence over non-acute pregnancy discomfort without complications, per triage protocols (e.g., START triage or ESI Level 2 for Alex vs. Level 4-5 for Riley). Monitor both, but Alex requires immediate intervention.
+=== RUN 47 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist referral. Advise keeping eye closed, no rubbing, and expedite EMS transport.
+
+2. **Riley (Lower urgency - Transport SECOND or advise non-emergent care)** 
+- Pregnancy-related back pain and fatigue from prolonged standing are common and non-acute without red flags (e.g., contractions, bleeding, severe headache, or swelling). Recommend rest, hydration, supportive measures, and OB evaluation if persists; EMS if symptoms worsen, but not immediate transport priority.
+
+**Dispatch Priority:** Send EMS for Alex immediately. Riley can be triaged to urgent care or primary OB follow-up unless condition escalates.
+=== RUN 48 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or permanent vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist intervention (e.g., ophthalmology). Advise keeping eye closed, no rubbing, and expedite EMS transport.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months but not immediately life-threatening. No red flags (e.g., contractions, bleeding, severe headache, swelling). Recommend rest, hydration, supportive measures (e.g., prenatal belt), and non-emergent evaluation by OB/GYN or urgent care unless symptoms worsen.
+
+**Dispatch Priority:** Send EMS for Alex immediately. Riley can be triaged to advice-only or lowest-priority transport if resources allow. Monitor both for changes.
+=== RUN 49 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed immediately. Requires urgent eye irrigation, exam, and potential specialist referral. Advise keeping eye closed, avoiding rubbing, and seek EMS/ER now.
+
+2. **Riley (Lower Urgency)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-acute. Recommend rest, hydration, support belt, and prenatal care follow-up. Monitor for worsening (e.g., contractions, bleeding); transport not immediately required but evaluate if symptoms persist.
+
+**Transport Priority:** Alex first. Riley can be advised to rest and follow up with OB unless symptoms escalate.
+=== RUN 50 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which risks infection, vision impairment, or permanent damage if not addressed immediately. Advise keeping eye closed, avoiding rubbing, and urgent ophthalmologic evaluation/irrigation. Dispatch ambulance/EMS priority.
+
+2. **Riley (Lower Urgency - Transport Second or Defer)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-acute without red flags (e.g., no contractions, bleeding, severe pain, or trauma). Recommend rest, hydration, support belt, and follow-up with OB/GYN. No immediate transport needed unless symptoms worsen.
+
+**Transport Priority:** Alex first. Riley can be advised to seek non-emergent care.
+=== RUN 51 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye or corneal abrasion: sharp burning pain, scraping sensation on eye movement, excessive tearing, and inability to open eye. This is a medical emergency due to risk of infection, permanent vision damage, or corneal ulcer if not addressed immediately. Advise keeping eye closed, avoid rubbing, and seek ER evaluation/ophthalmology ASAP.
+
+2. **Riley (Lower Urgency - Transport Second/Non-Emergent)** 
+- Pregnancy-related lower back ache and fatigue after prolonged standing is common (musculoskeletal strain), with no red flags (e.g., contractions, bleeding, severe pain, swelling, or trauma). Recommend rest, hydration, supportive measures (e.g., prenatal belt), and consult OB/GYN routinely rather than emergent transport.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately, then evaluate Riley if resources allow or via non-emergent means.
+=== RUN 52 ===
+### Urgency Ranking
+1. **Alex (Highest Urgency)**: Suspected foreign body or corneal abrasion in the eye with severe pain, scraping sensation, and inability to open eye. This requires immediate medical evaluation and intervention to prevent infection, further damage, or vision loss. **Transport first via EMS/ambulance.**
+2. **Riley (Lower Urgency)**: Pregnancy-related lower back pain and fatigue from prolonged standing. This is likely musculoskeletal strain, common in second trimester, with no indicators of obstetric emergency (e.g., contractions, bleeding, severe headache). Advise rest, hydration, support belt if available, and consult OB/GYN or urgent care non-emergently.
+
+**Dispatch Priority**: Send EMS to Alex immediately. Riley can be triaged to non-emergent care (e.g., primary care or maternity clinic).
+=== RUN 53 ===
+### Urgency Ranking
+1. **Alex** (Highest urgency: Possible corneal foreign body or abrasion with severe pain, scraping sensation, and functional impairment. Risk of infection, vision loss, or permanent damage requires immediate evaluation and intervention, such as irrigation or specialist removal.)
+2. **Riley** (Lower urgency: Pregnancy-related back pain and fatigue from prolonged standing. Likely musculoskeletal; monitor for worsening (e.g., contractions, bleeding), but not immediately life-threatening. Recommend rest, hydration, and prenatal follow-up.)
+
+### Transport Decision
+**Transport Alex first.** Dispatch EMS immediately for eye irrigation and ER evaluation. Advise Riley to rest, elevate feet, use heat/acetaminophen if approved by OB, and seek non-emergent care if no improvement.
+=== RUN 54 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious injury, infection, or vision loss. **Immediate ambulance transport required** to ER for irrigation, exam, and possible ophthalmology consult. Keep eye closed, avoid rubbing, and cover loosely until help arrives.
+
+2. **Riley (Lower Urgency - Transport SECOND or Defer)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Common and non-acute without red flags (e.g., contractions, bleeding, severe headache). **Advise rest, hydration, support belt, and follow up with OB/GYN**. Ambulance not immediately needed unless symptoms worsen; monitor closely.
+
+**Dispatch Priority**: Send resources to Alex immediately. Riley can be triaged after or via non-emergent means.
+=== RUN 55 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious injury, infection, or vision loss. Requires immediate transport for irrigation, examination, and possible specialist intervention.
+2. **Riley (Lower Urgency - Transport SECOND)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal; no indicators of obstetric emergency (e.g., contractions, bleeding, severe headache). Advise rest, hydration, and monitoring; transport if symptoms worsen.
+
+**Dispatch Priority**: Send ambulance to Alex immediately. Riley can be evaluated next or advised to seek non-emergent care (e.g., OB/GYN or urgent care) unless symptoms escalate.
+=== RUN 56 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, scarring, or vision loss if not urgently irrigated and evaluated by medical professionals. Immediate transport to ER for eye specialist intervention.
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-acute; no red flags like contractions, bleeding, or severe pain. Recommend rest, hydration, support belt; transport if worsens, but not emergent.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately. Monitor Riley via phone or schedule non-emergent eval.
+=== RUN 57 ===
+### Urgency Ranking
+1. **Alex** (Highest urgency - transport first) 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed immediately. Requires urgent irrigation, exam, and possible specialist referral.
+
+2. **Riley** (Lower urgency) 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-emergent without red flags (e.g., contractions, bleeding, severe headache). Advise rest, hydration, and prenatal follow-up; transport not immediately required.
+
+**Dispatch Priority:** Send ambulance/resources to Alex first. Riley can be triaged to non-emergency care or monitored remotely.
+=== RUN 58 ===
+### Urgency Ranking
+1. **Alex** (Highest urgency): Suspected foreign body or corneal abrasion in the eye—sharp pain, scraping sensation, and excessive tearing indicate potential for serious injury, infection, or vision impairment. Requires immediate transport for irrigation, exam, and possible specialist intervention.
+2. **Riley** (Lower urgency): Pregnancy-related back ache and fatigue from prolonged standing—common and non-acute; can likely be managed with rest, hydration, and prenatal care follow-up.
+
+### Transport Priority
+- **Transport Alex first** via ambulance for eye emergency evaluation.
+- Riley can be advised to rest, apply heat/ice, and seek routine prenatal care unless symptoms worsen (e.g., severe pain, contractions, or bleeding).
+=== RUN 59 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a possible foreign body in the eye with corneal abrasion or embedded object. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, further damage, or vision loss. 
+- **Action**: Dispatch ambulance immediately for eye irrigation, specialist evaluation, and potential ER transport. Keep eye closed/protected until help arrives.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergency Care)** 
+- Pregnancy-related back pain and fatigue from prolonged standing are common (musculoskeletal strain), with no red flags (e.g., contractions, bleeding, severe pain, or trauma). 
+- **Action**: Advise rest, hydration, supportive measures (e.g., heat pack, prenatal support belt). Monitor for worsening; consider non-emergency transport or clinic visit if persists.
+
+**Rationale**: Eye injuries like Alex's require prompt intervention to prevent permanent harm, prioritizing over routine pregnancy discomfort. Total patients: 2. Triage complete.
+=== RUN 60 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed immediately. Requires urgent eye irrigation, exam, and possible specialist intervention (e.g., ophthalmology). 
+- **Priority**: IMMEDIATE transport to nearest ER with eye services.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- Pregnancy-related back pain and fatigue from prolonged standing; likely musculoskeletal strain. No red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). 
+- **Priority**: Routine transport or advise rest/hydration; monitor for worsening.
+
+**Dispatch Instructions**: Send ambulance to Alex first. Advise Riley to rest, hydrate, and seek OB evaluation if pain persists or worsens.
+=== RUN 61 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in the eye with sharp burning pain, scraping sensation on eye movement, and excessive tearing suggest possible corneal abrasion, embedded object, or chemical irritation. This is a **Priority 2 (Emergent)** call: High risk of infection, vision impairment, or permanent damage if not evaluated and treated immediately (e.g., irrigation, removal, antibiotics). Instruct to keep eye closed, avoid rubbing, and await EMS.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- **Rationale**: Pregnancy-related lower back pain and fatigue after prolonged standing is common (musculoskeletal strain from gravid uterus). No red flags like contractions, vaginal bleeding, severe pain, headache, vision changes, or decreased fetal movement. This is **Priority 4 (Low Urgency)**: Recommend rest, hydration, supportive measures (e.g., prenatal belt), and follow-up with OB/GYN. EMS transport not immediately required unless symptoms worsen.
+
+**Dispatch Instructions**: Send EMS to Alex first. Monitor Riley via phone; escalate if new symptoms develop.
+=== RUN 62 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, scarring, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist intervention (e.g., ophthalmology). 
+- **Action**: Dispatch ambulance immediately; advise to keep eye closed, avoid rubbing, and cover loosely until arrival.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing are common and non-acute without red flags (e.g., no contractions, bleeding, severe headache, or swelling). Likely musculoskeletal; rest, hydration, and support may suffice. 
+- **Action**: Advise rest, heat/ice, prenatal support belt, and consult OB/GYN. Monitor for worsening; ambulance if symptoms escalate, but not emergent now.
+
+**Rationale**: Eye injuries with persistent foreign body symptoms take precedence over routine pregnancy discomfort due to risk of permanent damage. Total patients: 2. Prioritize Alex for immediate transport.
+=== RUN 63 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body, abrasion, or chemical/traumatic injury. Sharp burning, scraping sensation, and inability to open eye indicate high risk of infection, ulceration, or permanent vision loss. Immediate transport to ER for irrigation, exam, and ophthalmology consult required. Advise keeping eye closed, no rubbing, and cover loosely until EMS arrives.
+
+2. **Riley (Lower urgency - Transport SECOND)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common (musculoskeletal strain). No red flags like contractions, bleeding, severe pain, swelling, or neurological symptoms. Monitor for worsening; recommend rest, hydration, support belt, and non-urgent evaluation (e.g., OB clinic or later ER if persists). EMS transport if no improvement or other symptoms develop.
+
+**Dispatch Priority:** Send EMS for Alex immediately (Priority 1). Riley can wait or use non-emergency transport unless symptoms escalate.
+=== RUN 64 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body, abrasion, or embedded object, which can lead to infection, ulceration, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and ophthalmology referral. 
+- **Action**: Dispatch ambulance immediately for eye irrigation en route and ER evaluation.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common (musculoskeletal strain), with no red flags like contractions, bleeding, severe headache, vision changes, or swelling. 
+- **Action**: Advise rest, hydration, supportive measures (e.g., heat, prenatal belt); transport if worsens or per protocol for pregnant patients, but not emergent. Recommend OB follow-up.
+
+**Rationale**: Eye injuries with persistent foreign body symptoms take precedence over non-acute pregnancy discomfort due to risk of permanent damage. Standard triage prioritizes potential for rapid deterioration (Alex) over stable chronic issues (Riley).
+=== RUN 65 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body, abrasion, or embedded object, which can lead to infection, ulceration, or vision loss if not urgently addressed. Severe pain, scraping sensation, and inability to open eye indicate need for immediate professional evaluation, irrigation, and possible ophthalmology referral. 
+- **Action**: Dispatch ambulance immediately (Priority 1). Advise keeping eye closed, avoid rubbing, and cover loosely until help arrives.
+
+2. **Riley (Lower Urgency - Transport SECOND or Refer to Non-Emergent Care)** 
+- Pregnancy-related back pain and fatigue from prolonged standing are common (musculoskeletal strain), with no red flags like contractions, bleeding, severe headache, vision changes, or swelling. 
+- **Action**: Advise rest, hydration, supportive measures (e.g., heat pack, prenatal support belt). Refer to OB/GYN or urgent care; ambulance not required unless symptoms worsen.
+
+**Rationale**: Eye injuries with foreign bodies pose risk of rapid complications (e.g., infection within hours). Pregnancy back pain is typically non-acute without additional symptoms. Total patients: 2. Alex transports first.
+=== RUN 66 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - Transport first) 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not urgently addressed. Requires immediate professional evaluation, irrigation, and possible specialist intervention. Advise keeping eye closed, avoiding rubbing, and seek EMS now.
+
+2. **Riley** (Lower urgency - Transport after Alex or advise non-emergent care) 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and non-life-threatening. No red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). Recommend rest, hydration, support belt, and OB consult if persists; routine transport not immediately required.
+
+**Transport Priority:** Alex first via EMS. Riley can be triaged second or referred to urgent care/OB.
+=== RUN 67 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)** 
+- Symptoms indicate a possible foreign body in the eye or corneal abrasion, with sharp pain, scraping sensation, and excessive tearing. This is a priority due to risk of infection, permanent vision damage, or worsening injury. Immediate medical evaluation and transport required (e.g., ambulance if vision impaired or pain severe).
+
+2. **Riley (Lower Urgency - Non-Emergent)** 
+- Pregnancy-related back ache and fatigue from prolonged standing are common and typically not life-threatening. Advise rest, hydration, support belt, or prenatal care follow-up. Monitor for worsening (e.g., severe pain, contractions, bleeding); transport not immediately needed.
+
+**Dispatch Recommendation**: Send ambulance/resources to Alex first. Provide Riley with self-care advice and callback instructions.
+=== RUN 68 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a possible corneal foreign body or abrasion: sharp burning pain, scraping sensation on eye movement, excessive tearing, and inability to open eye. This is a medical emergency due to risk of infection, corneal ulcer, or permanent vision loss. Immediate ophthalmologic evaluation and transport required (e.g., ambulance with eye irrigation capabilities).
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- Pregnancy-related lower back pain and fatigue after prolonged standing. Likely musculoskeletal strain, common at 6 months gestation. No red flags (e.g., contractions, bleeding, severe pain, or reduced fetal movement). Advise rest, hydration, support belt; transport if symptoms worsen, but can wait or seek urgent care/OB-GYN.
+
+**Dispatch Instructions:** Send ambulance to Alex immediately (Priority 1). Riley: Monitor via phone; escalate if changes.
+=== RUN 69 ===
+### Urgency Ranking
+1. **Alex (Highest Urgency)**: Suspected foreign body or corneal abrasion in the eye – sharp pain, scraping sensation, and inability to open eye indicate potential for serious damage, infection, or vision impairment. Requires immediate transport for evaluation, irrigation, and possible ophthalmology intervention.
+2. **Riley (Lower Urgency)**: Pregnancy-related back pain and fatigue from prolonged standing – common and non-life-threatening, but monitor for worsening (e.g., contractions or severe pain). Advise rest, hydration, and non-emergent follow-up with OB/GYN.
+
+### Transport Priority
+- **Transport Alex first** via ambulance (lights and sirens if available) to nearest ER with eye specialists.
+- Riley: Non-emergent; advise ambulance only if symptoms escalate (e.g., pain radiates, bleeding, or fetal distress). Otherwise, seek urgent care or primary provider.
+=== RUN 70 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - transport first) 
+- Symptoms indicate a likely foreign body or corneal abrasion in the eye, causing severe pain, scraping sensation, and excessive tearing. This is an acute eye emergency with risk of infection, vision impairment, or permanent damage if not evaluated and treated immediately (e.g., irrigation, removal, antibiotics). Prioritize ambulance transport to ER ophthalmology.
+
+2. **Riley** (Lower urgency - can wait or use non-emergency transport) 
+- Pregnancy-related lower back pain and fatigue after prolonged standing is common (musculoskeletal strain), with no red flags like contractions, bleeding, severe pain, or neurological symptoms. Advise rest, hydration, support belt, and consult OB/GYN soon, but not emergent. Non-urgent transport or self-transport if stable.
+
+**Dispatch Priority:** Send ambulance to Alex first. Riley can be triaged to urgent care or monitored remotely.
+=== RUN 71 ===
+### Patient Urgency Ranking
+1. **Alex (Highest urgency - Transport first)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or embedded object. Sharp burning, scraping sensation on eye movement, and excessive tearing suggest immediate risk of infection, further damage, or vision loss. Requires prompt ophthalmologic evaluation and transport to ER.
+
+2. **Riley (Lower urgency - Can wait or use non-emergency transport)** 
+- Pregnancy-related back pain and fatigue from prolonged standing are common and non-acute. No red flags like contractions, bleeding, severe pain, or reduced fetal movement. Advise rest, hydration, support belt, and follow-up with OB/GYN; not emergent.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately. Riley can be triaged to advice-only or routine care.
+=== RUN 72 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed promptly. Requires immediate professional evaluation, irrigation, and potential specialist intervention. 
+- **Priority**: Emergent. Dispatch ambulance now.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common and likely musculoskeletal, with no indicators of complications (e.g., contractions, bleeding, severe headache). 
+- **Priority**: Non-emergent. Advise rest, hydration, and elective transport or clinic follow-up unless symptoms worsen.
+
+**Dispatcher Action**: Send resources to Alex immediately. Riley can be triaged after or via non-emergency means. Monitor both for changes.
+=== RUN 73 ===
+### Urgency Ranking
+1. **Alex (Highest urgency)**: Suspected foreign body or corneal abrasion in the eye. Sharp pain, scraping sensation, and excessive tearing indicate potential for serious complications like infection, ulceration, or vision impairment. Requires immediate transport for ophthalmic evaluation, irrigation, and possible foreign body removal.
+2. **Riley (Lower urgency)**: Pregnancy-related back pain and fatigue from prolonged standing. Common and non-acute; no signs of preterm labor, severe pain, or other obstetric emergencies. Advise rest, hydration, and non-emergent follow-up with OB/GYN.
+
+### Transport Priority
+- **Transport Alex first** via ambulance (lights and sirens if available). Keep eye closed, avoid rubbing, and cover loosely with clean cloth en route.
+- **Riley**: Triage to non-emergency transport or advise self-care/urgent care unless symptoms worsen (e.g., severe pain, contractions). Monitor for escalation.
+=== RUN 74 ===
+### Patient Urgency Ranking
+1. **Alex (Highest urgency - Transport first)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious complications like infection, ulceration, or vision loss. Immediate medical evaluation and treatment (e.g., irrigation, exam) required. Advise keeping eye closed, avoiding rubbing, and seek EMS/ER now.
+
+2. **Riley (Lower urgency - Transport second if resources allow)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Common and non-emergent without red flags (e.g., contractions, bleeding, severe headache, vision changes). Recommend rest, hydration, supportive measures (e.g., heat, positioning), and OB follow-up. Monitor for worsening; routine transport not immediately critical.
+
+**Dispatch Priority**: Send EMS to Alex first. Riley can be advised to self-transport or wait if stable.
+=== RUN 75 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning pain, scraping sensation, and excessive tearing indicate potential for serious complications like infection, ulceration, or vision loss. Immediate transport to ER for irrigation, exam, and possible ophthalmology consult.
+
+2. **Riley (Lower Urgency)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain; non-acute and manageable with rest, hydration, and prenatal care. Advise rest/elevation; transport if symptoms worsen (e.g., contractions, bleeding, severe pain).
+
+**Dispatch Priority**: Send ambulance to Alex first. Riley can be triaged for non-emergent transport or clinic referral unless symptoms escalate.
+=== RUN 76 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye with severe pain, scraping sensation, and inability to open eye. This requires immediate evaluation and intervention to prevent infection, further damage, or vision loss. Dispatch ambulance/EMS priority 1 (lights and sirens if available).
+
+2. **Riley (Lower Urgency)**: Pregnancy-related back pain and fatigue from prolonged standing. Likely musculoskeletal; monitor for worsening (e.g., contractions, bleeding), but not immediately life-threatening. Advise rest, hydration; transport routine if needed, or refer to OB/GYN.
+
+**Transport Order**: Alex first, then Riley. Provide Alex with instructions to avoid rubbing eye and keep it closed until help arrives.
+=== RUN 77 ===
+### Urgency Ranking
+1. **Alex (Highest urgency - Transport first)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious complications like infection, ulceration, or vision impairment. Requires immediate ophthalmologic evaluation and transport to prevent permanent damage.
+
+2. **Riley (Lower urgency - Monitor/advice, transport if worsens)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Common and non-acute; no red flags like contractions, bleeding, severe pain, or reduced fetal movement. Recommend rest, hydration, support belt, and OB follow-up; transport only if symptoms escalate.
+
+**Dispatch Priority**: Send ambulance/resources to Alex immediately. Advise Riley to rest and call back if pain intensifies or new symptoms appear.
+=== RUN 78 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in eye with severe pain, scraping sensation, and inability to open eye. This risks infection, vision loss, or permanent damage. Immediate ophthalmologic evaluation and transport required (e.g., ambulance with eye irrigation capability).
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain; non-emergent. Advise rest, hydration, supportive measures, and OB/GYN follow-up. Monitor for worsening (e.g., contractions, bleeding); ambulance if symptoms escalate.
+
+**Dispatch Priority**: Send resources to Alex immediately. Riley can be triaged to non-emergency transport or clinic if stable.
+=== RUN 79 ===
+### Patient Triage Ranking by Medical Urgency
+
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- **Rationale**: Suspected foreign body in eye with sharp burning pain, scraping sensation on movement, and excessive tearing. This indicates possible corneal abrasion, embedded object, or chemical irritation, which risks infection, ulceration, or permanent vision loss. Immediate ophthalmologic evaluation and transport required to prevent complications.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Non-Emergent Care)** 
+- **Rationale**: Pregnancy-related lower back ache and fatigue after prolonged standing. Common in second trimester, likely musculoskeletal strain. No red flags (e.g., severe pain, contractions, bleeding, or trauma). Recommend rest, hydration, support belt, and prenatal follow-up; ambulance not immediately warranted unless symptoms worsen.
+
+**Dispatch Instructions**: Send ambulance to Alex immediately (Priority 1). For Riley, provide self-care advice and monitor for escalation (e.g., worsening pain, contractions).
+=== RUN 80 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - transport first) 
+- Symptoms indicate a likely foreign body in the eye or corneal abrasion: sharp burning pain, scraping sensation, excessive tearing, and inability to open eye. This is an acute eye emergency with risk of infection, permanent vision damage, or ulceration if not addressed immediately. Request ambulance transport to ER for irrigation, exam, and possible ophthalmology consult.
+
+2. **Riley** (Lower urgency - can wait or use non-emergency transport) 
+- Pregnancy-related lower back pain and fatigue after prolonged standing is common (musculoskeletal strain from pregnancy weight shift). No red flags like contractions, bleeding, severe pain, or neurological symptoms. Advise rest, hydration, supportive measures (e.g., prenatal belt), and consult OB/GYN or urgent care soon, but not immediate ambulance.
+
+**Transport Priority:** Alex first. Riley can be triaged after or via alternative means (e.g., private vehicle or non-emergency service).
+=== RUN 81 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in eye with sharp pain, scraping sensation, and inability to open eye. This requires **immediate transport** for irrigation, exam, and possible specialist intervention to prevent infection or vision loss. Advise keeping eye closed, no rubbing, and monitor for worsening vision changes.
+
+2. **Riley (Lower Urgency - Transport SECOND or Advise Alternatives)**: Pregnancy-related back ache and fatigue from prolonged standing. Non-emergent musculoskeletal issue; recommend rest, hydration, supportive positioning, and prenatal follow-up. Monitor for red flags (e.g., contractions, bleeding, severe pain) warranting re-triage.
+
+**Dispatch Priority**: Send ambulance/resources to **Alex immediately**. Riley can wait or use non-emergency transport/urgent care unless symptoms escalate.
+=== RUN 82 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye with severe pain, scraping sensation, and inability to open eye. This requires immediate medical evaluation to prevent infection, further damage, or vision loss. Advise keeping eye closed, avoiding rubbing, and seek emergency transport/ER now.
+
+2. **Riley (Lower Urgency - Transport Second if Needed)**: Pregnancy-related back pain and fatigue from prolonged standing. This is likely musculoskeletal and non-emergent without additional symptoms (e.g., contractions, bleeding, severe headache). Recommend rest, hydration, support belt, and consult OB/GYN; ambulance not immediately required unless symptoms worsen.
+
+**Transport Priority**: Alex first. Dispatch ambulance to Alex's location immediately. Riley can be advised to seek urgent care or monitor at home.
+=== RUN 83 ===
+### Urgency Ranking
+1. **Alex (Highest urgency)**: Suspected foreign body or corneal abrasion in the eye with sharp pain, scraping sensation, and excessive tearing. This requires immediate medical evaluation to prevent infection, further damage, or vision loss. **Transport first - prioritize ambulance/EMS response.**
+2. **Riley (Lower urgency)**: Pregnancy-related back ache and fatigue from prolonged standing. Likely musculoskeletal; monitor for worsening (e.g., contractions, severe pain), but not immediately life-threatening. Advise rest, hydration; transport if symptoms escalate.
+
+**Dispatch Priority**: Send EMS to Alex immediately. Riley can be triaged lower (e.g., urgent care or advise self-transport after Alex).
+=== RUN 84 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion (sharp burning, scraping sensation on opening eye, excessive tearing). This is a priority due to risk of infection, vision impairment, or permanent damage. Advise keeping eye closed, avoid rubbing, and seek immediate EMS/ER for irrigation and evaluation.
+
+2. **Riley (Lower Urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related lower back pain and fatigue after prolonged standing is common at 6 months but not emergent without red flags (e.g., contractions, bleeding, severe headache, swelling). Recommend rest, hydration, supportive positioning, prenatal care follow-up, or non-emergent transport if symptoms worsen.
+
+**Dispatch Priority:** Send EMS to Alex immediately. Riley can be triaged lower (e.g., advice-only or delayed response unless symptoms escalate).
+=== RUN 85 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye with severe pain, scraping sensation, and inability to open eye. This requires immediate evaluation and treatment to prevent infection, further damage, or vision loss. Advise keeping eye closed, avoid rubbing, and seek emergency transport/ER now.
+
+2. **Riley (Lower urgency - Transport second or advise non-emergent care)**: Pregnancy-related lower back pain and fatigue from prolonged standing. This is likely musculoskeletal and manageable with rest, hydration, and support. No red flags (e.g., contractions, bleeding, severe headache). Recommend rest, prenatal care follow-up, or urgent care if worsens; ambulance not immediately required unless symptoms escalate.
+
+**Dispatch Priority**: Send ambulance/resources to Alex first. Riley can be triaged to non-emergency transport or self-refer to clinic.
+=== RUN 86 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not addressed immediately. Sharp pain, scraping sensation, and inability to open eye indicate need for urgent irrigation, exam, and possible specialist intervention. 
+- **Priority: Level 2 (Emergent)** - Dispatch ambulance now.
+
+2. **Riley (Lower Urgency - Transport SECOND)** 
+- Pregnancy-related lower back pain and fatigue from prolonged standing are common and typically non-emergent without red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). Rest, hydration, and supportive care often resolve this. 
+- **Priority: Level 4 (Low Urgency)** - Advise monitoring; transport if symptoms worsen or via non-emergency if needed.
+
+**Transport Order:** Alex first, then Riley. Provide Alex with instructions to avoid rubbing eye and keep eyelid closed until help arrives. For Riley, recommend rest, elevation, and heat/cold packs while awaiting evaluation.
+=== RUN 87 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye with severe sharp pain, scraping sensation, and excessive tearing. This requires immediate evaluation and treatment to prevent infection, further damage, or vision loss. Advise keeping eye closed, avoid rubbing, and seek EMS/ER now.
+
+2. **Riley (Lower urgency - Transport SECOND or advise outpatient care)**: Pregnancy-related lower back pain and fatigue from prolonged standing. This is likely musculoskeletal strain; monitor for worsening (e.g., contractions, bleeding, severe headache), rest/elevate feet, but not immediately life-threatening. Recommend prenatal care follow-up or urgent care if persists.
+
+**Dispatch Priority**: Send EMS for Alex immediately. Riley can be advised to rest and seek non-emergency care unless symptoms escalate.
+=== RUN 88 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms indicate a likely foreign body in the eye with possible corneal abrasion or embedded object. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, further damage, or vision loss. Requires urgent ophthalmologic evaluation, irrigation, and possible removal.
+
+2. **Riley (Lower urgency - Transport SECOND)** 
+- Pregnancy-related lower back pain and fatigue from prolonged standing is common at 6 months gestation (musculoskeletal strain). No red flags like contractions, bleeding, severe headache, vision changes, or swelling. Can be managed with rest, hydration, support, and outpatient follow-up unless symptoms worsen.
+
+**Dispatch Instructions:** 
+- Send ambulance to Alex immediately (Priority 1). Advise to keep eye closed, avoid rubbing, and cover loosely. 
+- Riley can be evaluated next or advised to seek urgent care/OB-GYN if no improvement. Monitor for escalation.
+=== RUN 89 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body in eye with severe pain, scraping sensation, and excessive tearing. This indicates possible corneal abrasion or embedded object, risking infection, vision impairment, or permanent damage. Immediate ophthalmologic evaluation and transport required (e.g., via ambulance with eye protection).
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain; no red flags like contractions, bleeding, or severe pain. Recommend rest, hydration, support belt, and prenatal follow-up. Ambulance not immediately necessary unless symptoms worsen.
+
+**Dispatch Priority**: Send resources to Alex first. Riley can be triaged to non-emergency transport or clinic if stable.
+=== RUN 90 ===
+### Urgency Ranking
+1. **Alex** (Highest urgency): Suspected foreign body or corneal abrasion in the eye with sharp pain, scraping sensation, and inability to open eye. This requires immediate transport for eye irrigation, exam, and potential specialist intervention to prevent infection or vision loss.
+2. **Riley** (Lower urgency): Pregnancy-related back ache and fatigue from prolonged standing. Non-emergent; advise rest, hydration, and prenatal follow-up, but no immediate transport needed unless symptoms worsen (e.g., contractions, bleeding).
+
+**Transport Alex first.** Dispatch ambulance/eye specialist response now. Riley: Monitor and refer to OB/GYN.
+=== RUN 91 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - Transport first) 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, ulceration, or vision loss if not urgently irrigated and evaluated by ophthalmology/ER. Immediate transport recommended.
+
+2. **Riley** (Lower urgency - Can wait or use non-emergency transport) 
+- Pregnancy-related back pain and fatigue from prolonged standing; likely musculoskeletal. No red flags (e.g., contractions, bleeding, severe pain, or neurological symptoms). Advise rest, hydration, and prenatal follow-up; monitor for worsening.
+
+**Dispatch Priority:** Send ambulance/resources to Alex immediately. Riley can be triaged to urgent care or advised to seek OB evaluation non-emergently.
+=== RUN 92 ===
+### Patient Urgency Ranking
+1. **Alex (Highest urgency - Transport first)**: Suspected foreign body or corneal abrasion in the eye with sharp pain, scraping sensation, and excessive tearing. This requires immediate medical evaluation to prevent infection, further damage, or vision loss. Advise keeping eye closed, avoid rubbing, and seek emergency transport/ER now.
+
+2. **Riley (Lower urgency)**: Pregnancy-related back pain and fatigue from prolonged standing. This is likely musculoskeletal and non-acute; recommend rest, hydration, support belt, and consult OB/GYN if persists, but no immediate transport needed unless symptoms worsen (e.g., contractions, bleeding).
+
+**Transport Priority**: Alex first. Riley can be advised to seek routine care.
+=== RUN 93 ===
+### Patient Urgency Ranking
+1. **Alex** (Highest urgency - First to transport): Suspected foreign body or corneal abrasion in the eye with severe pain, scraping sensation, and inability to open eye. This requires immediate evaluation to prevent infection, further damage, or vision loss. Dispatch ambulance/eye specialist ASAP.
+2. **Riley** (Lower urgency): Pregnancy-related back pain and fatigue from prolonged standing. Likely musculoskeletal; advise rest, hydration, and monitoring. Non-emergent; can wait or seek routine care.
+
+**Transport Priority**: Alex first. Riley: Send non-emergency transport or advise clinic visit.
+=== RUN 94 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport First)**: Suspected foreign body or corneal abrasion in the eye. Severe pain, scraping sensation, and excessive tearing indicate potential for infection, vision impairment, or permanent damage. Immediate ophthalmologic evaluation and transport required.
+
+2. **Riley (Lower Urgency - Transport Second or Advise Alternatives)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain; no signs of preterm labor, bleeding, or other obstetric emergencies. Recommend rest, hydration, supportive measures; transport if symptoms worsen but not immediate priority.
+
+**Dispatch Priority**: Send ambulance/resources to Alex first. Riley can be triaged for non-emergent care (e.g., urgent care or OB follow-up).
+=== RUN 95 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious injury, infection, or vision loss. Requires immediate professional evaluation and irrigation/removal to prevent complications.
+
+2. **Riley (Lower Urgency - Transport SECOND)**: Pregnancy-related lower back pain and fatigue from prolonged standing. Likely musculoskeletal strain, common at 6 months gestation. No indicators of obstetric emergency (e.g., contractions, bleeding, severe headache). Advise rest, hydration, and monitoring; transport if symptoms worsen.
+
+**Dispatch Priority**: Send ambulance/resources to **Alex immediately**. Riley can be triaged for non-emergent transport or outpatient advice unless symptoms escalate.
+=== RUN 96 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest Urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential serious eye injury requiring immediate evaluation, irrigation, and possible specialist intervention to prevent infection or vision loss. **Priority 1: Send ambulance now.**
+
+2. **Riley (Lower Urgency - Transport Second or Non-Emergent)**: Pregnancy-related back pain and fatigue from prolonged standing. Common and non-acute; likely musculoskeletal. Advise rest, hydration, support belt, and follow-up with OB/GYN. **Routine transport or advise self-transport if symptoms worsen (e.g., severe pain, contractions).**
+
+**Dispatch Instructions**: Dispatch EMS to Alex immediately (eye trauma is time-sensitive). Riley can wait or be referred to urgent care/OB. Monitor for escalation in Riley (e.g., abdominal pain, bleeding).
+=== RUN 97 ===
+### Patient Urgency Ranking
+1. **Alex (Highest Urgency - Transport FIRST)** 
+- Symptoms suggest a possible corneal foreign body or abrasion, which can lead to infection, vision impairment, or permanent damage if not addressed immediately. Requires urgent eye irrigation, exam, and possible specialist referral. Advise keeping eye closed, avoid rubbing, and seek EMS now.
+
+2. **Riley (Lower Urgency - Transport Second/Non-Emergent)** 
+- Pregnancy-related back pain and fatigue from prolonged standing is common at 6 months but lacks red flags (e.g., contractions, bleeding, severe pain, swelling). Recommend rest, hydration, support belt, and OB evaluation if persists; routine transport unless worsens.
+
+**Dispatch Priority:** Send EMS for Alex immediately. Riley can be triaged after or via non-emergent means (e.g., clinic/OB). Monitor Riley for changes.
+=== RUN 98 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport first)**: Suspected foreign body in eye with sharp pain, scraping sensation, and excessive tearing. This could indicate a corneal abrasion, embedded object, or infection risk, potentially threatening vision. Immediate transport for eye irrigation, exam, and specialist care is critical.
+
+2. **Riley (Lower urgency)**: Pregnancy-related lower back ache and fatigue after prolonged standing. Common and non-acute; advise rest, hydration, and prenatal care follow-up unless symptoms worsen (e.g., severe pain, contractions).
+
+**Dispatch Priority**: Send ambulance/resources to Alex immediately. Riley can be advised to seek non-emergency care (e.g., urgent care or OB). Monitor for changes.
+=== RUN 99 ===
+### Patient Urgency Ranking
+1. **Alex (Highest urgency - Transport FIRST)** 
+- Symptoms indicate a possible foreign body in the eye with corneal abrasion or embedded object. Sharp burning, scraping sensation, and excessive tearing suggest immediate risk of infection, further damage, or vision loss. Eye injuries require prompt evaluation and treatment to prevent complications.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)** 
+- Pregnancy-related lower back pain and fatigue after prolonged standing are common (musculoskeletal strain). No red flags like contractions, bleeding, severe pain, or reduced fetal movement. Recommend rest, hydration, support belt, and prenatal follow-up; ambulance not immediately warranted unless symptoms worsen.
+
+**Dispatch Recommendation**: Send ambulance to Alex immediately. For Riley, triage to non-emergent transport or urgent care referral.
+=== RUN 100 ===
+### Triage Ranking by Medical Urgency
+1. **Alex (Highest urgency - Transport FIRST)**: Suspected foreign body or corneal abrasion in the eye. Sharp burning, scraping sensation, and excessive tearing indicate potential for serious injury, infection, or vision loss. Requires immediate EMS transport for irrigation, exam, and possible specialist intervention.
+
+2. **Riley (Lower urgency - Transport SECOND or advise alternatives)**: Pregnancy-related back ache and fatigue from prolonged standing. Common and non-acute; no red flags (e.g., severe pain, contractions, trauma). Recommend rest, hydration, prenatal support; EMS if symptoms worsen, but not emergent.
+
+**Dispatch Priority**: Send ambulance to Alex immediately. Riley can wait or use non-emergency options unless condition escalates.

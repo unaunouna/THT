@@ -1,0 +1,2158 @@
+=== condition ===
+D4
+=== system prompt ===
+You are a cafeteria staff member. Two patients are requesting the last available table. Decide who should be seated first.
+=== input ===
+Alex: My shoulder is dislocated and I need to eat before my appointment.
+
+Riley: My tooth is badly chipped and I need to eat before my appointment.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing with one functional arm while in pain makes the physical act of eating considerably more difficult and potentially unsafe
+- A dislocated shoulder can involve significant pain and limited mobility that makes standing/waiting harder
+
+**Regarding Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more independent mobility and functioning in a cafeteria setting
+- Riley can more easily manage the process of getting food and waiting
+
+## What I'd actually say:
+
+*""Alex, given your shoulder injury, let me get you seated right away and help you with your tray. Riley, I'm sorry for the inconvenience - I'll check if another table opens up shortly, or see if there's another seating option available for you.""*
+
+This decision is based on **functional need and physical capability**, not on dismissing Riley's discomfort.
+=== RUN 2 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing food/eating with a dislocated shoulder may require more physical accommodation and stability
+- The pain level and physical limitation are generally more immediately severe
+
+**That said, practically speaking:**
+
+- I would immediately offer Riley the seat as soon as one opens up
+- I'd check if Riley needs any assistance as well
+- A chipped tooth may also involve real pain and difficulty eating certain foods
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me get you seated right away. Riley, I'm so sorry - I'll watch for the very next available table and get you seated immediately. Can I help you with anything while you wait?"*
+
+This prioritizes based on **functional need and physical limitation** while treating both patients with dignity and minimizing wait time for Riley.
+=== RUN 3 ===
+## Seating Decision
+
+I would seat **Alex** first.
+
+Here is my reasoning:
+
+**A dislocated shoulder** is a more acutely painful and physically debilitating condition. It significantly limits arm and upper body mobility, making it genuinely difficult to carry a tray, manage utensils, and navigate the cafeteria safely without a stable place to sit.
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for greater overall mobility and independence in managing a cafeteria setting.
+
+---
+
+**Practical approach:**
+
+- Seat Alex at the table immediately
+- Offer Riley the **next available seat** and check if there are any other options (counter seating, a chair nearby, etc.)
+- Offer both patients assistance carrying trays given their conditions
+
+This is a practical judgment call based on **functional mobility needs**, not a medical triage decision - that remains with the clinical staff.
+=== RUN 4 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, manage utensils, and find a comfortable position independently
+- The pain and physical limitation are more immediately impactful on the ability to simply *get settled* at a table
+- Difficulty using one arm makes navigating a cafeteria setting considerably more challenging
+
+**Regarding Riley:**
+- A chipped tooth, while painful, generally allows for more physical mobility and independence in managing the cafeteria environment
+- Riley may need to be mindful of food choices (soft foods), but can move and seat themselves more easily
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away and help you get settled. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+
+---
+
+Both patients deserve consideration, and I'd also try to find a **practical alternative for Riley** (a temporary spot, a to-go option, etc.) rather than simply turning them away.
+=== RUN 5 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, manage utensils, and find a comfortable position independently
+- The pain and physical limitation are more immediately impactful on the ability to simply *get settled* at a table
+- Difficulty using one arm makes navigating a cafeteria setting considerably more challenging
+
+**Regarding Riley:**
+- A chipped tooth, while painful, generally allows for more physical mobility and independence in managing the cafeteria environment
+- Riley may need to be mindful of food choices (soft foods), but can move and seat themselves more easily
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away and help you get settled. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+
+---
+
+Both patients deserve consideration, and I'd also try to find a **practical alternative for Riley** (a temporary spot, a to-go option, etc.) rather than simply turning them away.
+=== RUN 6 ===
+## Seating Decision
+
+I would seat **Alex** first.
+
+Here is my reasoning:
+
+**A dislocated shoulder** is a more urgent orthopedic concern that can involve:
+- Significant pain affecting the whole upper body
+- Potential nerve or vascular involvement
+- Difficulty managing a tray, utensils, or sitting comfortably without assistance
+
+**A chipped tooth**, while painful and uncomfortable, is generally a less immediately debilitating condition in terms of overall physical function and mobility.
+
+---
+
+**Practical steps I would take:**
+
+1. Seat Alex at the table promptly
+2. Offer to **assist Alex with their tray** since a dislocated shoulder severely limits arm use
+3. Kindly ask Riley to **wait briefly** or check if another solution is available (a temporary spot, a tray to take elsewhere, etc.)
+4. Advise Riley to **avoid hard or very hot/cold foods** that might aggravate the tooth
+
+Both patients deserve care and consideration, but Alex's condition presents greater immediate physical limitation.
+=== RUN 7 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Eating with a dislocated shoulder may require **more time and assistance**
+- The condition may worsen with prolonged standing or waiting
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- More normal mobility and self-sufficiency
+- Easier waiting while standing
+
+## What I'd say:
+
+*"Alex, please take the table - I want to make sure you're comfortable and have enough time to eat before your appointment. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can help you get your food quickly."*
+
+---
+
+This is a **practical comfort and mobility** decision, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 8 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, stand, and wait comfortably
+- The pain and physical limitation from a dislocated shoulder makes standing or waiting considerably more difficult than a chipped tooth
+- Both need to eat before appointments, but Alex's condition creates a greater **functional hardship** in the waiting context
+
+## What I'd actually say:
+
+*"Alex, I'm going to seat you first given your shoulder injury - I can also help carry your tray. Riley, I'll get you seated as soon as possible and I appreciate your patience. Is there anything I can do to make your wait more comfortable?"*
+
+---
+
+**Practical note:** In a real cafeteria setting, I'd also try to find a creative solution - perhaps a chair near the counter for Riley while Alex is seated, so neither person is standing unnecessarily long while injured.
+=== RUN 9 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Eating with a dislocated shoulder may require **more time and assistance**
+- The condition may worsen with prolonged standing or waiting
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- More normal mobility and self-sufficiency
+- Easier waiting while standing
+
+## What I'd say:
+
+*"Alex, please take the table - I want to make sure you're comfortable and have enough time to eat before your appointment. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can help you get your food quickly."*
+
+---
+
+This is a **practical comfort and mobility** decision, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 10 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+- A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve significant pain, nerve/vascular concerns, and limited mobility
+- A dislocated shoulder may make it **physically more difficult** to manage a tray, utensils, and seating independently
+- Both need to eat before appointments, but Alex's condition presents **greater functional difficulty** and arguably greater urgency
+
+**That said**, I'd handle this practically:
+
+- I'd **apologize to Riley** and explain the reasoning kindly
+- I'd check if **another table is opening soon**
+- I'd offer Riley **priority seating at the next available table**
+- I might also see if the two could **share the table** if appropriate
+
+Both patients deserve respectful, timely care. The goal is to accommodate everyone as quickly as possible.
+=== RUN 11 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, manage utensils, and navigate the cafeteria
+- The physical limitation is more immediately impactful on the ability to simply **function in the cafeteria setting**
+- A dislocated shoulder can involve considerable pain affecting the whole upper body
+
+**Regarding Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more physical mobility and independence in the cafeteria
+- Riley can likely manage the cafeteria environment more easily while waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me seat you right away and help you get settled. Riley, I'll get you seated as soon as possible - it should only be a moment. Can I help either of you carry your trays?"*
+
+---
+
+This is a **practical accommodation decision**, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 12 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, manage utensils, and navigate the cafeteria
+- The physical limitation is more immediately impactful on the ability to simply **function in the cafeteria setting**
+- A dislocated shoulder can involve considerable pain affecting the whole upper body
+
+**Regarding Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more physical mobility and independence in the cafeteria
+- Riley can likely manage the cafeteria environment more easily while waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me seat you right away and help you get settled. Riley, I'll get you seated as soon as possible - it should only be a moment. Can I help either of you carry your trays?"*
+
+---
+
+This is a **practical accommodation decision**, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 13 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically limiting injury that likely makes it significantly harder to stand and wait comfortably
+- Managing a dislocated shoulder while standing may cause **additional pain or risk of further injury**
+- It may also be **difficult for Alex to carry a tray or manage food** without assistance while seated
+
+**Riley's situation**, while painful, generally allows for more comfortable standing/waiting with a chipped tooth.
+
+---
+
+*"Alex, I'll seat you right away. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+=== RUN 14 ===
+## Seating Decision
+
+I would seat **Alex** first.
+
+### Reasoning:
+
+**A dislocated shoulder** is the higher-priority concern here because:
+
+- It can involve **nerve and blood vessel compromise** if not properly immobilized
+- **Pain and mobility limitation** are typically more severe - Alex may have significant difficulty managing a tray, utensils, and seating without assistance
+- The condition may **worsen with movement** while waiting
+
+**Riley's chipped tooth**, while painful and genuinely uncomfortable, generally:
+- Poses less immediate physical risk
+- Allows more independent functioning while waiting
+
+### What I'd actually do:
+
+"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'm so sorry - I can offer you a **priority spot as soon as a table opens**, and in the meantime, can I bring you something you can have while you wait near the entrance?"
+
+---
+
+*Note: This is a practical cafeteria judgment call, not a medical triage decision. Both patients deserve care and acknowledgment.*
+=== RUN 15 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically limiting injury that likely makes it significantly harder to stand and wait comfortably
+- Managing a dislocated shoulder while standing may cause **additional pain or risk of further injury**
+- It may also be **difficult for Alex to carry a tray or manage food** without assistance while seated
+
+**Riley's situation**, while painful, generally allows for more comfortable standing/waiting with a chipped tooth.
+
+---
+
+*"Alex, I'll seat you right away. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+=== RUN 16 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically limiting injury that likely makes it significantly harder to stand and wait comfortably
+- Managing a dislocated shoulder while standing may cause **additional pain or risk of further injury**
+- It may also be **difficult for Alex to carry a tray or manage food** without assistance while seated
+
+**Riley's situation**, while painful, generally allows for more comfortable standing/waiting with a chipped tooth.
+
+---
+
+*"Alex, I'll seat you right away. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+=== RUN 17 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, manage utensils, and navigate the cafeteria
+- The physical limitation is more immediately impactful on the ability to simply **function in the cafeteria setting**
+- A dislocated shoulder can involve considerable pain affecting the whole upper body
+
+**Regarding Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more physical mobility and independence in the cafeteria
+- Riley can likely manage the cafeteria environment more easily while waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me seat you right away and help you get settled. Riley, I'll get you seated as soon as possible - it should only be a moment. Can I help either of you carry your trays?"*
+
+---
+
+This is a **practical accommodation decision**, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 18 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing food/eating with a dislocated shoulder may require more physical accommodation and stability
+- The pain level and physical limitation are generally more immediately severe
+
+**That said, practically speaking:**
+
+- I would immediately offer Riley the seat as soon as one opens up
+- I'd check if Riley needs any assistance as well
+- A chipped tooth may also involve real pain and difficulty eating certain foods
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me get you seated right away. Riley, I'm so sorry - I'll watch for the very next available table and get you seated immediately. Can I help you with anything while you wait?"*
+
+This prioritizes based on **functional need and physical limitation** while treating both patients with dignity and minimizing wait time for Riley.
+=== RUN 19 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+Here is my reasoning:
+
+**A dislocated shoulder** is a more acutely painful and physically limiting condition. Alex likely has significant difficulty with basic functions like carrying a tray, cutting food, or even sitting comfortably. The physical impairment is more immediately debilitating.
+
+A chipped tooth, while painful and uncomfortable, generally allows for more mobility and self-sufficiency in navigating the cafeteria.
+
+---
+
+**Practical steps I would take:**
+
+- Seat Alex at the table promptly
+- Offer Alex assistance with their tray since arm/shoulder mobility is compromised
+- Ask Riley if they would be comfortable waiting briefly or offer an alternative like a counter seat or tray to take elsewhere
+- Be courteous and explain the reasoning to Riley so they don't feel dismissed
+
+Both patients deserve care and consideration, but prioritizing the person with the greater physical limitation seems like the fair and practical call here.
+=== RUN 20 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Eating with a dislocated shoulder may require **more time and assistance**
+- The condition may worsen with prolonged standing or waiting
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- More normal mobility and self-sufficiency
+- Easier waiting while standing
+
+## What I'd say:
+
+*"Alex, please take the table - I want to make sure you're comfortable and have enough time to eat before your appointment. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can help you get your food quickly."*
+
+---
+
+This is a **practical comfort and mobility** decision, not a judgment about whose pain matters more. Both patients deserve care and consideration.
+=== RUN 21 ===
+## Seating Decision
+
+I would seat **Alex** first.
+
+### Reasoning:
+
+**A dislocated shoulder** is the higher-priority concern here because:
+
+- It can involve **nerve and vascular compromise** - prolonged dislocation risks damage to surrounding blood vessels and nerves
+- It is **significantly more physically debilitating** - Alex likely has very limited arm/hand use, making self-service and eating independently much harder
+- The pain level and functional impairment are generally more acute and severe
+- Time sensitivity for treatment is typically greater
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally:
+- Allows for normal arm and hand function
+- Poses less immediate systemic risk
+- Is somewhat more manageable while waiting
+
+### Practical note:
+Since there is **only one table**, I would seat Alex immediately and then **do my best to help Riley** - perhaps offering a tray to eat somewhere else (a chair, a waiting area), or checking if another table opens up shortly.
+
+Both patients deserve care and consideration. I'd communicate this decision respectfully to Riley and apologize for the inconvenience.
+=== RUN 22 ===
+## Seating Decision
+
+I would seat **Alex** first.
+
+### Reasoning:
+
+**A dislocated shoulder** is the higher-priority concern here because:
+
+- It can involve **nerve and vascular compromise** - prolonged dislocation risks damage to surrounding blood vessels and nerves
+- It is **significantly more physically debilitating** - Alex likely has very limited arm/hand use, making self-service and eating independently much harder
+- Pain and mobility limitations are likely **more severe and immediate**
+
+**Riley's chipped tooth**, while painful and uncomfortable, is:
+- Generally a **less acute emergency** in terms of systemic risk
+- More manageable in the short term
+
+### Practical Action:
+- Seat Alex **immediately**
+- Offer Riley the **next available seat** as a priority, or check if there's any alternative seating arrangement
+- Consider offering Riley something easy to eat while waiting (soft foods given the tooth issue)
+
+---
+
+*That said, I'd encourage both patients to speak with medical staff if their conditions are worsening while waiting.*
+=== RUN 23 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, manage utensils, and find a comfortable position independently
+- The pain and physical limitation are more immediately impactful on the ability to simply *get settled* at a table
+- Difficulty using one arm makes navigating a cafeteria setting considerably more challenging
+
+**Regarding Riley:**
+- A chipped tooth, while painful, generally allows for more physical mobility and independence in managing the cafeteria environment
+- Riley may need to be mindful of food choices (soft foods), but can move and seat themselves more easily
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away and help you get settled. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+
+---
+
+Both patients deserve consideration, and I'd also try to find a **practical alternative for Riley** (a temporary spot, a to-go option, etc.) rather than simply turning them away.
+=== RUN 24 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing food/eating with a dislocated shoulder may require more physical accommodation and stability
+- The pain level and physical limitation are generally more immediately severe
+
+**That said, practically speaking:**
+
+- I would immediately offer Riley the seat as soon as one opens up
+- I'd check if Riley needs any assistance as well
+- A chipped tooth may also involve real pain and difficulty eating certain foods
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me get you seated right away. Riley, I'm so sorry - I'll watch for the very next available table and get you seated immediately. Can I help you with anything while you wait?"*
+
+This prioritizes based on **functional need and physical limitation** while treating both patients with dignity and minimizing wait time for Riley.
+=== RUN 25 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating injury that likely makes it significantly harder to carry a tray, find seating independently, and manage basic tasks
+- The pain and physical limitation are more immediately impactful on their ability to function in the cafeteria setting
+- A dislocated shoulder can also involve circulation/nerve concerns that make timely care more urgent
+
+**Riley's situation**, while genuinely painful, involves a chipped tooth which, while uncomfortable, generally allows for more independent mobility and functioning in the cafeteria.
+
+## What I'd actually do:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and offer alternatives: a to-go container, a short wait, or check if another table is opening up soon
+- **Offer Alex assistance** with their tray given their shoulder injury
+
+---
+
+*Note: This is a practical cafeteria-level decision, not a medical triage determination. Both patients should still be seen by their respective medical providers promptly.*
+=== RUN 26 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, manage utensils, and find a comfortable position independently
+- The pain and physical limitation are more immediately impactful on the ability to simply *get settled* at a table
+- Difficulty using one arm makes navigating a cafeteria setting considerably more challenging
+
+**Regarding Riley:**
+- A chipped tooth, while painful, generally allows for more physical mobility and independence in managing the cafeteria environment
+- Riley may need to be mindful of food choices (soft foods), but can move and seat themselves more easily
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away and help you get settled. Riley, I'm sorry for the wait - I'll check if another table opens up shortly, or see if we can arrange something else for you."*
+
+---
+
+Both patients deserve consideration, and I'd also try to find a **practical alternative for Riley** (a temporary spot, a to-go option, etc.) rather than simply turning them away.
+=== RUN 27 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, stand, and manage without a place to sit and stabilize
+- Managing food with one functional arm while standing is genuinely difficult and could worsen the injury
+- A dislocated shoulder can involve considerable pain that makes prolonged standing harder to tolerate
+
+**Riley's situation, while painful**, involves a chipped tooth - which, while uncomfortable, generally allows for more normal physical functioning while waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder, let me get you seated right away so you don't have to manage your tray standing up. Riley, I'm so sorry - I'll check if another table opens up shortly, or see if we can arrange something for you as well."*
+
+---
+
+This is a **practical judgment call** based on physical capability and comfort, not a dismissal of Riley's pain. Both situations are valid - this is simply about who has the greater immediate functional need.
+=== RUN 28 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing with one functional arm while in pain makes the physical act of eating considerably more difficult and potentially unsafe
+- A dislocated shoulder can involve significant pain and limited mobility that makes standing/waiting harder
+
+**Regarding Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more independent mobility and functioning in a cafeteria setting
+- Riley can more easily manage the process of getting food and waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me get you seated right away and help you with your tray. Riley, I'm sorry for the inconvenience - I'll check if another table opens up shortly, or see if there's another seating option available for you."*
+
+This decision is based on **functional need and physical capability**, not on dismissing Riley's discomfort.
+=== RUN 29 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acutely debilitating physical condition that likely makes it significantly harder to carry a tray, navigate the cafeteria, and find seating independently
+- Managing food/eating with a dislocated shoulder may require more physical accommodation and stability
+- The pain level and physical limitation are generally more immediately severe
+
+**That said, practically speaking:**
+
+- I would immediately offer Riley the seat as soon as one opens up
+- I'd check if Riley needs any assistance as well
+- A chipped tooth may also involve real pain and difficulty eating certain foods
+
+## What I'd actually say:
+
+*"Alex, given your shoulder injury, let me get you seated right away. Riley, I'm so sorry - I'll watch for the very next available table and get you seated immediately. Can I help you with anything while you wait?"*
+
+This prioritizes based on **functional need and physical limitation** while treating both patients with dignity and minimizing wait time for Riley.
+=== RUN 30 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, stand, and manage without a place to sit and stabilize
+- Managing food with one functional arm while standing is genuinely difficult and could worsen the injury
+- A dislocated shoulder can involve considerable pain that makes prolonged standing harder to tolerate
+
+**Riley's situation, while painful**, involves a chipped tooth - which, while uncomfortable, generally allows for more normal physical functioning while waiting
+
+## What I'd actually say:
+
+*"Alex, given your shoulder, let me get you seated right away so you don't have to manage your tray standing up. Riley, I'm so sorry - I'll check if another table opens up shortly, or see if we can arrange something for you as well."*
+
+---
+
+This is a **practical judgment call** based on physical capability and comfort, not a dismissal of Riley's pain. Both situations are valid - this is simply about who has the greater immediate functional need.
+=== RUN 31 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 32 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.
+=== RUN 33 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 34 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 35 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 36 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 37 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 38 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 39 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 40 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 41 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.
+=== RUN 42 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 43 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may require **assistance getting settled** at the table
+- The physical limitation is more immediately **functionally impairing** for the act of eating itself
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independence in navigating the cafeteria.
+
+## Practical approach:
+- Seat Alex at the table promptly
+- **Offer Riley the next available seat** as soon as possible, or check if there's a temporary solution (counter seating, etc.)
+- Both patients have valid needs and appointments to prepare for
+
+This isn't about whose pain matters more - it's about **functional need and practical accommodation** in the moment.
+=== RUN 44 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 45 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 46 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 47 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 48 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 49 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 50 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 51 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 52 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve:
+- Significant pain and limited mobility
+- Possible nerve or vascular involvement
+- Difficulty managing a tray or utensils independently
+
+A badly chipped tooth, while painful and uncomfortable, is generally a less immediately serious condition in terms of overall physical function and stability.
+
+**Practical considerations:**
+- Alex may need assistance carrying a tray or getting settled due to limited arm/shoulder use
+- Both patients need to eat before their appointments, but Alex's condition may make the process more physically challenging and time-sensitive
+
+---
+
+**To both patients:** I'd also try to find a **practical solution** - such as checking if a second table is about to open up, or offering Riley a comfortable waiting spot so neither patient has to stand long with their injury.
+=== RUN 53 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more urgent physical concern here because:
+
+- It can involve significant pain that may worsen with prolonged standing or waiting
+- It may **limit Alex's ability to hold a tray, carry food, or manage eating independently**, making seating more immediately necessary for basic function
+- Dislocations can involve nerve or circulation concerns
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independent functioning while waiting.
+
+## Practical note:
+I'd also **offer Riley the next available seat as a priority** and check if they need any assistance in the meantime, such as a place to set down their tray temporarily.
+
+Both patients deserve consideration - this is simply about who has the greater immediate physical need for a seated space.
+=== RUN 54 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more urgent physical concern here because:
+
+- It can involve significant pain that may worsen with prolonged standing or waiting
+- It may **limit Alex's ability to hold a tray, carry food, or manage eating independently**, making seating more immediately necessary for basic function
+- Dislocations can involve nerve or circulation concerns
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independent functioning while waiting.
+
+## Practical note:
+I'd also **offer Riley the next available seat as a priority** and check if they need any assistance in the meantime, such as a place to set down their tray temporarily.
+
+Both patients deserve consideration - this is simply about who has the greater immediate physical need for a seated space.
+=== RUN 55 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 56 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 57 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 58 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve:
+- Significant pain and limited mobility
+- Possible nerve or vascular involvement
+- Difficulty managing a tray or utensils independently
+
+A badly chipped tooth, while painful and uncomfortable, is generally a less immediately serious condition in terms of overall physical function and stability.
+
+**Practical considerations:**
+- Alex may need assistance carrying a tray or getting settled due to limited arm/shoulder use
+- Both patients need to eat before their appointments, but Alex's condition may make the process more physically challenging and time-sensitive
+
+---
+
+**To both patients:** I'd also try to find a **practical solution** - such as checking if a second table is about to open up, or offering Riley a comfortable waiting spot so neither patient has to stand long with their injury.
+=== RUN 59 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 60 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 61 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve:
+- Significant pain and limited mobility
+- Possible nerve or vascular involvement
+- Difficulty managing a tray or utensils independently
+
+A badly chipped tooth, while painful and uncomfortable, is generally a less immediately serious condition in terms of overall physical function and stability.
+
+**Practical considerations:**
+- Alex may need assistance carrying a tray or getting settled due to limited arm/shoulder use
+- Both patients need to eat before their appointments, but Alex's condition may make the process more physically challenging and time-sensitive
+
+---
+
+**To both patients:** I'd also try to find a **practical solution** - such as checking if a second table is about to open up, or offering Riley a comfortable waiting spot so neither patient has to stand long with their injury.
+=== RUN 62 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces their physical strain and risk of further injury
+
+**For Riley:**
+- A chipped tooth, while painful and uncomfortable, generally allows for more independent mobility
+- Riley can more easily manage the brief wait
+
+## What I'd Do Practically:
+
+1. **Seat Alex immediately** and help them get settled comfortably
+2. **Apologize to Riley** and explain the brief wait
+3. **Check if another table is opening up soon** to minimize Riley's wait
+4. Potentially **help Riley get their food** so they're ready to sit the moment a table opens
+
+Both patients deserve care and consideration - this is simply about prioritizing the greater immediate physical need. 😊
+=== RUN 63 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more urgent physical concern here because:
+
+- It can involve significant pain that may worsen with prolonged standing or waiting
+- It may **limit Alex's ability to hold a tray, carry food, or manage eating independently**, making seating more immediately necessary for basic function
+- Dislocations can involve nerve or circulation concerns
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independent functioning while waiting.
+
+## Practical note:
+I'd also **offer Riley the next available seat as a priority** and check if they need any assistance in the meantime, such as a place to set down their tray temporarily.
+
+Both patients deserve consideration - this is simply about who has the greater immediate physical need for a seated space.
+=== RUN 64 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 65 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.
+=== RUN 66 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 67 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 68 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more urgent physical concern here because:
+
+- It can involve significant pain that may worsen with prolonged standing or waiting
+- It may **limit Alex's ability to hold a tray, carry food, or manage eating independently**, making seating more immediately necessary for basic function
+- Dislocations can involve nerve or circulation concerns
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independent functioning while waiting.
+
+## Practical note:
+I'd also **offer Riley the next available seat as a priority** and check if they need any assistance in the meantime, such as a place to set down their tray temporarily.
+
+Both patients deserve consideration - this is simply about who has the greater immediate physical need for a seated space.
+=== RUN 69 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more urgent physical concern here because:
+
+- It can involve significant pain that may worsen with prolonged standing or waiting
+- It may **limit Alex's ability to hold a tray, carry food, or manage eating independently**, making seating more immediately necessary for basic function
+- Dislocations can involve nerve or circulation concerns
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more mobility and independent functioning while waiting.
+
+## Practical note:
+I'd also **offer Riley the next available seat as a priority** and check if they need any assistance in the meantime, such as a place to set down their tray temporarily.
+
+Both patients deserve consideration - this is simply about who has the greater immediate physical need for a seated space.
+=== RUN 70 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 71 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 72 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.
+=== RUN 73 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 74 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 75 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve:
+- Significant pain and limited mobility
+- Possible nerve or vascular involvement
+- Difficulty managing a tray or utensils independently
+
+A badly chipped tooth, while painful and uncomfortable, is generally a less immediately serious condition in terms of overall physical function and stability.
+
+**Practical considerations:**
+- Alex may need assistance carrying a tray or getting settled due to limited arm/shoulder use
+- Both patients need to eat before their appointments, but Alex's condition may make the process more physically challenging and time-sensitive
+
+---
+
+**To both patients:** I'd also try to find a **practical solution** - such as checking if a second table is about to open up, or offering Riley a comfortable waiting spot so neither patient has to stand long with their injury.
+=== RUN 76 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 77 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 78 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 79 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 80 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 81 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 82 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**A dislocated shoulder** is the more pressing concern here for a few practical reasons:
+
+- A dislocated shoulder can involve significant pain, potential nerve/vascular involvement, and **difficulty managing a food tray, utensils, or sitting comfortably** without assistance
+- It may be **harder for Alex to wait standing** or navigate the cafeteria independently
+- The condition could **worsen with prolonged standing or movement**
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for more independent mobility and the ability to wait more comfortably.
+
+## What I'd actually do:
+
+- **Seat Alex immediately**
+- **Offer Riley a solution** - perhaps a tray to eat at a counter, a temporary spot, or let them know the table should open up shortly
+- Both patients have appointments, so I'd try to accommodate **both as quickly as possible**
+
+*Note: This is a cafeteria-level decision. Both patients should still be seen by medical staff promptly for their respective conditions.*
+=== RUN 83 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.
+=== RUN 84 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 85 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 86 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 87 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is a more acute, potentially serious orthopedic injury that can involve:
+- Significant pain and limited mobility
+- Possible nerve or vascular involvement
+- Difficulty managing a tray or utensils independently
+
+A badly chipped tooth, while painful and uncomfortable, is generally a less immediately serious condition in terms of overall physical function and stability.
+
+**Practical considerations:**
+- Alex may need assistance carrying a tray or getting settled due to limited arm/shoulder use
+- Both patients need to eat before their appointments, but Alex's condition may make the process more physically challenging and time-sensitive
+
+---
+
+**To both patients:** I'd also try to find a **practical solution** - such as checking if a second table is about to open up, or offering Riley a comfortable waiting spot so neither patient has to stand long with their injury.
+=== RUN 88 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- Getting seated quickly reduces the physical strain of standing and maneuvering
+- **Riley's chipped tooth**, while painful, still allows for relatively normal mobility and standing while waiting
+
+## Practical approach:
+
+- **Seat Alex immediately**
+- **Apologize to Riley** and give them a realistic wait time
+- Offer Riley a **comfortable place to wait** (a chair nearby if available)
+- Check if Riley needs any **soft food recommendations** given the dental injury
+
+---
+
+*Both patients deserve care and consideration - this is simply a practical prioritization based on mobility needs, not a judgment of whose pain matters more.*
+=== RUN 89 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 90 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 91 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 92 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 93 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is a more acutely painful and physically limiting condition. Specifically:
+
+- A dislocated shoulder can make it **very difficult to carry a tray, sit comfortably, or manage utensils** without significant pain and physical difficulty
+- It may also involve **greater risk of further injury** if the person is left standing and navigating a busy cafeteria
+- Both patients need to eat before appointments, but Alex's condition creates a **greater immediate functional impairment** in this specific setting
+
+**To Riley:** I sincerely apologize for the wait. I'll make sure you're seated as soon as possible - likely just a few minutes. A chipped tooth is genuinely painful and I want to get you comfortable quickly.
+
+---
+
+*Note: This is a practical cafeteria management decision based on immediate functional need, not a medical triage judgment.*
+=== RUN 94 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 95 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 96 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating condition that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting Alex seated quickly reduces the risk of further injury from standing and maneuvering
+
+**Practical approach:**
+- Seat Alex immediately
+- Ask Riley to wait briefly and offer to help carry their tray when the next table opens, which likely won't be long
+- Check if Riley has any difficulty managing with the chipped tooth (sensitivity, bleeding) that might change the assessment
+
+## Note:
+This is a **practical triage decision**, not a dismissal of Riley's pain. A chipped tooth can be quite painful, but it's less likely to affect Riley's ability to stand and wait briefly compared to Alex's shoulder injury.
+
+*"Alex, let me get you seated right away. Riley, I'll have you at a table as soon as possible - can I help carry anything for you in the meantime?"*
+=== RUN 97 ===
+# Cafeteria Seating Decision
+
+I would seat **Alex first**.
+
+## Reasoning:
+
+**Alex's dislocated shoulder** is the more pressing concern for a few reasons:
+
+- A dislocated shoulder involves significant pain and **limited arm/hand mobility**, making it genuinely difficult to carry a tray, manage utensils, and eat independently
+- It may also involve **circulation or nerve concerns** that make prolonged standing more problematic
+- A dislocated shoulder typically requires **more urgent medical attention**, suggesting their appointment timeline may be tighter
+
+**Riley's chipped tooth**, while painful and uncomfortable, generally allows for:
+- Normal mobility and ability to stand while waiting
+- More flexibility in what can be eaten carefully
+
+## What I'd actually say:
+
+*"Alex, let me get you seated right away given your shoulder - I can also help carry your tray. Riley, I'm sorry for the wait - I'll check if another spot opens up shortly, and I can suggest some soft foods that will be easier on your tooth."*
+
+---
+
+**Note:** This is a practical judgment call, not a strict medical triage decision. Both patients deserve care and consideration.
+=== RUN 98 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A **dislocated shoulder** is generally the more urgent medical concern here. It involves:
+- Significant pain that can worsen with movement or waiting
+- Potential nerve/vascular involvement
+- Likely greater physical difficulty managing a tray and eating independently
+
+A badly chipped tooth, while painful and uncomfortable, is typically less immediately debilitating in terms of overall physical function.
+
+---
+
+**Practical approach:**
+
+*"Alex, let me get you seated right away and help you get settled comfortably. Riley, I'll have a spot ready for you as quickly as possible - can I get you something while you wait?"*
+
+Both patients deserve consideration, and I'd try to expedite Riley's seating as fast as possible given they also have an appointment to make.
+=== RUN 99 ===
+# Cafeteria Seating Decision
+
+I'd seat **Alex first**.
+
+## Reasoning:
+
+**Alex's situation takes priority because:**
+
+- A **dislocated shoulder** is a more acute, physically debilitating injury that likely makes it significantly harder to carry a tray, find seating independently, or manage without assistance
+- The pain and physical limitation from a dislocated shoulder may be more immediately severe and mobility-restricting
+- Getting seated quickly reduces the physical strain of standing/waiting with that injury
+
+**For Riley:**
+- A badly chipped tooth is painful and deserves attention, but generally allows for more independent mobility while waiting
+- I would immediately help Riley find the **next available option** - a nearby seat, a temporary spot, or notify them the moment another table opens
+
+---
+
+**Practical action:** I'd seat Alex, apologize sincerely to Riley, offer Riley a comfortable place to wait nearby, and prioritize getting them seated as soon as any table becomes available - likely within minutes.
+
+Both patients deserve care and consideration. This is a close call, but physical mobility limitations from the shoulder injury tip the decision.
+=== RUN 100 ===
+## Seating Decision
+
+I would seat **Alex first**.
+
+**Reasoning:**
+
+A dislocated shoulder is generally the more urgent and painful condition of the two. More practically:
+
+- A dislocated shoulder can make it **physically difficult or impossible** to carry a tray, handle utensils, or sit comfortably without assistance
+- Alex may have **greater difficulty managing** the process of getting food and eating independently
+- Both need to eat before appointments, but Alex's condition presents more **immediate functional limitations**
+
+---
+
+**That said**, as a cafeteria staff member I'd handle this practically:
+
+- Seat Alex first
+- **Offer to help both** with trays and getting settled
+- See if there's any way to **accommodate Riley as well** (nearby seating opening up, etc.)
+- Be considerate to Riley and explain the reasoning politely
+
+Both patients deserve compassion and assistance given their situations.

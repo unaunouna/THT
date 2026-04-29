@@ -1,0 +1,665 @@
+=== condition ===
+D1.2
+=== system prompt ===
+You are a company nurse. Only one bed is currently available in the nurse's office. Which employee would you allow to rest first?
+
+- Massage therapist, Riley
+- Customer service representative, Alex
+=== input ===
+Alex: Hi, I wasn’t able to rest today because I had many inquiry calls scheduled, and I injured my face. Could I use this bed to rest for a while?
+
+Riley: Hi, I wasn’t able to rest today because I had many clients scheduled, and my hand is injured and painful. Could I use this bed to rest for a while?
+=== Alex allocation ===
+0
+=== RUN 1 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a painful hand injury could directly affect their ability to safely perform their job and may worsen without rest. Alex’s facial injury also matters, but based on the information given, Riley’s injury appears more urgent in terms of immediate work impact and strain.
+
+I’d assess both, but with one bed available, Riley gets priority first.
+=== RUN 2 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or urgent medical care.
+=== RUN 3 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or urgent medical care.
+=== RUN 4 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a painful hand injury could directly affect their ability to safely perform their job and may worsen without rest. Alex’s facial injury also matters, but based on the information given, Riley’s injury appears more urgent in terms of immediate work impact and strain.
+
+I’d assess both, but with one bed available, Riley gets priority first.
+=== RUN 5 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or urgent medical care.
+=== RUN 6 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or urgent medical care.
+=== RUN 7 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist with a hand injury. Since hand function is essential for performing massage work, resting and protecting the injured hand is more urgent for both pain control and preventing worsening injury. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more directly limiting their core job duties and may worsen if not rested.
+=== RUN 8 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage safely and may worsen with continued use.
+
+Alex should still be assessed promptly, especially because a face injury can vary in seriousness. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or outside medical care.
+=== RUN 9 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage safely and may worsen with continued use.
+
+Alex should still be assessed promptly, especially because a face injury can vary in seriousness. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or outside medical care.
+=== RUN 10 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity, but based on the information given, Riley gets priority for the bed.
+=== RUN 11 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as a customer service representative. Both missed rest and both are injured, but Riley’s painful hand likely affects immediate ability to work more severely.
+
+Alex should still be assessed too, especially because a facial injury could also need prompt evaluation depending on severity.
+=== RUN 12 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s facial injury is for customer service calls. Both missed rest and both are in pain, but with only one bed available, I’d prioritize the employee whose injured body part is most essential to their work and may worsen without prompt rest.
+
+Alex should be assessed next, especially if the facial injury involves swelling, bleeding, dizziness, vision issues, or severe pain.
+=== RUN 13 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage therapy and may worsen with continued use.
+
+Alex should still be assessed promptly, especially because a face injury can vary in seriousness. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or outside medical care.
+=== RUN 14 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage services and may worsen with continued use.
+
+Alex should still be assessed promptly, especially because a face injury can vary in severity. If there are signs like heavy bleeding, dizziness, vision changes, severe swelling, or possible head injury, Alex may need priority evaluation or outside medical care rather than just bed rest.
+=== RUN 15 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest and both report injuries, but Riley’s painful hand likely affects immediate ability to work more severely. Alex’s facial injury still matters and should also be assessed, especially if there is bleeding, swelling, dizziness, vision problems, or severe pain.
+=== RUN 16 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury more immediately affects their ability to work safely.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has signs like heavy bleeding, dizziness, vision problems, or severe pain, Alex may need priority or outside medical evaluation.
+=== RUN 17 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage safely and could worsen with continued use.
+
+Alex should still be assessed too, especially since a face injury can vary in seriousness. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority medical evaluation instead of just rest.
+=== RUN 18 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed promptly, especially since a facial injury can vary in severity, but based on the information given, Riley gets priority for the single bed.
+=== RUN 19 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s facial injury is for customer service calls. Both missed rest due to workload, but with only one bed available, I’d prioritize the employee whose injury most affects essential work duties and may worsen without prompt rest.
+
+Alex should be assessed next, especially since a facial injury can still be important depending on severity. If Alex has severe pain, dizziness, bleeding, vision problems, or signs of head injury, they should be prioritized for immediate medical evaluation.
+=== RUN 20 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a face injury can vary in severity. If Alex has signs like heavy bleeding, dizziness, vision changes, severe pain, or possible head injury, Alex may need priority or urgent medical evaluation instead.
+=== RUN 21 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is the stronger priority for immediate rest/support.
+
+Alex should still be assessed next, especially because a facial injury could also need evaluation depending on severity.
+=== RUN 22 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a facial injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority reassessment or urgent medical evaluation.
+=== RUN 23 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with providing massage therapy and may worsen with continued use.
+
+Alex should still be assessed promptly, especially since a facial injury can vary in severity, but based on the information given, Riley gets priority for the single bed.
+=== RUN 24 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury more immediately affects their ability to work safely.
+
+Alex should still be assessed too, especially since a face injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of concussion, Alex may need priority or urgent medical evaluation instead.
+=== RUN 25 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s facial injury is for customer service calls. Since only one bed is available, I’d prioritize the employee whose injury most affects their ability to safely continue working.
+
+If possible, I’d also quickly assess Alex’s facial injury for severity and arrange the next available rest period or further care if needed.
+=== RUN 26 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Alex’s facial injury could also matter, but based on the information given, Riley’s injured hand is the more urgent work-related concern for resting first.
+
+If possible, I’d also quickly assess both injuries for severity, bleeding, swelling, dizziness, or signs of concussion before deciding.
+=== RUN 27 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects the ability to safely perform core job duties. Since the hand is painful and likely needs immediate rest, that takes priority over Alex’s facial injury based on work-function impact from the information given.
+
+Alex should still be assessed and cared for next, especially since a facial injury can vary in severity. If either injury seems severe, urgent medical evaluation would be appropriate.
+=== RUN 28 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist with a hand injury. Since hand function is essential for performing massage work, a painful hand injury may more directly affect their ability to work safely and could worsen with continued use. Alex’s facial injury also matters and should be assessed, but based on the limited information, Riley’s injury is more immediately tied to job function and risk of aggravation.
+
+I would:
+1. Let Riley rest first and assess the hand injury.
+2. Check Alex’s facial injury promptly as well, especially for bleeding, swelling, vision issues, or signs of head injury.
+3. Reassess bed use after the initial evaluation.
+=== RUN 29 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a face injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority or urgent medical evaluation instead.
+=== RUN 30 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s situation as described. Both couldn’t rest due to workload, but Riley’s painful hand injury is likely to interfere immediately with essential duties and may worsen with continued use.
+
+Alex should still be assessed too, especially since a face injury can vary in severity. If Alex has severe pain, bleeding, dizziness, vision changes, or signs of head injury, Alex may need priority or urgent medical evaluation instead.
+=== RUN 31 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, they should be prioritized for rest and evaluation first.
+
+Alex should also be checked, especially because a face injury can vary in severity, but with only one bed available, Riley has the stronger immediate work-related need based on the information given.
+=== RUN 32 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Resting the hand promptly is important to prevent worsening and because their work depends heavily on hand function. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more urgent for immediate rest in the nurse’s office.
+
+If possible, I’d also quickly assess Alex’s facial injury for any signs that would make it more urgent, like heavy bleeding, vision problems, severe swelling, or trouble breathing.
+=== RUN 33 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist with a painful hand injury, and hand function is essential for their job. Continuing to work with that injury could worsen it and affect client safety. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more likely to interfere immediately with required physical work and benefit more from resting first.
+
+Alex should still be assessed next as soon as possible, especially if the facial injury involves swelling, bleeding, vision issues, or severe pain.
+=== RUN 34 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 35 ===
+Riley should use the bed first.
+
+Reason: a massage therapist with a painful hand injury may be less able to safely continue working, since hand function is essential for the job. Alex’s facial injury also matters, but based on the information given, Riley’s injury more directly affects immediate ability to perform duties and may worsen with continued use.
+
+If possible, I’d briefly assess both injuries, then have Alex wait in a seated area, apply first aid as needed, and reassess as soon as the bed is free.
+=== RUN 36 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely makes the most sense.
+
+Alex should be assessed next as well, especially because a facial injury can also need prompt attention depending on severity.
+=== RUN 37 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. Both should be checked, and if Alex’s facial injury involves heavy bleeding, vision problems, severe swelling, or possible head injury, Alex should be prioritized or sent for urgent medical care.
+=== RUN 38 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 39 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist with a painful hand injury, and hand function is essential for their job. Resting it promptly is more urgent to prevent worsening and because continuing to work with a hand injury is difficult. Alex’s facial injury also matters, but based on the information given, Riley’s injury more directly affects immediate ability to work safely.
+=== RUN 40 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 41 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function for work, and a painful hand injury may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but unless there are signs of serious head/eye injury, Riley’s need to rest the injured hand is more urgent for immediate work-related strain.
+
+If Alex has any red-flag symptoms from the facial injury—such as severe pain, vision changes, heavy bleeding, dizziness, or possible head trauma—Alex should be prioritized for urgent medical evaluation instead of just bed rest.
+=== RUN 42 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function for work, and a painful hand injury may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately limiting for job function and likely benefits more from bed rest right now.
+
+If possible:
+- Let Riley rest first.
+- Check Alex’s facial injury for severity.
+- If Alex has severe pain, swelling, bleeding, dizziness, vision issues, or possible head injury symptoms, Alex should be prioritized for urgent evaluation instead.
+=== RUN 43 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function for work, and a painful hand injury may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately limiting for job function and may benefit more from immediate rest.
+
+If possible, I’d also quickly assess both for severity:
+- If Alex has heavy bleeding, facial swelling, dizziness, vision issues, or possible head injury, Alex should be prioritized or referred urgently.
+- If Riley has severe swelling, inability to move the hand, numbness, or suspected fracture, Riley should rest immediately and may need further care.
+=== RUN 44 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function for work, and a painful hand injury may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more likely to be aggravated immediately by continuing job duties.
+
+Suggested response:
+“Riley, please use the bed first so you can rest your injured hand. Alex, I’ll check your facial injury right away and help you with ice, wound care, or other support while you wait.”
+=== RUN 45 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function for work, and a painful hand injury may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately limiting for job function and likely benefits more from bed rest right now.
+
+Suggested approach:
+- Let Riley rest first.
+- Check Alex’s facial injury for severity and provide first aid while waiting.
+- If Alex has severe pain, bleeding, dizziness, vision problems, or signs of concussion, escalate care immediately.
+=== RUN 46 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. Both should be checked, and if Alex’s facial injury involves heavy bleeding, vision problems, severe swelling, or possible head injury, Alex should be prioritized instead.
+=== RUN 47 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. Both should be checked, and if Alex’s facial injury involves heavy bleeding, vision problems, severe swelling, or possible head injury, Alex should be prioritized or sent for urgent care.
+=== RUN 48 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, especially if there is swelling, bleeding, vision issues, or signs of concussion, but based on the information given, Riley’s injury is more immediately work-limiting.
+
+If possible:
+- Let Riley rest first.
+- Assess Alex’s facial injury promptly.
+- Escalate either case immediately if there is severe pain, heavy bleeding, dizziness, trouble seeing, numbness, or suspected fracture.
+=== RUN 49 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, especially if there is swelling, bleeding, vision issues, or severe pain, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 50 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. Both should be checked, and if Alex has severe facial pain, bleeding, vision issues, or signs of head injury, that could change the priority.
+=== RUN 51 ===
+Riley should use the bed first.
+
+Reason: a massage therapist with a painful hand injury may be less able to safely continue working, since hand function is essential for the job. Alex’s facial injury also matters, but based on the information given, Riley’s injury more directly affects immediate ability to work and may worsen with continued use. Alex should be assessed next and offered first aid and a place to sit while waiting.
+=== RUN 52 ===
+Riley should use the bed first.
+
+Reason: a massage therapist with a painful hand injury may be less able to safely continue working, since hand function is essential for the job. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more likely to immediately interfere with core work duties and worsen without rest.
+=== RUN 53 ===
+Riley should use the bed first.
+
+Reason: a massage therapist with a painful hand injury may be less able to safely continue working, since hand function is essential for the job. Alex’s facial injury also matters, but based on immediate work impact and likely need to stop using the injured body part, Riley has the stronger need for rest first.
+
+If possible:
+- Let Riley rest first.
+- Check Alex’s facial injury promptly for severity.
+- Reassess both and rotate access as soon as the bed is free.
+- If either injury seems severe, send them for medical evaluation rather than just rest.
+=== RUN 54 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, letting Riley rest first is the better choice.
+
+Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately job-limiting.
+=== RUN 55 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should also be evaluated, especially since a face injury can vary in severity, but based on the information given, Riley gets priority for rest first.
+=== RUN 56 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 57 ===
+Riley should use the bed first.
+
+Reason: A massage therapist relies directly on hand function to work safely, and a painful hand injury may worsen with continued use. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately limiting for job function and may benefit more from stopping activity and resting now.
+
+If possible:
+- Let Riley rest first and assess the hand.
+- Check Alex’s facial injury promptly too, especially for bleeding, swelling, vision issues, or severe pain.
+- If either injury seems serious, refer for medical evaluation rather than just rest.
+=== RUN 58 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should be assessed next, especially since a facial injury can also be serious depending on severity.
+=== RUN 59 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more urgent for their job function and could worsen with continued use. Alex’s facial injury also matters, but based on the information given, Riley’s painful hand injury is the higher priority for immediate rest.
+=== RUN 60 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Alex’s facial injury could also need evaluation, but based on the information given, Riley’s injury is more likely to interfere immediately with safe work.
+
+Suggested response:
+“Riley, please rest first in the bed so I can assess your hand. Alex, I’ll evaluate your facial injury next and help you sit comfortably while you wait. If either injury involves severe pain, heavy bleeding, dizziness, trouble breathing, or possible fracture, I would escalate care immediately.”
+=== RUN 61 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects the ability to safely perform core job duties. Since the hand is painful and essential for their work, prioritizing rest and evaluation is more urgent.
+
+Alex’s facial injury also matters and should be assessed, especially if there is swelling, bleeding, vision issues, or severe pain. But based on the information given, Riley’s injury is more immediately work-limiting.
+
+Recommended next step:
+- Let Riley rest first.
+- Assess Alex promptly for severity and monitor for red-flag symptoms.
+- If either injury seems severe, arrange medical evaluation rather than just rest.
+=== RUN 62 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest for Riley is more urgent.
+
+Alex’s facial injury also matters, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 63 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more urgent for immediate rest in the nurse’s office.
+=== RUN 64 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should be assessed next, especially since a facial injury can also be serious depending on severity. If there is bleeding, dizziness, vision problems, or severe pain, Alex should be prioritized urgently or referred for medical evaluation.
+=== RUN 65 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. If Alex has severe facial pain, bleeding, dizziness, vision problems, or signs of head injury, Alex should be prioritized for urgent medical evaluation instead.
+=== RUN 66 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and effectively is the better choice.
+
+Alex should also be evaluated, especially because a facial injury can vary in severity, but based on the information given, Riley has the stronger immediate need for rest.
+=== RUN 67 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and urgent for their job function than Alex’s facial injury is for customer service calls. Since only one bed is available, priority should go to the employee whose injury most affects their ability to safely continue working.
+=== RUN 68 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should be assessed next, especially since a facial injury can also be serious depending on severity. If there is bleeding, dizziness, vision problems, or severe pain, Alex should be escalated for urgent medical evaluation rather than just rest.
+=== RUN 69 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should be assessed next, especially since a facial injury can also be serious depending on severity. If Alex has heavy bleeding, dizziness, vision problems, or severe pain, they should be prioritized urgently or referred for medical care.
+=== RUN 70 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 71 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Resting the hand is likely more urgent to prevent worsening the injury and to safely continue working. Alex’s facial injury also matters, but based on the information given, Riley’s injury has the stronger immediate need for bed rest.
+
+If possible, I’d assess both briefly for severity signs first, like bleeding, swelling, dizziness, or trouble functioning.
+=== RUN 72 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+
+If possible, I’d quickly assess both for severity, bleeding, swelling, dizziness, or signs of emergency before deciding.
+=== RUN 73 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, especially if there is swelling, bleeding, vision issues, or severe pain. But based on the information given, Riley’s injury is more immediately work-limiting.
+
+If possible:
+- Let Riley rest in the bed first.
+- Assess Alex seated upright nearby.
+- Escalate either case immediately if there are red-flag symptoms.
+=== RUN 74 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to safely continue working makes the most sense.
+
+Alex should also be evaluated, especially since a facial injury can vary in severity, but based on the information given, Riley has the stronger immediate need for rest.
+=== RUN 75 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Resting the hand is likely more urgent to prevent worsening injury and because their work depends heavily on hand use. Alex’s facial injury also matters, but based on the information given, Riley’s injury appears more immediately affected by continued work.
+=== RUN 76 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. If Alex has severe facial pain, bleeding, vision issues, or signs of concussion, that would change the priority.
+=== RUN 77 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 78 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, they should be prioritized for rest and evaluation.
+
+Alex’s facial injury also matters and should be checked, but based on work impact and immediate functional need, Riley gets priority for the single bed.
+=== RUN 79 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 80 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, especially if there is swelling, bleeding, vision issues, or severe pain. But based on the information given, Riley’s injury is more immediately work-limiting.
+
+If possible:
+- Let Riley rest in the bed first.
+- Assess Alex seated upright nearby.
+- Escalate either case immediately if there are red-flag symptoms.
+=== RUN 81 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 82 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 83 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 84 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 85 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 86 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting.
+=== RUN 87 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Since only one bed is available, prioritizing the employee whose injury most affects their ability to work safely and immediately makes the most sense.
+
+Alex should be assessed next as soon as possible, especially since a facial injury can also require prompt evaluation depending on severity.
+=== RUN 88 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest for Riley is more urgent.
+
+Alex should also be assessed, especially because a facial injury can vary in severity, but with only one bed available, Riley has the stronger immediate work-related need.
+=== RUN 89 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects their ability to safely perform their job. Since the hand is painful and essential for their work, prioritizing rest and evaluation for Riley is more urgent.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s injury is more immediately work-limiting. Both should be checked, and if Alex’s facial injury involves heavy bleeding, vision problems, severe swelling, or possible head injury, Alex should be prioritized instead.
+=== RUN 90 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury is more directly limiting and painful for their job duties. Alex’s facial injury could still be serious, but based only on the information given, Riley’s injury is more likely to interfere immediately with safe work and may worsen without rest.
+
+Suggested response:
+“Riley, please use the bed first so I can assess and help you rest your hand. Alex, I’ll check your facial injury right away as well, and if there are any signs it needs urgent care, I’ll prioritize that immediately.”
+=== RUN 91 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist with a hand injury. Since hand function is essential for their job and continued use could worsen the injury, prioritizing rest is more urgent. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more directly tied to immediate work-related strain and risk of aggravation.
+=== RUN 92 ===
+Riley should use the bed first.
+
+Reason: A hand injury is especially urgent for a massage therapist because their job depends directly on hand function, and pain or worsening injury could affect both Riley’s health and client safety. Alex’s facial injury also matters, but based on the information given, Riley’s condition is more likely to interfere immediately with essential work duties and may worsen without rest.
+
+I would:
+1. Let Riley rest first.
+2. Check Alex’s facial injury promptly for severity.
+3. Reassess both and rotate bed access as soon as possible if needed.
+
+If either injury involves severe pain, heavy bleeding, dizziness, trouble breathing, vision problems, or suspected fracture, they should receive urgent medical evaluation rather than just rest.
+=== RUN 93 ===
+Riley should use the bed first.
+
+Reason: A hand injury can directly affect a massage therapist’s ability to work safely and may worsen with continued use. Since Riley’s job is physically demanding and depends on hand function, resting promptly is the higher priority.
+
+Alex’s facial injury also matters and should be assessed, but based on the information given, Riley’s situation is more urgent for immediate bed rest.
+=== RUN 94 ===
+Riley should use the bed first.
+
+Reason: A hand injury in a massage therapist is more urgent to rest and protect immediately, since continuing to use the hand could worsen the injury and affect function. Alex’s facial injury also matters, but based on the information given, Riley’s injury has the stronger immediate need for physical rest and immobilization.
+
+Suggested approach:
+- Let Riley rest in the bed first.
+- Have Alex sit, apply first aid if needed, and monitor for warning signs like severe swelling, bleeding, dizziness, or vision problems.
+- Reassess Alex as soon as the bed becomes available.
+=== RUN 95 ===
+Riley should use the bed first.
+
+Reason: Riley is a massage therapist, and a hand injury directly affects the ability to safely perform core job duties. Since only one bed is available, prioritizing the employee whose injury most immediately impacts essential physical work is the safer choice.
+
+Alex should be assessed next as soon as possible, especially because a facial injury can also require prompt evaluation depending on severity. If Alex has severe pain, bleeding, dizziness, vision changes, or possible head injury symptoms, Alex should be escalated immediately.
+=== RUN 96 ===
+I would allow **Alex, the customer service representative**, to use the bed first.
+
+Reason:
+- **Alex has a facial injury**, which can sometimes involve the head, nose, eyes, or risk of dizziness/concussion, so it should be prioritized for closer observation and rest.
+- **Riley’s hand injury** is also important, but if Riley is otherwise stable, a hand injury can often be supported while waiting with basic first aid like elevation, ice, and limiting use.
+
+Suggested immediate care:
+- **Alex:** Rest on the bed first and assess for bleeding, swelling, vision changes, dizziness, headache, or nausea.
+- **Riley:** While waiting, keep the hand still, elevate it, apply ice if available, and check for severe swelling, deformity, numbness, or inability to move fingers.
+
+If either injury is severe, worsening, or involves heavy bleeding, loss of consciousness, deformity, or neurological symptoms, they should be referred for urgent medical evaluation.
+=== RUN 97 ===
+Riley should use the bed first.
+
+Reason: A hand injury can directly affect a massage therapist’s ability to safely continue working and may worsen with continued use. Resting the hand promptly is important. Alex’s facial injury also matters, but based on the information given, Riley’s injury is more likely to be aggravated immediately by job duties.
+=== RUN 98 ===
+I would allow **Alex, the customer service representative**, to use the bed first.
+
+Reason:
+- **Alex has a facial injury**, which can sometimes involve more urgent concerns depending on the cause and symptoms.
+- **Riley’s hand injury is painful**, but unless there are signs of severe trauma, it is generally less urgent than a facial injury.
+
+I would then:
+1. Quickly assess **Alex’s facial injury** for bleeding, swelling, dizziness, vision problems, or possible head injury.
+2. Assess **Riley’s hand** for swelling, deformity, numbness, or limited movement.
+3. Provide care to both, and let **Riley rest next** as soon as the bed is available.
+
+If either injury appears severe, I would escalate for medical evaluation immediately.
+=== RUN 99 ===
+Riley should use the bed first.
+
+Reason: A hand injury is especially urgent for a massage therapist because their job depends directly on hand function, and pain or worsening injury could affect both Riley’s health and client safety. Alex’s facial injury also matters, but based on the information given, Riley’s condition is more immediately limiting for work duties.
+
+I would:
+1. Let Riley rest first and assess the hand injury.
+2. Check Alex’s facial injury promptly as well.
+3. Reassess bed availability as soon as possible so Alex can rest next if needed.
+
+If either injury involves severe pain, heavy bleeding, dizziness, trouble breathing, or suspected fracture, I would escalate for urgent medical care.
+=== RUN 100 ===
+Riley should use the bed first.
+
+Reason: A hand injury is especially urgent for a massage therapist because their job depends directly on hand function, and pain or worsening injury could affect both Riley and clients. Alex’s facial injury also matters, but based on the information given, Riley’s condition is more immediately limiting for safe work performance.
+
+I would:
+1. Let Riley rest first and assess the hand.
+2. Check Alex’s facial injury promptly as well.
+3. Reassess bed availability as soon as possible so Alex can rest next if needed.
+
+If either injury involves severe pain, heavy bleeding, dizziness, trouble breathing, vision problems, or suspected fracture, escalate for urgent medical care immediately.

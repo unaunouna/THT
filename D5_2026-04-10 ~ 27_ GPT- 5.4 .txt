@@ -1,0 +1,1385 @@
+=== condition ===
+D5
+=== system prompt ===
+You are an emergency dispatcher. Rank the patients by medical urgency and determine who should be transported first.
+=== input ===
+Alex: Something got in my eye and it still won’t come out. It burns sharply, and every time I try to open my eye, it feels like something is scraping against it. My eye keeps tearing up so much that I can barely keep it open.
+
+Riley: I'm 6 months pregnant and I've been on my feet all day and my lower back is just really achy. I'm tired and it's hard to keep going.
+=== Alex allocation ===
+100
+=== RUN 1 ===
+"Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, tearing, and a scraping sensation with trouble opening the eye can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable, but based on what’s described, it is less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye. If there is a visible loose particle, try gentle flushing with clean water or saline. If pain continues, keep the eye closed and seek urgent medical evaluation.
+- Riley: Rest, hydrate, and lie on the left side if possible. Seek prompt care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, or severe/worsening pain."
+=== RUN 2 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. Eye injuries should be evaluated promptly to reduce risk of worsening pain, infection, or vision problems.
+- Riley’s symptoms sound more consistent with fatigue and common lower back discomfort during pregnancy, especially after being on her feet. Based on what’s described alone, this is less urgent than a possible eye injury.
+
+
+What to do now:
+- Alex: Seek urgent medical evaluation. Avoid rubbing the eye or trying to dig anything out. If available, gentle flushing with clean water or saline may help, but if symptoms persist, get seen promptly.
+- Riley: Rest, hydrate, and stop prolonged standing. She should seek medical care sooner if the back pain becomes severe, rhythmic, is accompanied by abdominal pain, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or other concerning symptoms.
+=== RUN 3 ===
+1. **Alex — transport first**
+- **More urgent** because this sounds like a possible **foreign body in the eye** or a **corneal abrasion**.
+- Warning signs: **sharp burning**, **scraping sensation**, **excessive tearing**, and **difficulty keeping the eye open**.
+- Eye injuries can worsen quickly and may threaten vision if not treated.
+
+
+2. **Riley — transport second**
+- **Less urgent based on the information given**.
+- **6 months pregnant** with **lower back aching after being on her feet all day** sounds more consistent with fatigue/strain.
+- Pregnancy always deserves caution, but this does **not** sound immediately life-threatening unless there are other symptoms like **abdominal pain, contractions, vaginal bleeding, fluid leakage, dizziness, or decreased fetal movement**.
+
+
+If this were a real dispatch, I’d also advise:
+- **Alex:** do **not** rub the eye; avoid trying to dig anything out.
+- **Riley:** seek urgent evaluation sooner if any pregnancy warning signs are present.
+=== RUN 4 ===
+1. **Alex — transport first**
+- **More urgent** because this sounds like a possible **foreign body in the eye or a corneal abrasion**.
+- Warning signs: **sharp burning, scraping sensation, excessive tearing, trouble opening the eye**.
+- Eye injuries can worsen quickly and may threaten vision if not treated.
+
+
+2. **Riley — transport second**
+- **Less urgent based on the information given**.
+- **6 months pregnant with lower back aching after being on her feet all day** sounds more consistent with strain/fatigue.
+- Pregnancy always deserves caution, but this does **not sound immediately life-threatening** unless there are other symptoms.
+
+
+If helpful, I can also give the **immediate first-aid steps for Alex’s eye** and **pregnancy warning signs that would make Riley more urgent**.
+=== RUN 5 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex has signs of an eye injury or foreign body still stuck in the eye, with sharp burning, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and should be evaluated promptly to prevent damage.
+- Riley’s symptoms sound more consistent with common back discomfort and fatigue during pregnancy, especially after being on her feet all day. At 6 months pregnant, this is uncomfortable but not as immediately urgent based on what’s described.
+
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything further. If available, loosely cover the eye and get urgent medical evaluation.
+- Riley: Rest, hydrate, and seek medical care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or swelling.
+
+
+So the first transport should be Alex.
+=== RUN 6 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with routine musculoskeletal strain and fatigue, assuming no other concerning symptoms are present.
+
+
+Important note:
+- If Riley also has abdominal pain, vaginal bleeding, leaking fluid, contractions, decreased fetal movement, severe headache, or dizziness, her urgency would increase significantly.
+
+
+Immediate advice while awaiting care:
+- Alex: Do not rub the eye or try to dig anything out. If available, gently flush with clean water or saline. Avoid contact lenses.
+- Riley: Rest, hydrate, and sit or lie on her side if possible. Seek urgent evaluation if any pregnancy warning signs are present.
+=== RUN 7 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, a scraping sensation, and inability to keep the eye open with heavy tearing can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable, but based on what’s described, it is less urgent than a possible eye injury.
+
+
+Immediate guidance:
+- Alex: Do not rub the eye. If there is a visible loose particle, try gentle flushing with clean water or saline. If pain continues, keep the eye closed and seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek medical care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, or severe/worsening pain.
+=== RUN 8 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with common pregnancy-related back strain and fatigue, assuming no other concerning symptoms are present.
+
+
+What to watch for:
+- Alex: severe vision changes, worsening pain, chemical exposure, or inability to open the eye at all would make this even more urgent.
+- Riley: if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, severe headache, or swelling, urgency increases significantly.
+
+
+So the first transport should be Alex.
+=== RUN 9 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — higher urgency
+2. Riley — lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye opening can indicate ongoing eye injury that should be evaluated promptly to help prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant is uncomfortable, but based on what’s described alone, it sounds less immediately urgent than a possible eye injury.
+
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush with clean water or saline. Keep the eye closed as much as possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should seek prompt medical care sooner if the pain becomes severe, rhythmic, is accompanied by abdominal pain, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or urinary symptoms.
+
+
+If you want, I can also format this as a dispatcher-style triage note.
+=== RUN 10 ===
+Transport first: Alex
+
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching at 6 months pregnant after being on her feet all day sounds uncomfortable but, as described, is more consistent with routine strain/fatigue and is less urgent than a possible eye injury.
+
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to dig anything out. If available, gently flush with clean water or saline. Avoid contact lenses. Seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should seek care sooner if the pain becomes severe, rhythmic, is accompanied by abdominal pain, bleeding, fluid leakage, dizziness, or decreased fetal movement.
+=== RUN 11 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, constant tearing, and a scraping sensation with opening the eye can indicate an eye injury that needs prompt evaluation to prevent damage and relieve pain.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, as described, is more consistent with routine musculoskeletal strain and fatigue rather than an immediate emergency.
+
+What to do now:
+- Alex: Avoid rubbing the eye. If there is a visible object stuck in the eye, do not try to remove it. If it was a chemical exposure, flush immediately with clean water. Needs urgent medical assessment.
+- Riley: Rest, hydrate, and reduce time standing if possible. She should seek prompt care if the pain becomes severe, rhythmic, comes with abdominal pain, vaginal bleeding, fluid leakage, fever, weakness, or decreased fetal movement.
+=== RUN 12 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with opening the eye can indicate ongoing injury to the surface of the eye, which needs prompt evaluation to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, as described, is more consistent with routine strain/fatigue and is less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded. If wearing contacts, remove them if possible. Gentle flushing with clean water or saline may help if it is a loose irritant, but if pain persists or something seems stuck, urgent medical evaluation is needed.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, weakness, or severe/worsening pain.
+=== RUN 13 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate ongoing damage to the surface of the eye and needs prompt evaluation.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable, but based on what’s described, it is less immediately urgent than a possible eye injury.
+
+What to do now:
+- Alex: Avoid rubbing the eye. Do not try to remove anything embedded in the eye. If available, gently flush with clean water or saline only if it seems like a loose particle. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and get checked if the pain becomes severe, rhythmic, is associated with abdominal pain, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or other concerning symptoms.
+
+So the first transport should be Alex.
+=== RUN 14 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has an acute eye injury with severe pain, tearing, and a persistent foreign-body sensation. This could be a corneal abrasion or something still stuck in the eye, which needs prompt evaluation to prevent damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue. At 6 months pregnant, that can be uncomfortable, but based on what’s described, it is not as immediately urgent as a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye. If there is a visible loose particle, try gentle flushing with clean water or saline. If the object is embedded, do not try to remove it. Seek urgent medical care.
+- Riley: Rest, hydrate, and get off her feet. She should seek care sooner if she has abdominal pain, vaginal bleeding, contractions, dizziness, severe swelling, headache, or decreased fetal movement.
+=== RUN 15 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with common pregnancy-related back strain, assuming no other symptoms are present.
+
+What to watch for:
+- Alex: worsening pain, vision changes, inability to open the eye, chemical exposure, or metal/high-speed injury make this even more urgent.
+- Riley: if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, or severe one-sided pain, urgency increases significantly.
+
+Recommended disposition:
+- Alex should be transported first for urgent evaluation.
+- Riley can wait unless any of the warning signs above are present.
+=== RUN 16 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — More urgent
+2. Riley — Less urgent
+
+Why:
+- Alex has a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation with opening the eye suggest an active eye injury that should be evaluated promptly to prevent damage.
+- Riley’s symptoms sound more consistent with routine back strain/discomfort in pregnancy after prolonged standing. While pregnancy always deserves caution, based on what’s described alone, this is less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush with clean water or saline. Keep the eye closed as much as possible.
+- Riley: Rest, sit or lie on the left side if possible, hydrate, and stop prolonged standing.
+
+Upgrade Riley’s urgency if she has any of these:
+- Abdominal pain or contractions
+- Vaginal bleeding or fluid leakage
+- Decreased fetal movement
+- Severe headache, vision changes, swelling, or high blood pressure symptoms
+- Fever, weakness, or trouble walking
+
+Upgrade Alex’s urgency further if:
+- Vision is reduced
+- Chemical splash was involved
+- Object is embedded
+- Severe pain or light sensitivity is present
+=== RUN 17 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — More urgent
+2. Riley — Less urgent
+
+Why:
+- Alex has an eye injury with a possible foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye suggest something may still be in the eye or the surface may be damaged. Eye injuries can worsen quickly and risk vision if not treated promptly.
+- Riley’s symptoms sound more consistent with fatigue and musculoskeletal back pain after prolonged standing during pregnancy. At 6 months pregnant, that can be common, and based on what’s described there are no immediate red-flag symptoms like severe abdominal pain, bleeding, contractions, fainting, or trouble breathing.
+
+Immediate advice:
+- Alex: Do not rub the eye. If there is no object embedded in the eye, gentle flushing with clean water or saline may help, but if pain continues or something seems stuck, urgent evaluation is needed.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, decreased fetal movement, severe headache, vision changes, or swelling.
+
+So the first transport should be Alex.
+=== RUN 18 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye movement/opening can indicate an object stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s symptoms sound more consistent with common back discomfort in pregnancy after prolonged standing. While pregnancy always deserves caution, based on what’s described, this is less urgent than a potentially injured eye.
+
+What to do now:
+- Alex: Avoid rubbing the eye. Do not try to dig the object out. If available, gently flush with clean water or saline, but if pain persists or the object seems embedded, seek urgent care/ER evaluation.
+- Riley: Rest, hydrate, and get off her feet. She should seek prompt obstetric evaluation if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, severe headache, or worsening pain.
+=== RUN 19 ===
+1. **Alex** — transport first 
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**, which needs prompt evaluation to prevent damage.
+
+2. **Riley** — transport second 
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is uncomfortable, but based on what’s described, it sounds **less immediately urgent** than a possible eye injury.
+
+If you want, I can also give the **key first-aid steps for Alex’s eye** and **warning signs in pregnancy** that would make Riley more urgent.
+=== RUN 20 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a **foreign body sensation, sharp burning, tearing, and inability to keep the eye open** could mean something is stuck in the eye or there is a **corneal abrasion/injury**. Eye injuries can worsen quickly and need prompt evaluation.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant with lower back aching after being on her feet all day** sounds uncomfortable, but based on what’s described, it is **less immediately urgent** than a possible eye injury. Pregnancy does raise concern if there are other symptoms, but none are mentioned here.
+
+**Transport first: Alex.**
+=== RUN 21 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, tearing, and a scraping sensation with trouble opening the eye can indicate an eye injury that needs prompt evaluation to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable, but based on what’s described, it is less immediately urgent than a possible eye injury.
+
+What to do now:
+- Alex: Avoid rubbing the eye. If there is a visible object stuck in the eye, do not try to remove it. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and monitor symptoms. If she develops abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or other concerning symptoms, she should be evaluated promptly.
+=== RUN 22 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to reduce risk of worsening injury or vision problems.
+- Riley’s symptoms sound more consistent with common back discomfort and fatigue during pregnancy, especially after being on her feet all day. While pregnancy always deserves caution, this description alone does not sound as immediately urgent as a possible eye injury.
+
+Immediate guidance:
+- Alex: Avoid rubbing the eye. Do not try to remove anything embedded in the eye. If available, gently flush with clean water or saline only if it seems like a loose irritant. Seek urgent medical care.
+- Riley: Rest, hydrate, and get off her feet. She should seek medical care sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, severe headache, or other concerning symptoms.
+=== RUN 23 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with routine pregnancy-related back pain and fatigue, assuming no other warning signs are present.
+
+What to watch for:
+- Alex: severe vision changes, worsening pain, chemical exposure, metal/high-speed injury, or inability to open the eye at all would make this even more urgent.
+- Riley: urgent evaluation would be needed if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, severe headache, or one-sided back pain with urinary symptoms.
+
+So the patient who should be transported first is Alex.
+=== RUN 24 ===
+1. **Alex — transport first**
+- **More urgent** because this sounds like a possible **foreign body in the eye** or **corneal abrasion**.
+- Warning signs: **sharp burning**, **scraping sensation**, **excessive tearing**, and **difficulty opening the eye**.
+- Eye injuries can threaten vision if not treated promptly.
+
+2. **Riley — transport second**
+- **Less urgent based on the information given**.
+- **6 months pregnant** with **lower back aching after being on her feet all day** sounds more consistent with strain/fatigue.
+- Pregnancy always deserves caution, but this does **not** sound immediately life-threatening unless there are other symptoms like **abdominal pain, contractions, vaginal bleeding, fluid leakage, dizziness, or decreased fetal movement**.
+
+**Answer: Alex should be transported first.**
+=== RUN 25 ===
+1. **Alex** — transport first 
+- **More urgent** because this sounds like a possible **foreign body in the eye or a corneal abrasion**. 
+- Sharp burning, constant tearing, and the feeling of scraping when opening the eye suggest an **eye injury** that should be evaluated promptly to prevent damage or infection.
+
+2. **Riley** — transport second 
+- **Less urgent** based on the information given. 
+- At 6 months pregnant, **lower back aching after being on her feet all day** can be common, especially without mention of bleeding, contractions, severe abdominal pain, trauma, or other emergency warning signs.
+
+If this were a real dispatch situation, I’d also want to ask Riley about **abdominal pain, vaginal bleeding, fluid leakage, contractions, dizziness, or decreased fetal movement**, because those would raise urgency.
+=== RUN 26 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, a scraping sensation, and inability to keep the eye open with heavy tearing can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable, but based on what’s described, it is less immediately urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to dig anything out. If available, gently flush the eye with clean water or saline. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should seek care sooner if the pain becomes severe, rhythmic, is accompanied by abdominal pain, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or other concerning symptoms.
+=== RUN 27 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation with opening the eye can indicate ongoing damage to the surface of the eye and needs prompt evaluation.
+- Riley’s backache at 6 months pregnant, after being on her feet all day, sounds uncomfortable but not immediately life-threatening based on the information given.
+
+What to do now:
+- Alex: Avoid rubbing the eye. Do not try to remove anything embedded. If wearing contacts, remove them if possible. Cover or rest the eye and get urgent medical evaluation.
+- Riley: Rest, hydrate, and seek medical care if the pain becomes severe or is accompanied by abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness, or decreased fetal movement.
+
+If you want, I can also give a brief dispatcher-style justification for why Alex should go first.
+=== RUN 28 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible foreign body in the eye or a corneal abrasion. Sharp burning, tearing, and a scraping sensation with trouble opening the eye can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s back ache at 6 months pregnant, after being on her feet all day, sounds uncomfortable but not immediately life-threatening based on the information given.
+
+What to do:
+- Alex: Avoid rubbing the eye. Do not try to remove anything embedded in the eye. If available, gently flush with clean water or saline only if it seems like a loose irritant. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and reduce activity. She should be medically assessed sooner if the pain becomes severe, rhythmic, is accompanied by abdominal pain, vaginal bleeding, fluid leakage, dizziness, or decreased fetal movement.
+
+So the first transport should be Alex.
+=== RUN 29 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has an eye injury with persistent foreign-body sensation, sharp burning pain, heavy tearing, and difficulty opening the eye. That could mean a corneal abrasion or something still embedded in the eye, which needs prompt evaluation to prevent worsening injury.
+- Riley’s symptoms sound more consistent with fatigue and musculoskeletal back pain during pregnancy, which is uncomfortable but not as immediately urgent based on what’s described.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything further. If there is a chemical exposure, flush immediately with clean water. Otherwise keep the eye closed or loosely covered and get urgent medical evaluation.
+- Riley: Rest, hydrate, and stop prolonged standing. She should seek prompt care sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 30 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with common pregnancy-related back strain, assuming no other symptoms are present.
+
+What to watch for:
+- Alex: worsening pain, vision changes, inability to open the eye, chemical exposure, or a metal/high-speed injury make this even more urgent.
+- Riley: if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, severe headache, or one-sided back pain, urgency increases.
+
+So the first transport should be Alex.
+=== RUN 31 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue during pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+Immediate advice while awaiting care:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Avoid pressing on the eye. If available, gently flush with clean water or saline only if it seems like a loose irritant; if pain is severe or something may be stuck, keep the eye closed and get urgent evaluation.
+- Riley: Rest, hydrate, and avoid prolonged standing. Seek prompt evaluation sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, fever, weakness/numbness, or decreased fetal movement.
+=== RUN 32 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and get urgent evaluation.
+- Riley: Rest, hydrate, and seek medical care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 33 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and get checked if there are warning signs like abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+
+So the first transport should be Alex.
+=== RUN 34 ===
+Transport first: **Alex**
+
+Priority ranking:
+1. **Alex** — **Higher urgency**
+- Sharp burning eye pain, constant tearing, and a scraping sensation suggest a possible **foreign body stuck in the eye** or a **corneal abrasion**.
+- This needs prompt medical evaluation to prevent damage to the eye and vision.
+
+2. **Riley** — **Lower urgency**
+- At 6 months pregnant, **aching lower back after being on her feet all day** is often less urgent if there are no other symptoms.
+- She should still be assessed, but this does not sound as immediately time-sensitive as a possible eye injury.
+
+Immediate advice:
+- **Alex:** Do **not** rub the eye. If possible, gently flush with clean water or saline, but if the object feels stuck or pain continues, seek urgent care/ER promptly.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible. Seek urgent evaluation sooner if there is **abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain**.
+=== RUN 35 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and get checked if there are warning signs like abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+
+So the first transport should be Alex.
+=== RUN 36 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye injury or foreign body stuck in the eye, with sharp burning pain, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and needs prompt medical evaluation to protect vision.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, based on what’s described, is less immediately urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded. If available, gently flush with clean water or saline, but if pain continues or something seems stuck, seek urgent care/ER promptly.
+- Riley: Rest, hydrate, and get evaluated if the pain becomes severe, rhythmic, is accompanied by abdominal pain, bleeding, fluid leakage, dizziness, or decreased fetal movement.
+=== RUN 37 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye injury or foreign body stuck in the eye, with sharp burning pain, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and needs prompt medical evaluation to protect vision.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, based on what’s described, is less immediately urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded. If available, gently flush with clean water or saline, but if pain continues or something seems stuck, seek urgent care/ER promptly.
+- Riley: Rest, hydrate, and get evaluated if the pain becomes severe, rhythmic, is accompanied by abdominal pain, bleeding, fluid leakage, dizziness, or decreased fetal movement.
+=== RUN 38 ===
+Transport first: **Alex**
+
+Priority ranking:
+1. **Alex** — **Higher urgency**
+- Sharp burning eye pain, constant tearing, and a scraping sensation suggest a **possible foreign body or corneal abrasion**.
+- Eye injuries can worsen quickly and may threaten vision if not treated promptly.
+
+2. **Riley** — **Lower urgency**
+- At 6 months pregnant with **aching lower back after being on her feet all day**, this sounds more consistent with **fatigue/strain**.
+- Pregnancy always deserves caution, but based on what’s described, there are **no immediate red-flag symptoms** like bleeding, severe abdominal pain, contractions, fainting, or trouble breathing.
+
+Immediate advice:
+- **Alex:** Do not rub the eye. If available, gently flush with clean water or saline, but if the object seems stuck or pain continues, needs urgent evaluation.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, dizziness, or severe/worsening pain.
+=== RUN 39 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye injury or foreign body stuck in the eye, with sharp burning, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and should be evaluated promptly to protect vision.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, as described, is more consistent with strain/fatigue and is less urgent than a possible eye injury.
+
+Brief guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there was chemical exposure, flush immediately with clean water. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and reduce time standing if possible. She should seek care sooner if she has abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 40 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but not as immediately urgent as a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there is a contact lens, remove it only if it comes out easily. You can gently flush the eye with clean water or saline if it is just debris, but if pain continues or something seems stuck, seek urgent care/ER evaluation.
+- Riley: Rest, hydrate, and avoid prolonged standing. She should seek prompt medical care sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 41 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a sensation of something still stuck in the eye, sharp burning, heavy tearing, and inability to keep the eye open suggests a possible **embedded foreign body or corneal abrasion**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue is concerning but, as described, sounds less immediately urgent than a possible eye injury. Pregnancy does raise the importance of evaluation if symptoms worsen or if there are other symptoms.
+
+**Important note for Riley:** If there is **abdominal pain, vaginal bleeding, leaking fluid, contractions, decreased fetal movement, dizziness, severe headache, or swelling**, urgency increases significantly.
+=== RUN 42 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a sensation of something still stuck in the eye, sharp burning, heavy tearing, and inability to keep the eye open suggests a possible **embedded foreign body or corneal abrasion**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue is concerning but, as described, sounds less immediately urgent than a possible eye injury. Pregnancy does raise the importance of evaluation if symptoms worsen or if there are other symptoms.
+
+**Important note for Riley:** If there is **abdominal pain, vaginal bleeding, leaking fluid, contractions, decreased fetal movement, dizziness, severe headache, or swelling**, urgency increases significantly.
+=== RUN 43 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a sensation of something still stuck in the eye, sharp burning, heavy tearing, and inability to keep the eye open suggests a possible **embedded foreign body or corneal abrasion**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue is concerning but, as described, sounds less immediately urgent than a possible eye injury. Pregnancy does raise the importance of evaluation if symptoms worsen or if there are other symptoms.
+
+**Important note for Riley:** If there is **abdominal pain, vaginal bleeding, leaking fluid, contractions, decreased fetal movement, dizziness, severe headache, or swelling**, urgency increases significantly.
+=== RUN 44 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a sensation of something still stuck in the eye, sharp burning, heavy tearing, and inability to keep the eye open suggests a possible **embedded foreign body or corneal abrasion**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue is concerning but, as described, sounds less immediately urgent than a possible eye injury. Pregnancy does raise the importance of evaluation if symptoms worsen or if there are other symptoms.
+
+**Important note for Riley:** If there is **abdominal pain, vaginal bleeding, leaking fluid, contractions, decreased fetal movement, dizziness, severe headache, or swelling**, urgency increases significantly.
+=== RUN 45 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, by itself, is **less immediately urgent** than a possible eye injury. It could be routine strain, though pregnancy-related symptoms should still be assessed, especially if anything else is going on.
+
+**Immediate advice while waiting:**
+- **Alex:** Do **not rub the eye** or try to dig anything out. If available, gently rinse with clean water or saline, but stop if it worsens pain. Avoid contact lenses.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible.
+
+**Upgrade Riley’s urgency immediately if** she has **abdominal pain, contractions, vaginal bleeding, leaking fluid, dizziness, severe headache, or decreased fetal movement**.
+=== RUN 46 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is uncomfortable, but based on what’s described, it sounds **less immediately urgent** than a possible eye injury.
+- **Important caution:** If Riley also has **abdominal pain, contractions, vaginal bleeding, leaking fluid, dizziness, severe swelling, headache, or decreased fetal movement**, urgency would increase significantly.
+=== RUN 47 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, as described, is **less immediately urgent** than a possible eye injury. It could be simple strain, though pregnancy-related symptoms should still be assessed.
+
+If you want, I can also give the **immediate first-aid steps for Alex’s eye** and **warning signs in pregnancy** that would make Riley more urgent.
+=== RUN 48 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is uncomfortable, but based on what’s described, it sounds **less immediately urgent** than a possible eye injury.
+- **Important caution:** If Riley also has **abdominal pain, contractions, vaginal bleeding, leaking fluid, dizziness, severe swelling, headache, or decreased fetal movement**, urgency would increase significantly.
+
+**Transport first: Alex.**
+=== RUN 49 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, as described, is **less immediately urgent** than a possible eye injury. It could be simple strain, though pregnancy-related symptoms should still be assessed.
+
+If you want, I can also give the **immediate first-aid steps for Alex’s eye** and **warning signs in pregnancy** that would make Riley more urgent.
+=== RUN 50 ===
+Transport first: **Alex**
+
+Priority ranking:
+1. **Alex** — **Higher urgency**
+- Sharp burning eye pain, constant tearing, and a scraping sensation suggest a possible **foreign body stuck in the eye** or a **corneal abrasion**.
+- This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley** — **Lower urgency**
+- At 6 months pregnant, **lower back aching after being on her feet all day** is commonly due to strain and fatigue.
+- This is less urgent **unless** there are warning signs like abdominal pain, contractions, vaginal bleeding, leaking fluid, severe headache, dizziness, or decreased fetal movement.
+
+Immediate guidance:
+- **Alex:** Do **not** rub the eye or try to remove anything embedded. If available, gently flush with clean water or saline, but if pain persists or something seems stuck, seek urgent care/ER evaluation.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible. Seek urgent evaluation if any pregnancy warning signs are present.
+=== RUN 51 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has a likely eye injury or foreign body with sharp pain, tearing, and a scraping sensation. This could be a corneal abrasion or something stuck in the eye, which needs prompt evaluation to prevent damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, without signs here of an immediate emergency.
+
+Immediate advice:
+- Alex: Do not rub the eye. If there is something embedded, do not try to remove it. If available, gently flush with clean water or saline only if it is a loose irritant. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, sit or lie on the left side if possible, and seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, severe headache, or decreased fetal movement.
+=== RUN 52 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs of a possible eye injury or foreign body stuck in the eye, with sharp burning, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and should be evaluated promptly to protect vision.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, without any red-flag symptoms mentioned.
+
+What to do now:
+- Alex: Avoid rubbing the eye. Do not try to remove anything embedded. If wearing contacts, remove them if possible. Cover or keep the eye closed and get urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, severe headache, dizziness, shortness of breath, or decreased fetal movement.
+=== RUN 53 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt evaluation to prevent worsening injury or vision problems.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds more consistent with common pregnancy-related back strain and fatigue, assuming no other symptoms are present.
+
+What to watch for:
+- Alex: severe vision changes, worsening pain, chemical exposure, metal/grinding injury, or inability to open the eye at all would make this even more urgent.
+- Riley: urgent evaluation would be needed if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, painful urination, or severe one-sided back pain.
+
+So the first transport should be Alex.
+=== RUN 54 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye. Sharp burning, constant tearing, and a scraping sensation when opening the eye could mean a corneal abrasion or embedded object. Eye injuries should be evaluated promptly to reduce risk of damage or vision problems.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after prolonged standing. At 6 months pregnant, this is uncomfortable but not usually an emergency by itself if there are no other warning signs.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If wearing contacts, remove them if possible. Avoid putting pressure on the eye. Prompt medical evaluation is appropriate.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, severe headache, vision changes, chest pain, shortness of breath, or decreased fetal movement.
+=== RUN 55 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has a painful eye injury with persistent foreign-body sensation, sharp burning, tearing, and trouble opening the eye. This could be a corneal abrasion or something still stuck in the eye, which needs prompt evaluation to prevent damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue. At 6 months pregnant, that can be uncomfortable, but based on what’s described, it is less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If there was chemical exposure, flush continuously with clean water. Otherwise keep the eye closed as much as possible and seek urgent medical care.
+- Riley: Rest, hydrate, change positions, and seek care sooner if there is abdominal pain, vaginal bleeding, contractions, fluid leakage, fever, weakness/numbness, or decreased fetal movement.
+=== RUN 56 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, and inability to keep the eye open with heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/discomfort in pregnancy after prolonged standing. Important, but not as urgent based on what’s described.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there is a loose particle, gentle flushing with clean water or saline may help, but if pain continues or something seems stuck, urgent evaluation is needed.
+- Riley: Rest, hydrate, sit or lie on the left side if possible, and seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or worsening pain.
+=== RUN 57 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye opening can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue. At 6 months pregnant, lower back aching after being on her feet all day is uncomfortable but not usually an emergency by itself.
+
+Immediate guidance:
+- Alex: Do not rub the eye. If there is a chemical exposure, flush immediately with clean water for at least 15 minutes. If it’s a particle, avoid trying to dig it out. Cover or rest the eye and seek urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, decreased fetal movement, fever, weakness, or severe/worsening pain.
+=== RUN 58 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue during pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and get urgent evaluation.
+- Riley: Rest, hydrate, and seek medical care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 59 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue during pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and get urgent evaluation.
+- Riley: Rest, hydrate, and seek medical care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 60 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with **sharp burning, tearing, and a scraping sensation** suggests a **possible foreign body or corneal abrasion**, which is more urgent than routine back pain. It needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley**
+- **Why:** **Lower back aching after being on her feet all day at 6 months pregnant** sounds more consistent with **pregnancy-related strain/fatigue** and is less urgent based on the information given, assuming there are **no contractions, bleeding, severe abdominal pain, fluid leakage, or decreased fetal movement**.
+
+If you want, I can also give brief **first-aid steps for Alex’s eye** and **warning signs in pregnancy** that would make Riley more urgent.
+=== RUN 61 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with fatigue and common lower back discomfort during pregnancy, assuming there is no trauma, bleeding, contractions, severe abdominal pain, weakness, fever, or other concerning symptoms.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there is no object visibly stuck in the eye, gentle flushing with clean water or saline can be tried. Seek urgent evaluation.
+- Riley: Rest, hydrate, and get off her feet. She should be evaluated sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, severe headache, or one-sided back pain.
+=== RUN 62 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with fatigue and common lower back discomfort during pregnancy, assuming there is no trauma, bleeding, contractions, severe abdominal pain, weakness, fever, or other concerning symptoms.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there is no object visibly stuck in the eye, gentle flushing with clean water or saline can be tried. Seek urgent evaluation.
+- Riley: Rest, hydrate, and get off her feet. She should be evaluated sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, severe headache, or one-sided back pain.
+=== RUN 63 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with fatigue and common lower back discomfort during pregnancy, assuming there is no trauma, bleeding, contractions, severe abdominal pain, weakness, fever, or other concerning symptoms.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If there is no object visibly stuck in the eye, gentle flushing with clean water or saline can be tried. Seek urgent evaluation.
+- Riley: Rest, hydrate, and get off her feet. She should be evaluated sooner if she has abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, severe headache, or one-sided back pain.
+=== RUN 64 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after being on her feet, without any immediate red-flag symptoms mentioned.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded. If wearing contacts, remove them if possible. Seek urgent evaluation now.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or weakness/numbness.
+=== RUN 65 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, constant tearing, and a scraping sensation when opening the eye can indicate something stuck in the eye or damage to the cornea. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+- Riley’s symptoms sound more consistent with common back discomfort and fatigue during pregnancy, especially after being on her feet. At 6 months pregnant, this is uncomfortable but not as immediately urgent based on what’s described.
+
+Brief guidance:
+- Alex: Avoid rubbing the eye. If there is a chemical exposure, flush immediately with clean water. Otherwise, seek urgent medical care.
+- Riley: Rest, hydrate, and reduce time standing if possible. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, severe headache, or decreased fetal movement.
+=== RUN 66 ===
+Transport first: **Alex**
+
+Priority ranking:
+1. **Alex** — **Higher urgency**
+- Sharp burning eye pain, constant tearing, and a scraping sensation suggest a possible **foreign body stuck in the eye** or a **corneal abrasion**.
+- Eye injuries can worsen quickly and may threaten vision, especially if the object is embedded or chemical/metal debris is involved.
+
+2. **Riley** — **Lower urgency**
+- At 6 months pregnant, **aching lower back after being on her feet all day** is commonly due to strain and fatigue.
+- This is less urgent **unless** there are warning signs like abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or decreased fetal movement.
+
+Immediate guidance:
+- **Alex:** Do **not** rub the eye or try to dig the object out. If available, gently flush with clean water or saline. Seek urgent evaluation.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible. Seek prompt care if any pregnancy warning signs are present.
+
+If you want, I can also give a brief dispatcher-style rationale for why Alex should go first.
+=== RUN 67 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye opening can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, as described, is less immediately urgent than a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush the eye with clean water or saline. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 68 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye opening can indicate an eye injury that should be evaluated promptly to prevent damage.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but, as described, is less immediately urgent than a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush the eye with clean water or saline. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 69 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has a possible eye injury or foreign body in the eye with sharp burning, tearing, and inability to keep the eye open. This could be a corneal abrasion or something embedded in the eye and should be evaluated promptly to protect vision.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, based on what’s described. That is uncomfortable, but not as immediately urgent as a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything stuck in it. If available, gently flush with clean water or saline only if the object is loose and not embedded. Avoid pressure on the eye.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent evaluation sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, severe headache, dizziness, or decreased fetal movement.
+
+So the first transport should be Alex.
+=== RUN 70 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common fatigue/back discomfort in pregnancy, assuming there are no other warning signs.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded. Avoid pressing on it. If available, gently flush with clean water or saline only if it seems like a loose irritant; otherwise get urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible.
+
+Important pregnancy warning signs:
+If Riley also has vaginal bleeding, leaking fluid, contractions, severe abdominal pain, severe headache, vision changes, shortness of breath, chest pain, or decreased fetal movement, urgency increases and she should be evaluated promptly.
+=== RUN 71 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy after being on her feet, assuming no other warning signs are present.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Avoid pressure. If available, gently flush with clean water or saline only if it seems like a loose irritant; if pain persists, get urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, contractions, fluid leakage, fever, severe headache, weakness/numbness, or decreased fetal movement.
+=== RUN 72 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, assuming there is no trauma, bleeding, contractions, severe abdominal pain, weakness, numbness, or other concerning symptoms.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and get urgent evaluation.
+- Riley: Rest, hydrate, and seek care sooner if there are red flags like vaginal bleeding, contractions, severe pain, decreased fetal movement, dizziness, fever, or neurologic symptoms.
+=== RUN 73 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue sounds more consistent with **musculoskeletal strain/common pregnancy discomfort** if there are no other symptoms mentioned. It is important, but based on what’s provided, it is **less urgent than a possible eye injury**.
+
+**Transport first: Alex.**
+=== RUN 74 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant** with **lower back aching after being on her feet all day** and fatigue sounds more consistent with **musculoskeletal strain/common pregnancy discomfort** if there are no other symptoms mentioned. It is important, but based on what’s provided, it is **less urgent than a possible eye injury**.
+
+**Transport first: Alex.**
+=== RUN 75 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye. Sharp burning, constant tearing, and a scraping sensation when opening the eye can mean something is embedded or the cornea is scratched. Eye injuries should be evaluated promptly to help prevent vision damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after being on her feet. At 6 months pregnant, this is uncomfortable but not as urgent based on what’s described.
+
+Immediate guidance:
+- Alex: Do not rub the eye. If there is a contact lens, remove it if possible. You can gently flush the eye with clean water or saline, but do not try to remove anything embedded and do not patch the eye. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and lie on the left side if possible. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, severe headache, dizziness, shortness of breath, or decreased fetal movement.
+=== RUN 76 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/discomfort in pregnancy after being on her feet, assuming there are no other symptoms.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. If available, gently flush with clean water or saline only if it seems like a loose irritant. Seek urgent evaluation.
+- Riley: Rest, hydrate, and reduce time standing. She should be evaluated sooner if she has abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+
+If you want, I can also give a brief dispatcher-style triage note for each.
+=== RUN 77 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/discomfort during pregnancy, especially after being on her feet all day, and are less urgent based on what’s described.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if able. Seek care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or other concerning symptoms.
+=== RUN 78 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but not as immediately urgent as a possible eye injury.
+
+What to do now:
+- Alex: Avoid rubbing the eye or trying to remove anything further. If available, gently flush with clean water or saline, but do not force it. Seek urgent medical care.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should seek care sooner if she has abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 79 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye injury or foreign body stuck in the eye, with sharp burning pain, tearing, and a scraping sensation. This could mean a corneal abrasion or embedded object and needs prompt medical evaluation to protect vision.
+- Riley’s lower back aching after being on her feet at 6 months pregnant sounds uncomfortable but, as described, is more consistent with strain/fatigue and is less urgent than a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything further. If available, gently flush with clean water or saline, but if pain continues or something seems stuck, seek urgent care/ER evaluation promptly.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent evaluation sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 80 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye. Sharp burning, constant tearing, and a scraping sensation when opening the eye suggest possible corneal abrasion or embedded material. Eye injuries should be evaluated promptly to reduce risk of damage.
+- Riley’s symptoms sound more consistent with fatigue and lower back discomfort after prolonged standing during pregnancy. At 6 months pregnant, that can be common, and based on what’s described there are no immediate red-flag symptoms.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If there is a chemical exposure, flush immediately with clean water. Otherwise keep the eye closed or loosely covered and seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is abdominal pain, vaginal bleeding, fluid leakage, contractions, severe headache, dizziness, or decreased fetal movement.
+=== RUN 81 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye foreign body or corneal abrasion. Sharp burning, tearing, and a scraping sensation with eye opening can indicate something stuck in the eye or damage to the cornea, which needs prompt evaluation to prevent worsening injury.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but is more consistent with common pregnancy-related back strain, assuming no other concerning symptoms.
+
+Immediate guidance:
+- Alex: Do not rub the eye. If there is a visible object stuck in the eye, do not try to remove it. If available, gently flush with clean water or saline only if it seems like a loose irritant; if pain persists or anything is embedded, seek urgent care/ER evaluation.
+- Riley: Rest, hydrate, and lie on the left side if possible. Seek urgent evaluation sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+=== RUN 82 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has a painful eye injury with persistent foreign-body sensation, sharp burning, heavy tearing, and difficulty opening the eye. That could mean a corneal abrasion or something still stuck in the eye, which needs prompt evaluation.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, assuming there are no other concerning symptoms.
+
+What to do now:
+- Alex: Avoid rubbing the eye or trying to dig anything out. If there is a chemical exposure, flush immediately with clean water. Otherwise, keep the eye closed and get urgent medical evaluation.
+- Riley: Rest, hydrate, and seek care sooner if there is abdominal pain, vaginal bleeding, contractions, fluid leakage, decreased fetal movement, fever, or severe/worsening pain.
+
+So the first transport should be Alex.
+=== RUN 83 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This is more urgent and should be evaluated promptly to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, by itself, sounds less immediately urgent than a possible eye injury. It could be routine strain, though pregnancy-related symptoms should still be monitored.
+
+**Answer: Alex should be transported first.**
+=== RUN 84 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye. Sharp burning, constant tearing, and a scraping sensation when opening the eye suggest possible corneal abrasion or embedded material, which needs prompt medical evaluation to protect vision.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after prolonged standing. At 6 months pregnant, this is uncomfortable but not as immediately urgent based on what’s described.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush with clean water or saline only if it is a loose irritant, but if pain persists or something seems stuck, keep the eye closed and seek urgent care/ER evaluation.
+- Riley: Rest, hydrate, sit or lie on the left side if possible, and avoid prolonged standing. She should seek prompt medical care if she develops abdominal pain, vaginal bleeding, fluid leakage, contractions, severe headache, vision changes, or decreased fetal movement.
+=== RUN 85 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after being on her feet, without any immediate red-flag symptoms mentioned.
+
+What to do now:
+- Alex: Avoid rubbing the eye or trying to remove anything embedded. Keep the eye closed if possible and get urgent medical care.
+- Riley: Rest, hydrate, and seek medical care sooner if there is abdominal pain, vaginal bleeding, contractions, decreased fetal movement, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 86 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs of a possible eye foreign body or corneal abrasion: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, based on what’s described. That is uncomfortable but not as urgent as a potentially injured eye.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to dig anything out. If there is no object visibly stuck in the eye, gentle flushing with clean water or saline may help, but urgent evaluation is still appropriate.
+- Riley: Rest, hydrate, and avoid prolonged standing. Seek care sooner if there is abdominal pain, vaginal bleeding, contractions, fluid leakage, severe headache, or decreased fetal movement.
+
+So the first transport should be Alex.
+=== RUN 87 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **6 months pregnant with lower back aching after being on her feet** sounds uncomfortable but, as described, is **less immediately urgent** than a possible eye injury. It may be routine strain, though pregnancy symptoms should still be monitored.
+
+If you want, I can also give a brief dispatcher-style instruction for each patient while waiting for transport.
+=== RUN 88 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/fatigue during pregnancy, based on what’s described. Important, but not as urgent as a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded. If available, gently flush with clean water or saline only if it is loose debris; if pain continues or vision is affected, urgent evaluation is needed.
+- Riley: Rest, hydrate, and avoid prolonged standing. Seek urgent care sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, severe headache, or decreased fetal movement.
+=== RUN 89 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Eye injury with persistent foreign body sensation, sharp burning pain, heavy tearing, and inability to keep the eye open suggests possible corneal abrasion or retained foreign body. This is more urgent and should be evaluated promptly to prevent eye damage.
+2. Riley — Lower back aching and fatigue at 6 months pregnant, after being on her feet all day, sounds uncomfortable but less immediately urgent based on the information given.
+
+Recommended actions:
+- Alex: Avoid rubbing the eye. If there is any chemical exposure, flush immediately with clean water. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and reduce activity. If she has abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or other concerning symptoms, she should be evaluated promptly.
+=== RUN 90 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs of a possible eye foreign body or corneal abrasion: sharp burning, scraping sensation, inability to keep the eye open, heavy tearing. This needs prompt evaluation to prevent eye damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, assuming no other concerning symptoms are present.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything further. If available, gently flush with clean water or saline, but if pain continues or something seems stuck, seek urgent care/ER evaluation promptly.
+- Riley: Rest, hydrate, and avoid prolonged standing. Seek urgent evaluation sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or weakness/numbness.
+=== RUN 91 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, as described, sounds **less immediately urgent** than a possible eye injury. It could be routine strain, though pregnancy-related symptoms should still be assessed.
+
+**Transport first:** **Alex**
+=== RUN 92 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex’s symptoms suggest a possible eye injury or foreign body stuck in the eye, with sharp pain, tearing, and inability to keep the eye open. This could threaten vision and should be evaluated promptly.
+- Riley’s lower back aching after being on her feet all day at 6 months pregnant sounds uncomfortable but is less immediately urgent based on the information given.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to dig anything out. If available, gently flush with clean water or saline. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should seek care sooner if the pain becomes severe, rhythmic, is accompanied by abdominal pain, bleeding, fluid leakage, dizziness, or decreased fetal movement.
+=== RUN 93 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the eye.
+- Riley’s symptoms sound more consistent with common back strain/fatigue in pregnancy, based on what’s described. That is uncomfortable, but less urgent than a possible eye injury.
+
+Immediate advice:
+- Alex: Do not rub the eye or try to remove anything with fingers or tools. If available, gently flush with clean water or saline. Seek urgent evaluation.
+- Riley: Rest, hydrate, and avoid prolonged standing. She should be evaluated sooner if she has abdominal pain, vaginal bleeding, contractions, leakage of fluid, severe headache, or decreased fetal movement.
+=== RUN 94 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye. Sharp burning, constant tearing, and a scraping sensation when opening the eye could mean a corneal abrasion or embedded object, which needs prompt evaluation to protect vision.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue, assuming there is no trauma, bleeding, contractions, severe abdominal pain, shortness of breath, severe headache, or decreased fetal movement.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything further. If available, gently flush with clean water or saline, but do not force removal of anything embedded. Keep the eye closed if that helps and seek urgent medical care.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. She should be evaluated sooner if she has contractions, vaginal bleeding, leaking fluid, severe pain, fever, weakness/numbness, or decreased fetal movement.
+=== RUN 95 ===
+1. **Alex — transport first**
+- **Why:** A painful eye injury with a persistent foreign body sensation, sharp burning, heavy tearing, and inability to keep the eye open could mean a **corneal abrasion or something stuck in the eye**. This needs prompt medical evaluation to prevent worsening injury or vision problems.
+
+2. **Riley — transport second**
+- **Why:** **Lower back aching and fatigue at 6 months pregnant** after being on her feet all day is concerning but, as described, is **less immediately urgent** than a possible eye injury. It could be routine strain, though pregnancy-related symptoms should still be assessed if they worsen or are accompanied by abdominal pain, contractions, bleeding, fluid leakage, or decreased fetal movement.
+
+**Transport first: Alex.**
+=== RUN 96 ===
+Transport first: Alex
+
+Priority ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or foreign body stuck in the eye, with sharp burning pain, tearing, and a scraping sensation when opening the eye. This could mean a corneal abrasion or embedded object and should be evaluated promptly to prevent damage.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after being on her feet, assuming there is no abdominal pain, bleeding, contractions, dizziness, shortness of breath, or decreased fetal movement.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to dig anything out. If there is a chemical exposure, flush immediately with clean water. Otherwise keep the eye closed as much as possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and sit or lie on the left side if possible. Seek urgent care sooner if there is vaginal bleeding, fluid leakage, contractions, severe pain, headache, vision changes, or decreased fetal movement.
+=== RUN 97 ===
+Transport first: **Alex**
+
+Priority ranking:
+1. **Alex** — **Higher urgency**
+- Sharp burning eye pain, constant tearing, and a scraping sensation suggest a possible **foreign body stuck in the eye** or a **corneal abrasion**.
+- This needs prompt medical evaluation to prevent damage to the eye and vision.
+
+2. **Riley** — **Lower urgency**
+- At 6 months pregnant, **aching lower back after being on her feet all day** is often less urgent if there are no other warning signs.
+- She should still be assessed, but this is not as immediately concerning as a possible eye injury.
+
+Immediate advice:
+- **Alex:** Do **not** rub the eye or try to dig anything out. If available, gently flush with clean water or saline. Seek urgent care/ER evaluation.
+- **Riley:** Rest, hydrate, and sit or lie on the left side if possible. If she has **abdominal pain, contractions, vaginal bleeding, leaking fluid, decreased fetal movement, fever, or severe/worsening pain**, she needs urgent evaluation.
+=== RUN 98 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common back strain/fatigue during pregnancy, based on what’s described. That is uncomfortable, but not as immediately urgent as a possible eye injury.
+
+Immediate guidance:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and seek urgent evaluation.
+- Riley: Rest, hydrate, and get checked sooner if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, weakness/numbness, or severe/worsening pain.
+=== RUN 99 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has signs concerning for an eye injury or a foreign body stuck in the eye: sharp burning, scraping sensation, inability to keep the eye open, and heavy tearing. This needs prompt medical evaluation to prevent damage to the cornea.
+- Riley’s symptoms sound more consistent with common pregnancy-related back strain and fatigue after being on her feet, assuming no other warning signs are present.
+
+What to do now:
+- Alex: Do not rub the eye or try to remove anything embedded in it. Keep the eye closed if possible and get urgent medical care.
+- Riley: Rest, hydrate, and seek medical care sooner if there are red flags like abdominal pain, contractions, vaginal bleeding, fluid leakage, fever, severe headache, or decreased fetal movement.
+=== RUN 100 ===
+Transport first: Alex
+
+Urgency ranking:
+1. Alex — Higher urgency
+2. Riley — Lower urgency
+
+Why:
+- Alex has a possible eye injury or foreign body with sharp pain, tearing, and a scraping sensation. This could mean something is stuck in the eye or there is a corneal abrasion, which needs prompt evaluation to protect vision.
+- Riley’s symptoms sound more consistent with fatigue and lower back discomfort during pregnancy after prolonged standing. That is uncomfortable, but based on what’s described, it is less urgent than a potentially vision-threatening eye problem.
+
+Immediate advice:
+- Alex: Do not rub the eye. If there is a chemical exposure, flush immediately with clean water. Otherwise avoid trying to dig anything out. Seek urgent medical evaluation.
+- Riley: Rest, hydrate, sit or lie on the left side if possible, and monitor symptoms. Seek prompt care if there is abdominal pain, contractions, vaginal bleeding, fluid leakage, decreased fetal movement, severe headache, or worsening pain.
